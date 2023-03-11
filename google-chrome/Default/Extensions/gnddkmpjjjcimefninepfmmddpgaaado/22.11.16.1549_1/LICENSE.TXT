@@ -1,0 +1,15 @@
+
+
+/*
+------------------------------------------------------------------------
+Copyright (C) Youmebee Limited / directprint.io 2022 All Rights Reserved
+Unauthorized copying of this file, via any medium is strictly prohibited
+Proprietary and confidential
+Author: Youmebee Limited t/a directprint.io <help@directprint.io> 2022
+------------------------------------------------------------------------
+
+This software uses 3rd party libraries, please see LICENSES.TXT or the
+'Software Licenses' link for details.
+
+*/
+

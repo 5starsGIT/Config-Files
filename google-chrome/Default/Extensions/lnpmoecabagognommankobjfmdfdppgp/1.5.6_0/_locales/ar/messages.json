@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "تطبيق مجاني يمكن من صرف و تحويل جميع الافعال باللغة الفرنسية في جميع الازمنة  و ذلك في  : Vatefaireconjuguer"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "صرف الافعال Vatefaireconjuguer"
+   }
+}

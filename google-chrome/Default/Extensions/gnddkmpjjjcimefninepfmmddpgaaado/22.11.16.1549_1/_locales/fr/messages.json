@@ -1,0 +1,758 @@
+{
+   "account_code_box_empty": {
+      "description": "[GTR] Accounting code neets to be at least one character for the box to accept an entry. shown as toast/snackbar to user (temporary on screen message)",
+      "message": "Veuillez fournir un code comptable à imprimer"
+   },
+   "color": {
+      "description": "[GTR] Color",
+      "message": "Couleur"
+   },
+   "config_cache_deleted": {
+      "description": "[GTL] Notify the user the printer config cache has been deleted",
+      "message": "Cache de configuration d'imprimante supprimé"
+   },
+   "credit_copy": {
+      "description": "[GTR] The remaining print page limits in page values",
+      "message": "Copier les pages restantes"
+   },
+   "credit_print": {
+      "description": "[GTR] The remaining print page limits in page values",
+      "message": "Imprimer les pages restantes"
+   },
+   "credit_value": {
+      "description": "[GTR] Amount of credit remaining to print with (in currency)",
+      "message": "Crédit restant"
+   },
+   "dpio_edge_node_sign_in": {
+      "description": "[GTL] Link to show a popup to sign in as an Edge Node",
+      "message": "Connectez-vous en tant que dpio Edge Node"
+   },
+   "edge_node_select_title": {
+      "description": "[GTL] title when prompting the user to select an Edge Node",
+      "message": "Sélectionnez le nœud périphérique"
+   },
+   "edge_print_auth_cleared": {
+      "description": "[GTL] Notify the user the printer Edge Print authorization has been cleared",
+      "message": "Effacer l'autorisation d'impression Edge"
+   },
+   "environment_quickcode": {
+      "description": "[GTL] State that the allocation was via an OS. Environment Variable settting QuickCodes",
+      "message": "Code rapide d'environnement"
+   },
+   "error_with_status_code": {
+      "description": "[GTL] Show an error with a given status code",
+      "message": "Erreur : code d'état $CODE$",
+      "placeholders": {
+         "code": {
+            "content": "$1",
+            "example": "404"
+         }
+      }
+   },
+   "follow_me_app_key": {
+      "description": "[GTL] Application Suivez-moi",
+      "message": "Follow Me App"
+   },
+   "follow_me_app_value": {
+      "description": "[GTL] Button text for the user selecting to show the release app install",
+      "message": "Afficher l'installation de l'application de la version"
+   },
+   "ink_save_2_up": {
+      "description": "[GTL] Whether to print 2 pages side by side to every one sheet of paper (checkbox)",
+      "message": "impression 2 poses"
+   },
+   "ink_save_best": {
+      "description": "[GTL] The best quality ink save profile (no ink saving)",
+      "message": "Meilleure"
+   },
+   "ink_save_dont_print_blank": {
+      "description": "[GTL] Whether to skip over printing blank pages during the print (checkbox)",
+      "message": "N'imprimez pas de pages blanches"
+   },
+   "ink_save_dont_print_nblank": {
+      "description": "[GTL] Whether to skip over printing nearly blank pages during the print (checkbox)",
+      "message": "N'imprimez pas de pages presque vierges"
+   },
+   "ink_save_draft": {
+      "description": "[GTL] Draft ink usage profile",
+      "message": "Brouillon"
+   },
+   "ink_save_estimated_saving": {
+      "description": "[GTL] The amount of ink that can be saved by using the current ink save profile instead of \"Best\"",
+      "message": "Estimation de l'utilisation de l'encre de la page par rapport à la \"Meilleure\" qualité"
+   },
+   "ink_save_mono": {
+      "description": "[GTL] Monochrome ink usage profile",
+      "message": "Mono"
+   },
+   "ink_save_printing_xofx": {
+      "description": "[GTL] Notify the number of pages against total pages to be printed",
+      "message": "Impression de $PAGES$ pages sur $TOTAL$",
+      "placeholders": {
+         "pages": {
+            "content": "$1",
+            "example": "1"
+         },
+         "total": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "ink_save_saver": {
+      "description": "[GTL] (Save ink) Reduced ink usage profile",
+      "message": "Épargnante"
+   },
+   "ink_save_saving": {
+      "description": "[GTL] A percentage of the amount of ink being saved",
+      "message": "$PERCENT$% d'économie",
+      "placeholders": {
+         "percent": {
+            "content": "$1",
+            "example": "78"
+         }
+      }
+   },
+   "ink_save_superdraft": {
+      "description": "[GTL] (very draft) Superdraft ink usage profile",
+      "message": "Super-draft"
+   },
+   "ink_save_tooltip_best": {
+      "description": "[GTL] tooltip popup for \"best\" ink saving option",
+      "message": "Pas de baisse de qualité"
+   },
+   "ink_save_tooltip_draft": {
+      "description": "[GTL] tooltip popup for \"draft\" ink saving option",
+      "message": "Supprime toutes les couleurs, réduit l'intensité du noir pour économiser l'encre/le toner"
+   },
+   "ink_save_tooltip_mono": {
+      "description": "[GTL] tooltip popup for \"mono\" ink saving option",
+      "message": "Supprime toutes les couleurs"
+   },
+   "ink_save_tooltip_saver": {
+      "description": "[GTL] tooltip popup for \"saver\" ink saving option",
+      "message": "Utilise moins de toner/encre tout en conservant les images et le texte"
+   },
+   "ink_save_tooltip_superdraft": {
+      "description": "[GTL] tooltip popup for \"superdraft\" ink saving option",
+      "message": "Supprime toutes les couleurs, réduit encore plus l'intensité du noir"
+   },
+   "ink_save_tooltip_ultradraft": {
+      "description": "[GTL] tooltip popup for \"ultradraft\" ink saving option",
+      "message": "Supprime toutes les couleurs, supprime la plupart des images"
+   },
+   "ink_save_tooltip_zap": {
+      "description": "[GTL] tooltip popup for \"image zap\" ink saving option",
+      "message": "Profil d'utilisation d'encre encore plus réduit"
+   },
+   "ink_save_ultradraft": {
+      "description": "[GTL] (very very draft) Ultradraft ink usage profile",
+      "message": "Ultradraft"
+   },
+   "ink_save_zap": {
+      "description": "[GTL] Further reduced ink usage profile",
+      "message": "Zap de l'image"
+   },
+   "job_account_code_entry_choose": {
+      "description": "[GTL] Placeholder text for the dropdown seleciton box to pick an accounting code",
+      "message": "Sélectionnez le code"
+   },
+   "job_account_code_entry_fill": {
+      "description": "[GTL] Placeholder text for the freeform entry box to enter an accounting code",
+      "message": "Entrez le code"
+   },
+   "job_account_code_entry_text": {
+      "description": "[GTL] to follow on with job_account_code_entry_title, jobname on printername",
+      "message": "$job$ sur $printer$",
+      "placeholders": {
+         "job": {
+            "content": "$1",
+            "example": "directprint.io job"
+         },
+         "printer": {
+            "content": "$2",
+            "example": "Bens home printer"
+         }
+      }
+   },
+   "job_account_code_entry_title": {
+      "description": "[GTL] Title for modal popup requiring the user to input an accounting code",
+      "message": "En attente du code comptable"
+   },
+   "job_make_default_check": {
+      "description": "[GTL] Text for checkbox to make the current code default for the next time",
+      "message": "Faire défaut"
+   },
+   "job_multiple_copies": {
+      "description": "[GTL] Number of copies of the current job to print (multiple)",
+      "message": "$NUM$ copies",
+      "placeholders": {
+         "num": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "job_no_jobs": {
+      "description": "The placeholder text for when there are no current print jobs",
+      "message": "Pas de document en attente"
+   },
+   "job_popup_cancel": {
+      "description": "[GTL] Notification to user as they are cancelling a print job",
+      "message": "Êtes-vous sûr de vouloir annuler ce travail?"
+   },
+   "job_single_copy": {
+      "description": "[GTL] Number of copies of the current job to print (singular)",
+      "message": "1 copie"
+   },
+   "job_state_acc_code_select": {
+      "description": "[GTL] Current job state - the job is awaiting the user to select and accounting code",
+      "message": "Sélectionnez le code comptable"
+   },
+   "job_state_back_off": {
+      "description": "[GTL] Current job state - the job is awaiting retry on a printer",
+      "message": "Reculez"
+   },
+   "job_state_claimed": {
+      "description": "[GTL] Current job state - the job has been claimed by another print node",
+      "message": "Revendiqué"
+   },
+   "job_state_complete": {
+      "description": "[GTL] Current job state - the job has been completed",
+      "message": "Finir"
+   },
+   "job_state_converted": {
+      "description": "[GTL] Current job state - the job has been converted",
+      "message": "Convertie"
+   },
+   "job_state_converting": {
+      "description": "[GTL] Current job state - the job is converting",
+      "message": "Conversion"
+   },
+   "job_state_created": {
+      "description": "[GTL] Current job state - the job has been created",
+      "message": "Créée"
+   },
+   "job_state_download_failed": {
+      "description": "[GTL] Current job state - the job download has failed and it's awaiting to retry",
+      "message": "Télécharger Réessayer en file d'attente"
+   },
+   "job_state_downloading": {
+      "description": "[GTL] Current job state - the job is downloading from the cloud",
+      "message": "Téléchargement"
+   },
+   "job_state_error": {
+      "description": "[GTL] Current job state - the job has errored and will not continue",
+      "message": "Erreur"
+   },
+   "job_state_follow_me_prompt": {
+      "description": "[GTL] Current job state - the job is awaitng the user to confirm the follow-me prompt",
+      "message": "Invite de suivi"
+   },
+   "job_state_invalid": {
+      "description": "[GTL] Current job state - the job is in an unknown/invalid state",
+      "message": "Invalide"
+   },
+   "job_state_pin_required": {
+      "description": "[GTL] Current job state - the job is awaiting PIN release",
+      "message": "NIP requis"
+   },
+   "job_state_printer_stalled": {
+      "description": "[GTL] Current job state - the job has been stalled due to a printer issue",
+      "message": "Imprimante bloquée"
+   },
+   "job_state_printing": {
+      "description": "[GTL] The job is currently printing on the printer $PRINTER_NAME$",
+      "message": "impression sur $PRINTER_NAME$",
+      "placeholders": {
+         "printer_name": {
+            "content": "$1",
+            "example": "Ben HP Cloud"
+         }
+      }
+   },
+   "job_state_queued": {
+      "description": "[GTL] Current job state - the job is queued waiting for printer availability",
+      "message": "En file d'attente"
+   },
+   "job_state_started": {
+      "description": "[GTL] Current job state - the job has been started",
+      "message": "A débuté"
+   },
+   "job_state_uploading": {
+      "description": "[GTL] Current job state - the job is uploading to the cloud",
+      "message": "Téléchargement"
+   },
+   "job_state_user_cancelled": {
+      "description": "[GTL] Current job state - the job has been cancelled by the user",
+      "message": "Utilisateur annulé"
+   },
+   "job_state_user_input": {
+      "description": "[GTL] Current job state - the job is waiting for user input",
+      "message": "Choisissez le mode"
+   },
+   "job_state_validating_acc": {
+      "description": "[GTL] Current job state - the job is validating the given accounting code",
+      "message": "Validation du code comptable"
+   },
+   "mono": {
+      "description": "[GTR] Short for monochrome",
+      "message": "Mono"
+   },
+   "nav_add": {
+      "description": "[GTL] Clickable button for adding an option",
+      "message": "Ajouter"
+   },
+   "nav_allow": {
+      "description": "[GTL] Clickable button to grant permission",
+      "message": "Autoriser"
+   },
+   "nav_back": {
+      "description": "[GTL] Clickable button to go back",
+      "message": "Retour"
+   },
+   "nav_cancel": {
+      "description": "[GTL] Clickable button to cancel a prompt",
+      "message": "Annuler"
+   },
+   "nav_config": {
+      "description": "[GTL] shorthand for 'Configuration', link to page",
+      "message": "Configuration"
+   },
+   "nav_enter": {
+      "description": "Clickable button to enter some input",
+      "message": "Entrer"
+   },
+   "nav_go": {
+      "description": "[aller/partir etc. felt wrong, translator friend reccommended keep 'go' for now] Clickable button to go forward with a submission",
+      "message": "Go"
+   },
+   "nav_ok": {
+      "description": "[same as 'go' above, recommended to keep 'ok'] Clickable button to ok a prompt",
+      "message": "OK"
+   },
+   "nav_print": {
+      "description": "[GTL] Clickable button to continue to print",
+      "message": "Imprimer"
+   },
+   "nav_printers": {
+      "description": "[GTL] shorthand for 'Active Printer List', link to page",
+      "message": "Imprimantes"
+   },
+   "nav_queue": {
+      "description": "[GTL] shorthand for 'Print Queue', link to page",
+      "message": "File d'attente"
+   },
+   "nav_remove": {
+      "description": "Clickable button for removing an option",
+      "message": "Éliminer"
+   },
+   "nav_yes": {
+      "description": "[GTL] Clickable button for yes on a notification",
+      "message": "Oui"
+   },
+   "no_admin_user_data": {
+      "description": "[GTL] Notify the user that no data has been set by the admin for them",
+      "message": "Aucun ensemble de données d'utilisateur administrateur"
+   },
+   "no_advanced_options": {
+      "description": "[GTL] Notification to the user that there are no advanced options available for the given printer",
+      "message": "Pas d'options avancées pour $printer$",
+      "placeholders": {
+         "printer": {
+            "content": "$1",
+            "example": "Canon 1234"
+         }
+      }
+   },
+   "no_id": {
+      "description": "[GTL] Stating that there is no ID found",
+      "message": "Aucune pièce d'identité"
+   },
+   "not_available": {
+      "description": "[GTL] statement that the given settings value is currently not available",
+      "message": "Indisponible"
+   },
+   "printer_advanced": {
+      "description": "[GTL] Clickable text to go to printer advanced options from menu drop down",
+      "message": "Options avancées"
+   },
+   "printer_bridge_direct": {
+      "description": "[GTL] Printer is connected directly",
+      "message": "Direct"
+   },
+   "printer_bridge_proxy": {
+      "description": "[GTL] Printer is connected via a networked bridge at the given IP $ADDRESS$",
+      "message": "Pont: $ADDRESS$",
+      "placeholders": {
+         "address": {
+            "content": "$1",
+            "example": "192.168.0.12"
+         }
+      }
+   },
+   "printer_bridge_title": {
+      "description": "[GTL] Is the printer connected directly or via a networked bridge e.g. proxy",
+      "message": "Ponté / Direct"
+   },
+   "printer_capability_cached": {
+      "description": "[GTL] Capabilitiesof the printer cached on the given localized $DATE$",
+      "message": "En cache: $DATE$",
+      "placeholders": {
+         "date": {
+            "content": "$1",
+            "example": "18/03/2021, 9:56:43"
+         }
+      }
+   },
+   "printer_capability_fetched_on_print": {
+      "description": "Capabilities fetched on print",
+      "message": "[GTL] Récupéré sur impression"
+   },
+   "printer_capability_title": {
+      "description": "[GTL] State of printer capabilities - cached or fetched on print",
+      "message": "la capacité"
+   },
+   "printer_enter_quickcode": {
+      "description": "Label for the QuickCode text entry box",
+      "message": "Taper code rapide"
+   },
+   "printer_enter_quickcode_modal": {
+      "description": "Modal title for the enter a QuickCode modal",
+      "message": "[GTL] Entrez le code rapide pour ajouter une imprimante"
+   },
+   "printer_format_detect_fail": {
+      "description": "[GTL] Note that the detection of printer formats failed",
+      "message": "Échec de la détection automatique"
+   },
+   "printer_format_title": {
+      "description": "[GTL] List of formats the printer supports",
+      "message": "Prise en charge des formats d'imprimante"
+   },
+   "printer_icon_edge": {
+      "description": "[GTL] The printer is a network printer that can be printed to via cloud infrastructure",
+      "message": "Imprimante de bord"
+   },
+   "printer_icon_local": {
+      "description": "[GTL] The printer is local and can be printed to immediately",
+      "message": "Impression immédiate"
+   },
+   "printer_icon_queue": {
+      "description": "[GTL] The printer is a network queue that can be printed to via cloud infrastructure",
+      "message": "Imprimante de file d'attente"
+   },
+   "printer_icon_secure": {
+      "description": "[GTL] The printer requires a PIN to release print jobs",
+      "message": "Imprimante sécurisée - utilisez le code PIN"
+   },
+   "printer_icon_unavailable": {
+      "description": "[GTL] The printer is not available for use",
+      "message": "Imprimante indisponible"
+   },
+   "printer_multiple_printers_allocated": {
+      "description": "[GTL] Notification to user that the client has allocated $COUNT$ (2 or more) printers to the user",
+      "message": "$COUNT$ imprimantes attribuées",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "4"
+         }
+      }
+   },
+   "printer_no_printers": {
+      "description": "[GTL] Message on screen that highlights to the user that they have no printers",
+      "message": "Vous n'avez aucune imprimante active"
+   },
+   "printer_no_usb_nwjs": {
+      "description": "[GTL] Notification to user that the app needs USB permssions to talk to a printer",
+      "message": "Impression USB indisponible"
+   },
+   "printer_one_printers_allocated": {
+      "description": "[GTL] Notification to user that the client has allocated 1 printer to the user",
+      "message": "1 imprimante allouée"
+   },
+   "printer_popup_delete": {
+      "description": "[GTL] Notification to user as they are removing a printer",
+      "message": "Voulez-vous vraiment supprimer cette imprimante?"
+   },
+   "printer_status_accepting": {
+      "description": "[GTL] Printer is able to accept new print jobs",
+      "message": "Accepter des tâches"
+   },
+   "printer_status_not_accepting": {
+      "description": "[GTL] Printer is not able to accept new print jobs",
+      "message": "Ne pas accepter les tâches"
+   },
+   "printer_status_not_queried": {
+      "description": "[GTL] Status of printer for non contactable printers",
+      "message": "Imprimante non interrogée"
+   },
+   "printer_status_offline": {
+      "description": "[GTL] Offline status of printer",
+      "message": "Hors ligne"
+   },
+   "printer_status_online": {
+      "description": "[GTL] Online status of printer",
+      "message": "En ligne"
+   },
+   "printer_status_title": {
+      "description": "[GTL] Current identified status of the printer",
+      "message": "État de l'imprimante"
+   },
+   "printer_status_unknown": {
+      "description": "[GTL] Printer is not contactable and status is unknown, we will still attempt to print",
+      "message": "Inconnu : l'impression sera tentée"
+   },
+   "printer_test_cannot_resolve": {
+      "description": "[GTL] Connection status result when the printer is not contactable at all",
+      "message": "Le pilote ne peut pas contacter l'imprimante, tous les tests ont échoué. Veuillez vérifier que l'imprimante est allumée et que le trafic TCP n'est pas bloqué."
+   },
+   "printer_tests": {
+      "description": "[GTL] Clickable text to go to printer information and run connection tests against it from menu drop down",
+      "message": "Essai de connexion"
+   },
+   "printer_tests_bridge": {
+      "description": "[GTL] Printer connnected via network bridge, no protocol tests available",
+      "message": "Pas de test - ponté"
+   },
+   "printer_tests_ipp_available": {
+      "description": "[GTL] Printer can connect via IPP protocol",
+      "message": "IPP Disponible"
+   },
+   "printer_tests_ipp_connect_fail": {
+      "description": "[GTL] Notify the user that the printer cannot connect via $TEST$ due to the reason listed against $TEST_STATUS%",
+      "message": "Impossible de se connecter via $TEST$, voir l'erreur par rapport à $TEST_STATUS$ ci-dessous",
+      "placeholders": {
+         "test": {
+            "content": "$1",
+            "example": "IPP (631)"
+         },
+         "test_status": {
+            "content": "$2",
+            "example": "IPP 631 Status"
+         }
+      }
+   },
+   "printer_tests_ipps_available": {
+      "description": "[GTL] Printer can connect via IPPS protocol",
+      "message": "IPPS Disponible"
+   },
+   "printer_tests_port_closed": {
+      "description": "[GTL] Connection status result when the printer can't connect on the given port",
+      "message": "Port fermé"
+   },
+   "printer_tests_port_connecting": {
+      "description": "[GTL] Connection status result during test run",
+      "message": "De liaison..."
+   },
+   "printer_tests_port_not_available": {
+      "description": "[GTL] Connection status result for network test stack not being available",
+      "message": "Test non disponible"
+   },
+   "printer_tests_port_title": {
+      "description": "[GTL] Status of connecting to the printer on port $NUMBER$",
+      "message": "État du port $NUMBER$",
+      "placeholders": {
+         "number": {
+            "content": "$1",
+            "example": "631"
+         }
+      }
+   },
+   "printer_tests_title": {
+      "description": "[GTL] Tests to run against the printer",
+      "message": "Essais"
+   },
+   "printer_tests_usb": {
+      "description": "[GTL] Printer connnected via USB protocol, other protocols not applicable",
+      "message": "Non applicable - USB connecté"
+   },
+   "printer_uri": {
+      "description": "[GTL] URI of the printer",
+      "message": "URI"
+   },
+   "printer_usb_permission": {
+      "description": "[GTL] Notification to user that the app needs USB permssions to talk to a printer",
+      "message": "Autorisations USB requises"
+   },
+   "settings_acc_code": {
+      "description": "The default accounting code to use for a print job",
+      "message": "Code comptable"
+   },
+   "settings_admin_user_config": {
+      "description": "[GTL] Any adming specific configruation forced onto the user",
+      "message": "L'administrateur définit la configuration de l'utilisateur"
+   },
+   "settings_chrome_ver": {
+      "description": "Version of Chrome the app is running on",
+      "message": "Version Chrome"
+   },
+   "settings_clear_cache": {
+      "description": "[GTL] Button to clear the cached capabilities of the printers",
+      "message": "Dégager"
+   },
+   "settings_device_id": {
+      "description": "The ID of the given device",
+      "message": "ID du périphérique"
+   },
+   "settings_dpio_service": {
+      "description": "[GTL] The directprint.io server status and version",
+      "message": "Version de la plate-forme Directprint.io"
+   },
+   "settings_dpio_service_unavailable": {
+      "description": "[GTL] An issue with contacting the server followed by the specific $status$",
+      "message": "Service non disponible: $STATUS$",
+      "placeholders": {
+         "status": {
+            "content": "$1",
+            "example": "Error 404"
+         }
+      }
+   },
+   "settings_edge": {
+      "description": "[GTL] settings heading name for part of our product 'Edge Print'",
+      "message": "Impression de bord"
+   },
+   "settings_edge_node_name": {
+      "description": "[GTL] heading name for the name of the logged in edge node",
+      "message": "Nœud périphérique"
+   },
+   "settings_licenses_link": {
+      "description": "Link to the software licenses",
+      "message": "Licences du logiciel"
+   },
+   "settings_log": {
+      "description": "The debug log of the application",
+      "message": "Journal"
+   },
+   "settings_os": {
+      "description": "Operating system of the device the app is running on",
+      "message": "Système d'exploitation"
+   },
+   "settings_ou_group": {
+      "description": "The Organizational unit / group the user belongs to",
+      "message": "UO/Groupe"
+   },
+   "settings_pin": {
+      "description": "The pin number used to secure jobs for printers that require a pin",
+      "message": "NIP sécuritaire d'impression"
+   },
+   "settings_printer_capablilities": {
+      "description": "[GTL] The capablilities of the printers",
+      "message": "Cache de capacité de l'imprimante"
+   },
+   "settings_printers_allocated": {
+      "description": "How the printers were allocated to the application",
+      "message": "Imprimante installée comme"
+   },
+   "settings_privacy_link": {
+      "description": "Link to the privacy policy",
+      "message": "Politique de confidentialité"
+   },
+   "settings_reset_edge": {
+      "description": "[GTL] Reset any 'Edge Print' configuration",
+      "message": "Réinitialiser l'impression des bords"
+   },
+   "settings_unlink_user": {
+      "description": "[GTL] Button to sign the user out and unlink their account",
+      "message": "Supprimer le compte lié"
+   },
+   "settings_userid": {
+      "description": "The user ID of the logged in user",
+      "message": "Nom d'utilisateur: $UUID$",
+      "placeholders": {
+         "uuid": {
+            "content": "$1",
+            "example": "123456789012345678901"
+         }
+      }
+   },
+   "settings_version": {
+      "description": "[GTL] client version header",
+      "message": "Version"
+   },
+   "sign_in": {
+      "description": "[GTL] Label on button to show sign in options to the user",
+      "message": "S'identifier"
+   },
+   "sign_in_dpio_edge_placeholder": {
+      "description": "placeholder for a token paste text entry field",
+      "message": "[GTL] Collez le jeton Edge Node ici"
+   },
+   "sign_in_dpio_edge_title": {
+      "description": "[GTL] Title to show a sign in option to the user",
+      "message": "Connectez-vous à l'aide du jeton acquis à partir du tableau de bord dpio cloud Edge Print"
+   },
+   "sign_in_longform": {
+      "description": "[GTL] Title to show sign in options to the user",
+      "message": "Connectez-vous avec Google ou Microsoft pour accéder à vos imprimantes attribuées"
+   },
+   "sign_in_or": {
+      "description": "[GTL] Suggesting an alternate method of moving forwards, this *OR* that",
+      "message": "Ou"
+   },
+   "signon_reminder_dismiss": {
+      "description": "[GTR] button text to not show this notificaiton again",
+      "message": "Ne demande plus"
+   },
+   "signon_reminder_message": {
+      "description": "[GTR] Prompt the user that they could have printers if they sign in or use a quickcode",
+      "message": "Connectez-vous ou utilisez des codes rapides pour utiliser directprint.io"
+   },
+   "signon_reminder_show": {
+      "description": "[GTR] button text for the app to open to sign in or use a quickcode",
+      "message": "Ouvrir application"
+   },
+   "signon_reminder_title": {
+      "description": "[GTR] Notification prompt to the user to sign in to the app",
+      "message": "Se connecter à directprint?"
+   },
+   "title_configuration": {
+      "description": "[GTL] Page title for the configuration(settings) page",
+      "message": "Configuration"
+   },
+   "title_ink_save": {
+      "description": "[GTL] Page title for page dedicated to encourage users to save ink when printing",
+      "message": "Économiser de l'encre"
+   },
+   "title_printer_info": {
+      "description": "[GTL] Page title for information on a specific printer",
+      "message": "Informations sur l'imprimante"
+   },
+   "title_printer_options": {
+      "description": "[GTL] Page title for advanced options of a specific printer (page size etc.)",
+      "message": "Options d'impression avancées"
+   },
+   "title_printerlist": {
+      "description": "Page title for a list of printers available to the user",
+      "message": "Imprimantes installées"
+   },
+   "title_printqueue": {
+      "description": "[GTL] Page title for a list of print jobs that are printing or queued to be printed",
+      "message": "file d'attente d'impression"
+   },
+   "udpate_message": {
+      "description": "[GTR] prompting the user that there is an update available",
+      "message": "Installer la version mise à jour?"
+   },
+   "unknown": {
+      "description": "[GTL] statement that the given settings value is currently unknown",
+      "message": "Inconnue"
+   },
+   "update_available_ui": {
+      "description": "[GTR] message for bar in the ui to click to update the application",
+      "message": "mise à jour disponible"
+   },
+   "update_now": {
+      "description": "[GTR] button text for the app to update now",
+      "message": "Mettez à jour maintenant"
+   },
+   "update_remind": {
+      "description": "[GTR] button text for the app to remind again tomorrow",
+      "message": "Rappelle-moi demain"
+   },
+   "update_title": {
+      "description": "prompting the user that there is an update available",
+      "message": "mise à jour directprint.io disponible"
+   }
+}

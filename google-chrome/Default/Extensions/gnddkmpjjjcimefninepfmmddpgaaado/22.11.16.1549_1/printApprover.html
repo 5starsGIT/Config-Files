@@ -1,0 +1,208 @@
+<html>
+
+<head>
+    <script language="javascript" type="text/javascript" src="pa.js"></script>
+    <link rel="stylesheet" href="./material.min.css">
+    <script src="./material.min.js"></script>
+
+    <style>
+        body {
+            width: 100%;
+            height: 100%;
+            overflow-y: scroll;
+        }
+        
+        button {
+            margin-right: 10px;
+        }
+        
+        h5,
+        h6 {
+            margin: 0;
+            max-width: 85%;
+        }
+        
+        .title {
+            padding-top: 5px;
+            padding-bottom: 5px;
+            background: #F2DE3C;
+        }
+        
+        .margin-left-right {
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .black_overlay {
+            display: none;
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            width: 100%;
+            height: 100%;
+            background-color: black;
+            z-index: 9;
+            -moz-opacity: 0.8;
+            opacity: .80;
+            filter: alpha(opacity=80);
+        }
+        
+        .previewImage {
+            border: 1px solid gray;
+            margin: 0 auto;
+            display: block;
+            height: 60%;
+            width: auto;
+        }
+        /* The Modal (background) */
+        
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 10;
+            margin: 0% 0% 5% 5%;
+            overflow: auto;
+            background-color: white;
+            border: 2px solid gray;
+            border-radius: 5px;
+            width: 90%;
+            max-width: 800px;
+        }
+        
+        .previewHolder {
+            padding-top: 10px;
+            margin: 10px 10px 20px 10px;
+        }
+        /* The Close Button */
+        
+        .close {
+            color: black;
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            font-size: 35px;
+            font-weight: bold;
+        }
+        
+        .close:hover,
+        .close:focus {
+            color: #999;
+            text-decoration: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Mask for preview -->
+    <div class="black_overlay" id="mask"></div>
+    <!-- title -->
+    <div class="title">
+        <center>
+            <img src="icons/icon_128_v2.png" width="24">
+            <span>&nbsp;directprint.io smart printing</span><br>
+            <small>by <a href="https://directprint.io" target="_blank">directprint.io</a></small>&nbsp;&nbsp;<small id="appVersion"></small>
+        </center>
+    </div>
+
+    <div id="modal" class="modal">
+        <span class="close cursor" id="close">&times;</span>
+        <div id="previewHolder" class="previewHolder">
+            <center>
+                <h5 id="previewTitle"></h5><br>
+                <h6 id="previewOwner"></h6><br>
+                <span>Pages:&nbsp;&nbsp;</span>
+                <div id="pageNav" style="display: inline;"></div>
+            </center>
+
+            <div id="preview" style="padding-top: 5px;">
+                <img width="95%" id="previewImageHolder" class="previewImage" />
+                <!--<hr> <button id="clearPreview">Dismiss</button></td> -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Message window explainging OAuth request -->
+    <div id="authExplainer" style="display:none;">
+        <center>
+            <h3>Sign-in required</h3>
+            <p>This application needs to verify your identity with Google.
+                <p>
+                    <p>Please click the button below to continue the process.</p>
+                    <p></p>
+
+                    <img id="launchAuth" width="200" src="./icons/btn_google_signin_dark_normal_web_2x.png">
+        </center>
+    </div>
+
+    <!-- Content window -->
+    <div id="content" class="margin-left-right">
+        <!-- Docuement list -->
+        <h6 style="padding-top: 10px;">Documents awaiting approval</h6>
+        <center>
+            <table class='mdl-data-table mdl-shadow--2dp' style="width: 95%;">
+                <thead>
+                    <tr>
+                        <th width="30" class="smallCol">
+                            <label class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect mdl-data-table__select" for="selectAll">
+                        <input class="mdl-checkbox__input" id="selectAll" type="checkbox">
+                        </label>
+                        </th>
+                        <th class='mdl-data-table__cell--non-numeric'>
+                            <span id="document_title" />
+                        </th>
+                        <th class='mdl-data-table__cell--non-numeric'>
+                            <span id="document_owner" />
+                        </th>
+                        <th class=''>
+                            <span id="print_pages" />
+                        </th>
+                        <th class='mdl-data-table__cell--non-numeric'>
+                            <center>
+                                <span id="print_actions" />
+                            </center>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody id="documentList">
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td class='mdl-data-table__cell--non-numeric' colspan="5">
+                            <button id="printSelected" class="mdl-button mdl-js-button mdl-button--accent" disabled>Print selected</button>
+                            <button id="deleteSelected" class="mdl-button mdl-js-button mdl-button--primary" disabled>Delete selected</button>
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+        </center>
+
+        <!-- <button id="getApproverJobs" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">Refresh</button><br />-->
+        <!-- Preview window -->
+
+        <br>
+
+
+        <!--
+        <hr>
+        <h2>Upload</h2>
+        <form>
+            <label>
+			Title
+			<input type="text" id="title"><br>
+		</label>
+            <label>
+			Target device
+		<input type="text" id="targetID"><br>
+		<input type="hidden" name="pageCount" value="2"><br>
+		</label>
+            <input type="file" id="fileToUpload"><br>
+        </form>
+        <button id="uploadFile">Upload</button>
+        -->
+
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Böj franska verb i alla tempus och modus"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Franska konjugering vatefaireconjuguer.com"
+   }
+}

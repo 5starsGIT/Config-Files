@@ -1,0 +1,35 @@
+{
+   "api_console_project_id": "982754197589",
+   "app": {
+      "launch": {
+         "web_url": "https://pdf.texthelp.com/pdfreader/"
+      },
+      "urls": [ "https://pdf.texthelp.com/pdfreader/" ]
+   },
+   "container": [ "GOOGLE_DRIVE", "DOMAIN_INSTALLABLE" ],
+   "description": "Experience PDFs in a whole new way with Texthelp’s new PDF Reader.",
+   "gdrive_mime_types": {
+      "http://drive.google.com/intents/opendrivedoc": [ {
+         "disposition": "window",
+         "href": "https://pdf.texthelp.com/pdfreader/",
+         "title": "Open",
+         "type": [ "application/pdf" ]
+      }, {
+         "disposition": "window",
+         "href": "https://pdf.texthelp.com/pdfreader/",
+         "title": "Open",
+         "type": [ "application/epub+zip" ]
+      } ]
+   },
+   "icons": {
+      "128": "icon_128x128.png",
+      "16": "icon_favicon_16x16.png",
+      "48": "icon_favicon_48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkUQy3H2XzjH8soXO4qcdYdpiDc4M9nvMcWYeVsmAa1s+wbb5xp3m7jS7cO+faajYzIpIFFAhY5O77Lcx8imHoXUrqmSkbkh/Fo4DTxWaBQwzBfKVQtz52cXSdzyM4oAcGENe0A1wtC3kozveH53z7WGMracwlB8ZAwah6fZoJzxSy+hrQFIVLGuCAbizJUhmLSox8ADMNz03xMpWlClPdyNWMl2+wVOcCYCkqJ9Tpyn/MdsYBVNbpAtJQXYh1qCRGNzU3wq9S2jspFhA+xkJfha8y0FZgdJw2tYAqcNUc1Et9PNSn2NFTSmx4g75dEvoPUtw5x9yaY1hFXtVa1ltrwIDAQAB",
+   "manifest_version": 2,
+   "name": "Texthelp PDF Reader App",
+   "short_name": "Texthelp PDF Reader App",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.11"
+}

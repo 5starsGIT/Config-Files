@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700;800&display=swap"
+    />
+    <style>
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(359deg);
+        }
+      }
+      html {
+        background-color: #ebebec;
+      }
+      .btn-action {
+        padding: 14px 24px;
+        color: #32323e;
+        font-weight: 600;
+        font-size: 14px;
+        border: 1px solid #d6d6d8;
+        background-color: #fff;
+        cursor: pointer;
+        font-family: Heebo;
+      }
+      .btn-action:focus {
+        background-color: #d6d6d8;
+      }
+      .btn-action:hover {
+        background-color: #d6d6d8;
+      }
+      body {
+        background-color: #ebebec;
+        color: #434a54;
+        padding: 20px;
+        min-height: calc(100vh - 56px);
+      }
+      .loadScreen {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: calc(100vh - 56px);
+      }
+      .haparaLogoLoader {
+        width: 74px;
+        height: 46px;
+        margin-bottom: 56px;
+      }
+      .loader {
+        background-color: #c4c4c4;
+        overflow: hidden;
+        width: 240px;
+        height: 4px;
+        display: flex;
+        align-items: center;
+        align-content: center;
+        justify-content: flex-start;
+      }
+      .loader-element {
+        height: 4px;
+        width: 100%;
+        position: relative;
+      }
+      .loader-element:before {
+        content: '';
+        display: block;
+        background-color: #2d2d47;
+        height: 4px;
+        width: 75px;
+        top: 0;
+        left: -75px;
+        animation: mover 1s ease-in-out infinite;
+        position: absolute;
+      }
+      @keyframes mover {
+        0% {
+          left: -75px;
+        }
+        100% {
+          left: 240px;
+        }
+      }
+      .loaderTitle {
+        margin-top: 32px;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 22px;
+        color: #2d2d47;
+      }
+      table {
+        box-sizing: border-box;
+        width: 100%;
+      }
+
+      table > tbody > tr > td {
+        vertical-align: middle;
+      }
+
+      th {
+        text-align: left;
+      }
+
+      h1 {
+        font-size: 33px;
+        font-weight: 500;
+        line-height: 1.1;
+        margin: 0.67em 0;
+      }
+
+      .btn {
+        display: inline-block;
+        margin-bottom: 0;
+        font-weight: normal;
+        text-align: center;
+        vertical-align: middle;
+        -ms-touch-action: manipulation;
+        touch-action: manipulation;
+        cursor: pointer;
+        background-image: none;
+        border: 1px solid transparent;
+        white-space: nowrap;
+        padding: 6px 12px;
+        font-size: 13px;
+        line-height: 1.42857;
+        border-radius: 4px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        color: #fff;
+        border-radius: 0;
+        font-size: 14px;
+        line-height: 18px;
+        transition: background-color 100ms ease-in;
+      }
+
+      .btn:visited,
+      .btn:focus {
+        color: #fff;
+      }
+
+      .btn.btn-info,
+      .btn.input-group-addon.info,
+      .btn.btn-primary {
+        background-color: #6886d2;
+        border-color: #6886d2;
+        color: #fff;
+      }
+
+      .btn.btn-info:hover,
+      .btn.input-group-addon.info:hover,
+      .btn.btn-info:focus,
+      .btn.input-group-addon.info:focus,
+      .btn.btn-primary:hover,
+      .btn.btn-primary:focus {
+        background-color: #3c55b2;
+        border-color: #3c55b2;
+      }
+
+      .btn.btn-default,
+      .btn.input-group-addon.default {
+        background-color: #fff;
+        border-color: #9b9b9b;
+        color: #4f4f57;
+      }
+
+      .btn.btn-default.dropdown-toggle,
+      .btn.dropdown-toggle.input-group-addon.default,
+      .btn.btn-default.dropdown-toggle:hover,
+      .btn.dropdown-toggle.input-group-addon.default:hover {
+        border-left: 1px solid #9b9b9b;
+      }
+
+      .btn.btn-default:hover,
+      .btn.input-group-addon.default:hover,
+      .btn.btn-default:focus,
+      .btn.input-group-addon.default:focus {
+        background-color: #d3d3d3;
+        border-color: #9b9b9b;
+      }
+
+      .btn.btn-normal {
+        background-color: #9b9b9b;
+        border-color: #9b9b9b;
+      }
+
+      .btn.btn-normal:hover,
+      .btn.btn-normal:focus {
+        background-color: #6c6b6c;
+        border-color: #6c6b6c;
+        color: #fff;
+      }
+
+      .btn.btn-danger,
+      .btn.input-group-addon.danger {
+        background-color: #ed5565;
+        border-color: #ed5565;
+      }
+
+      .btn.btn-danger:hover,
+      .btn.input-group-addon.danger:hover,
+      .btn.btn-danger:focus,
+      .btn.input-group-addon.danger:focus {
+        background-color: #da4453;
+        border-color: #da4453;
+      }
+
+      .btn.btn-success {
+        background-color: #60bd68;
+        border-color: #60bd68;
+      }
+
+      .btn.btn-success:hover,
+      .btn.btn-success:focus {
+        background-color: #60bd68;
+        border-color: #60bd68;
+      }
+
+      .btn-group .btn.btn-info:first-child,
+      .btn-group .btn.input-group-addon.info:first-child,
+      .btn-group .btn.btn-primary:first-child {
+        border-right: 1px solid #fff;
+      }
+
+      .btn-group.open .dropdown-toggle {
+        box-shadow: none;
+      }
+
+      .btn-group.open .btn-info.dropdown-toggle,
+      .btn-group.open .dropdown-toggle.input-group-addon.info,
+      .btn-group.open .btn-info:hover.dropdown-toggle,
+      .btn-group.open .input-group-addon.info:hover.dropdown-toggle,
+      .btn-group.open .btn-info:focus.dropdown-toggle,
+      .btn-group.open .input-group-addon.info:focus.dropdown-toggle {
+        background-color: #3c55b2;
+        border-color: #3c55b2;
+        border-left: 1px solid #fff;
+      }
+
+      .btn-group .dropdown-toggle,
+      .btn-group .dropdown-toggle:hover {
+        border-left: 1px solid #fff;
+      }
+
+      .btn-block {
+        display: block;
+      }
+
+      .diagnostics-page {
+        min-height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    </style>
+    <title>Hapara Highlights Extension - Diagnostics</title>
+  </head>
+
+  <body>
+    <div id="app" class="diagnostics-page"></div>
+    <!-- <script src="src/pusher/pusher.js"></script> -->
+    <script src="webpack/diagnostics.js"></script>
+  </body>
+</html>

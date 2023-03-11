@@ -1,0 +1,258 @@
+<?xml version="1.0"?>
+<strings>
+  <OnlineStartupTitle>تم تحديث تطبيق WeDo 2.0 الخاص بك بنجاح!</OnlineStartupTitle>
+  <OnlineStartupDescription>للوصول إلى جميع مواد تدريس WeDo 2.0، يتعيّن عليك العمل في الوضع "متصل". وهذا يتطلب الاتصال بالإنترنت. يُتيح لك الوضع "غير متصل" الوصول إلى بيئة البرمجة وأداة التوثيق والمشاريع الخاصة بك التي تم إنشاؤها. يُرجى استخدام الأزرار أدناه لتحديد الوضع "متصل" أو "غير متصل". إن اخترت استخدام مواد التدريس في الوضع "غير متصل"، يتم إرشادك خلال عملية التنزيل.</OnlineStartupDescription>
+  <OnlineStartupButtonGoOffline>الوضع "غير متصل"</OnlineStartupButtonGoOffline>
+  <OnlineStartupButtonUseOnline>الوضع "متصل"</OnlineStartupButtonUseOnline>
+  <OnlineStartUpUpdatedContentTitle>تم تحديث تطبيق WeDo 2.0 الخاص بك بنجاح!</OnlineStartUpUpdatedContentTitle>
+  <OnlineStartUpUpdatedContentDescription>لقد تحوّل تطبيق WeDo 2.0 تلقائياً إلى الوضع «متصل»، بسبب هذا التحديث. لعرض جميع مواد تدريس WeDo 2.0، عليك ضبط الوصول إلى الإنترنت بشكل افتراضي. يمكنك الوصول إلى بيئة البرمجة وأداة التوثيق والمشاريع الخاصة بك التي تم إنشاؤها، حتى ولو كنت غير متصل بالإنترنت. يُرجى تحديد ما إذا كنت تفضّل العمل في الوضع "متصل" أو "غير متصل". إن اخترت استخدام مواد التدريس في الوضع "غير متصل"، يتم إرشادك خلال عملية التنزيل.</OnlineStartUpUpdatedContentDescription>
+  <OnlineStartUpUpdatedContentButtonGoToOfflineSettings>الوضع "غير متصل"</OnlineStartUpUpdatedContentButtonGoToOfflineSettings>
+  <OnlineStartUpUpdatedContentButtonUseOnline>الوضع "متصل"</OnlineStartUpUpdatedContentButtonUseOnline>
+  <OnlineOfflineSettingsTitle>إعدادات الوضع «غير متصل»</OnlineOfflineSettingsTitle>
+  <OnlineOfflineSettingsStatusDownloadAll>تنزيل جميع مواد تدريس WEDO 2.0</OnlineOfflineSettingsStatusDownloadAll>
+  <OnlineOfflineSettingsStatusContentDownloadSize>( _CONTENT_SIZE_ جيجابايت)</OnlineOfflineSettingsStatusContentDownloadSize>
+  <OnlineOfflineSettingsPerformanceWarningText>قد يؤدي التنزيل إلى تشغيل أبطأ من المتوقع</OnlineOfflineSettingsPerformanceWarningText>
+  <OnlineOfflineSettingsClearCacheDescriptionText>ولن تتأثر مشاريعك الشخصية. التبديل إلى الوضع "متصل" يزيل جميع مواد التدريس من جهازك. ويمكن الوصول إلى هذه المواد عبر الإنترنت أو يمكنك تنزيلها مرة أخرى قبل التبديل إلى الوضع "غير متصل".</OnlineOfflineSettingsClearCacheDescriptionText>
+  <OnlineOfflineSettingsStatusDownloading>جارِ التنزيل</OnlineOfflineSettingsStatusDownloading>
+  <OnlineOfflineSettingStatusNoConnection>لا يوجد اتصال بالإنترنت</OnlineOfflineSettingStatusNoConnection>
+  <OnlineOfflineSettingsButton>التبديل إلى الوضع "متصل"</OnlineOfflineSettingsButton>
+  <LobbyInfoGuideGettingStarted>مقدمة</LobbyInfoGuideGettingStarted>
+  <LobbyInfoGuideGettingStartedSize/>
+  <LobbyInfoGuidePreparation>دليل الإعداد</LobbyInfoGuidePreparation>
+  <LobbyInfoGuidePreparationSize>(PDF ،الحجم 250 كيلوبايت)</LobbyInfoGuidePreparationSize>
+  <LobbyInfoGuideTeacherComputing>دليل التفكير الحسابي للمعلم</LobbyInfoGuideTeacherComputing>
+  <LobbyInfoGuideTeacherComputingSize/>
+  <LobbyInfoGuideSoftwareGuide>مربع الأدوات</LobbyInfoGuideSoftwareGuide>
+  <LobbyInfoGuideSoftwareGuideSize/>
+  <LobbyInfoGuideTeacherScience>دليل العلوم للمعلم</LobbyInfoGuideTeacherScience>
+  <LobbyInfoGuideTeacherScienceSize/>
+  <LobbyInfoGuideTeacherGuideSize>(PDF ،الحجم 15 ميجابايت)</LobbyInfoGuideTeacherGuideSize>
+  <syncmanualunauth>لا يُمكن مزامنة بيانات المستخدم. يرجى الضغط على أيقونة الدوامة في الردهة ومنح حق الوصول إلى Google Drive.</syncmanualunauth>
+  <synclocaloffline>لا يُمكن مزامنة بيانات المستخدم. يُرجى التأكد من اتصالك بالإنترنت.</synclocaloffline>
+  <syncmwillnotify>لا يُمكن مزامنة بيانات المستخدم. يتم إعلامك عند توّفر إمكانية المحاولة مرة أخرى.</syncmwillnotify>
+  <syncbigrecovered>يُمكن مزامنة بيانات المستخدم مرة أخرى. يُرجى الضغط على أيقونة الدوامة في الردهة للمحاولة مرة أخرى.</syncbigrecovered>
+  <syncofflinestate>لا يُمكن مزامنة بيانات المستخدم. يرجى الضغط على أيقونة الدوامة في الردهة ومنح حق الوصول إلى Google Drive.</syncofflinestate>
+  <LobbyInfoPreparationGuideTitle>Important: Renaming the Smarthub</LobbyInfoPreparationGuideTitle>
+  <LobbyInfoPreparationGuideLinkDescription>انقر هنا لإعادة التوجيه</LobbyInfoPreparationGuideLinkDescription>
+  <EULAFull>LEGOREPLACEWITHTRADEMARK Education WeDo 2.0 اتفاقية ترخيص المستخدم النهائي
+تمنح شركة LEGO System A/S الكائنة في Aastvej 1، DK-7190 Billund، الدنمارك (المشار إليها فيما يلي باسم "LEGO System") هذا الترخيص الخاص ببرنامج WeDo 2.0 من LEGOREPLACEWITHTRADEMARK Education (المشار إليه فيما يلي باسم "البرنامج").
+تنبيه - الرجاء القراءة بعناية: تمثِّل هذه الاتفاقية اتفاقًا قانونيًا بينك -سواء كنت فردًا أو مؤسسة- وبين LEGO System، كما أنها تفرض بعض القيود على طريقة استخدامك للبرنامج. تحتفظ شركة LEGO System و/أو موردوها ومرخصوها بملكية البرنامج، ولا تخوّل أي حقوق سوى ترخيص استخدام البرنامج والوثائق المرفقة (المشار إليها فيما يلي باسم "الوثائق") وفقًا للشروط المنصوص عليها صراحة في هذه الاتفاقية. وبالنقر فوق زر "تأكيد" أدناه؛ فأنت توافق على شروط هذه الاتفاقية وتلتزم بتنفيذها بموجب الاتفاقية. وإذ لم توافق على شروط هذه الاتفاقية؛ يجب عليك العودة في الحال أو تدمير كل نسخ البرنامج، بما في ذلك أي وثائق مرفقة وأي نسخ قمت بتنزيلها من المتجر أو موقع الويب ذي الصلة.
+توفر شركة LEGO System برنامجًا مخصصًا للغير يخضع لشروط ترخيص منفصلة، إما أن تُعرض وقت التثبيت أو يُنص عليها خلاف ذلك مع البرنامج ("برنامج الغير"). ولا يشمل معنى المصطلح "البرنامج" برنامج الغير.
+يُوزَّع البرنامج بمعرفة LEGO System عبر عدد من منافذ التوزيع الشريكة بموجب هذه الاتفاقية مثل متجر Apple App Store ومتجر Google Play Store ومتجر Microsoft Windows store أو موقع الويب LEGOEducation.com. إذا كنت قد حصلت على البرنامج من أي مصدر آخر، فقد يكون معيبًا أو نسخة مقلدة من المنتج الأصلي. وتتحمل وحدك مسؤولية استخدام أي نسخة معدَّلة.
+1- منح الترخيص:
+تمنح شركة LEGO System (المستخدم) بموجب هذه الاتفاقية ترخيصًا محدودًا غير حصري لاستخدام البرنامج والوثائق لأغراض غير تجارية وفقًا للشروط التالية:
+لا يجوز لك استخدام البرنامج إلاّ على النحو التالي:
+(a)	استخدام البرنامج على جهاز واحد أو أكثر في المؤسسة المُسماة؛
+
+(ب) نسخ البرنامج حسب الاقتضاء لتثبيته على الأجهزة المسموح بها في القسم 1 (أ)، ولأغراض النسخ الاحتياطي والحفظ، شريطة احتواء أي نسخة يتم إنشاؤها على جميع إشعارات ملكية البرنامج الأصلية؛
+(ج) استخدام المحتوى الذي يتم إنشاؤه باستخدام البرنامج لأي غرض غير تجاري؛
+(د) إنشاء المشاريع لنظام WeDo 2.0 من LEGOREPLACEWITHTRADEMARK Education، كما هو موضح في الوثائق، ولكن فقط لأغراض غير تجارية ما لم تحصل على موافقة كتابية مسبقة من شركة LEGO System للقيام بذلك لغرض تجاري. وعند الرغبة في استخدام البرنامج لإنشاء المشروعات أو مشاركتها لغرض تجاري، يُرجى الاتصال بممثل شركة LEGO System لطلب موافقتها علمًا بأن LEGO System A/S غير ملزمة بمنح هذه الموافقة.
+لا يجوز لك:
+(1) السماح لأفراد آخرين باستخدام البرنامج ما لم تضمن أن هؤلاء الأفراد (أ) على دراية بأن استخدامهم يخضع لشروط وأحكام هذه الاتفاقية و (ب) يمتثلون لهذه الاتفاقية؛ أو
+(2) إجراء عمليات هندسية عكسية للبرنامج أو تفكيكه برمجيًا أو تفكيك أجزاءه أو معالجته على أي نحو في شكل يمكن للإنسان إدراكه وفهمه (إلاّ إلى الحد الذي يُحظر عنده هذا القيد صراحة بموجب القانون)، أو تعديل أو ترجمة البرنامج أو الوثائق، أو إنشاء أعمال مشتقة قائمة على البرنامج أو الوثائق؛ أو
+(3) نسخ البرنامج أو الوثائق (يُستثنى من ذلك النسخ لأغراض النسخ الاحتياطي)؛ أو
+(4) إعادة بيع البرنامج أو الوثائق أو أي من الحقوق المرخصة فيما يخص البرنامج أو الوثائق أو تأجيرها أو التنازل عنها أو توزيعها أو نقل ملكيتها بطريقة خلاف ما سبق؛ أو
+(5) نشر البرنامج أو الوثائق على الإنترنت؛ أو
+(6) استخدام النسخة الاحتياطية في غرض آخر خلاف استبدال النسخة الأولية؛ أو
+(7) استخدام البرنامج لأي غرض تجاري؛ أو
+(8) حذف أي إشعارات ملكية أو إزالة أي ملصقات موجودة داخل البرنامج أو الوثائق أو عليها؛ أو
+ (9) استخدام البرنامج لأي غرض من الأغراض ذات الصلة بتصنيع المكعبات البلاستيكية أو تسويقها أو بيعها أو توزيعها؛ أو
+(10) استخدام البرنامج للوصول إلى البيانات غير المشفرة بطريقة تنتهك حقوق حماية المحتوى الرقمي المضمّنة في البرنامج، أو استخدام البرنامج بغرض -أو الاستعانة بأي جهاز أو برنامج أو خدمة مصممة بغرض- التحايل على التدابير التكنولوجية المستخدمة للتحكم في الوصول إلى -أو الحقوق المتاحة في- ملف محتوى أو عمل آخر محمي بموجب قوانين حقوق التأليف والنشر لأي ولاية قضائية؛ أو
+(11) اتخاذ أي إجراء يترتب عليه خضوع أي جزء من البرنامج إلى ترخيص يتطلب أو قد يتطلب، كشرط أساسي للاستخدام أو التعديل أو التوزيع، (أ) أن يتم الإفصاح عن كود البرنامج الذي يخضع للترخيص أو قد يخضع له، أو توزيعه في صيغة الكود المصدر، أو (ب) أن يكون للآخرين الحق في تعديل أو إنشاء أعمال مشتقة من كود البرنامج الذي يخضع للترخيص أو قد تخضع له؛ أو
+(12) تصدير البرنامج أو إعادة تصديره أو تنزيله أو نقله أو شحنه بشكل مباشر أو غير مباشر انتهاكًا للفقرة الثانية من القسم السابع أدناه.
+ويؤدي أي استخدام أو نقل ينتهك ما سبق إلى الإنهاء الفوري والتلقائي لترخيصك.
+2- البرنامج:
+إذا اقتضت الحاجة، يجوز لك تنزيل البرنامج أو إعادة تنزيله إلى جهازك (أجهزتك)، ولكن يُحظر نقل البرنامج إلى أو استخدامه من قبل أي شخص آخر. ولا يمنحك هذا الترخيص أي حق في إدخال أي تحسينات أو إجراء أي تحديثات.
+3- حق الملكية:
+تحتفظ شركة LEGO System و/أو موردوها ومرخصوها بجميع حقوق الملكية والملكية والحقوق وحقوق الملكية الفكرية المضمّنة في البرنامج والوثائق وجميع نسخ البرنامج والوثائق والخاصة بها. وتحتفظ شركة LEGO System و/أو موردوها ومرخصوها بجميع الحقوق غير الممنوحة لك صراحة في هذه الاتفاقية. البرنامج محمي بموجب قوانين حقوق التأليف والنشر الوطنية والمعاهدات الدولية لحقوق التأليف والنشر.
+وحقوق الملكية والتملك وحقوق الملكية الفكرية للمحتوى الذي يتم الوصول إليه عبر البرنامج، بما في ذلك أي محتوى مضمّن في ملفات العرض التوضيحي بالبرنامج هي ملك لصاحب المحتوى المعمول به ومحمية بموجب حقوق التأليف والنشر المعمول بها أو القوانين الأخرى. لا يمنحك هذا الترخيص أي حقوق فيما يخص هذا المحتوى. النصوص وتعليمات البناء والصور التي يحتوي عليها البرنامج ملك لشركة LEGO System و/أو مورديها ومرخصيها. ومع ذلك، يجوز لك استخدامها لأغراض غير تجارية.
+"LEGO وشعار LEGO وMinifigure هي علامات تجارية  لشركة LEGO و/أو محفوظة حقوق الملكية لصالحها.  حقوق التأليف والنشر © لعام 2016 محفوظة لمجموعة LEGO. كافة الحقوق محفوظة"
+
+للاطلاع على براءات الاختراع التي تغطي البرنامج وكذلك الإخطارات والتراخيص المتعلقة ببرنامج الغير، انظر أدناه.
+4- الضمان المحدود:
+تضمن LEGO System خلو البرنامج من عيوب المواد والتصنيع في ظل الاستخدام العادي لمدة تسعين (90) يومًا من تاريخ التسليم كما هو موضح في نسخة إيصال الاستلام.
+ويستثنى من الضمان السابق طبيعة أنه يتم توفير البرنامج وبرنامج الغير "كما هما" دون ضمانات من أي نوع -سواء كانت صريحة أو ضمنية- بما في ذلك على سبيل المثال لا الحصر، الضمانات الضمنية فيما يخص قابلية التسويق أو الملائمة لغرض معين أو حق الملكية أو عدم الانتهاك أو أي ضمانات إلزامية أخرى معمول بها (إلى أقصى حد يسمح به القانون المعمول به). وتتحمل وحدك المسؤولية عن كافة المخاطر فيما يتعلق بجودة البرنامج وبرنامج الغير وأدائهما. وإن ثبت وجود عيب بالبرنامج، تتحمل وحدك (وليس LEGO System أو الموزّع الحاصل على تصريح من LEGO SYSTEM) كافة تكاليف جميع عمليات الصيانة أو التصليحات أو التعديلات اللازمة. ولا تجيز بعض الولايات والبلدان استثناء الضمانات الضمنية، مما يترتب عليه جواز عدم سريان الاستثناء الوارد أعلاه عليك. ويمنحك هذا الضمان بعض الحقوق القانونية ويجوز لك أن تتمتع بحقوق أخرى تختلف حسب الولاية أو البلد. ولا تضمن LEGO System أن الوظائف التي يوفرها البرنامج أو أي مشاريع مستندة إلى البرنامج تفي بمتطلباتك أو أن عدم تشغيل البرنامج أو المشاريع المذكورة يكون دون انقطاع أو خاليًا من الأخطاء.
+5- قيود التعويضات:
+قيود التعويضات
+تتمثل المسؤولية القانونية الكاملة لشركة LEGO System والتعويض الحصري المقدَّم لك في:
+a.	(أ)	استبدال أي برنامج لا يستوفي شروط "الضمان المحدود" الذي تمنحه LEGO System، حيث يتم إعادة هذا البرنامج إلى LEGO System أو موزّعها المُعتمد مرفقًا معه نسخة من إيصال الاستلام؛ أو
+
+a.	(ب)	في حال عدم قدرة LEGO System أو الموزّع على تسليم برنامج بديل خالٍ من العيوب سواء في المواد أو التصنيع، يجوز لك إنهاء هذه الاتفاقية عن طريق إعادة البرنامج واسترداد المبلغ الذي دفعته.
+
+لن تتحمل LEGO SYSTEM أو أي من مورديها ومرخصيها مهما حدث المسؤولية تجاهك عن أية أضرار، بما في ذلك على سبيل المثال لا الحصر، أي خسائر في الأرباح أو المدخّرات أو الأضرار الأخرى غير المباشرة أو الخاصة أو العرضية أو العقابية أو التبعية الناشئة عن استخدام أو عدم القدرة على استخدام البرنامج أو أي برنامج من برامج الغير، حتى وإن لم يحقق أي تعويض الغرض الأساسي منه، أو تبادر إلى علم LEGO SYSTEM أو أي من مورديها أو مرخصيها أو موزّعيها المُعتمدين احتمالية حدوث مثل هذه الأضرار، أو عن أي مطالبة من جانب الغير.
+لا يجوز للموردين والمرخصين التابعين لشركة LEGO SYSTEM تقديم أي ضمانات ولا يتحملون أي مسؤولية فيما يتعلق بهذه الاتفاقية.
+ولا تسمح بعض البلدان أو الولايات بتقييد المسؤولية عن الأضرار العرضية أو التبعية أو استثنائها، لذلك قد لا يسري عليك القيد أو الاستثناء الوارد أعلاه.
+6- الإنهاء:
+يتم إنهاء هذا الترخيص وحقك في استخدام البرنامج تلقائيًا في حال عدم امتثالك لأحكام هذه الاتفاقية. ولا يتوجب على LEGO System إرسال إخطار لإنفاذ هذا الإنهاء. ولدى الإنهاء تكون مُلزمًا بإعادة البرنامج والوثائق إلى LEGO System أو إتلاف كل نسخ البرنامج والوثائق. تسري الأقسام 3 و6 و7 وأحكام إخلاء الضمان الواردة بالقسم 4 وأحكام استثناء المسؤولية القانونية والأضرار الواردة بالقسم 5 حتى بعد إنهاء هذه الاتفاقية.
+7- القانون الحاكم:
+تخضع هذه الاتفاقية لقوانين البلد التي تحصل فيه على الترخيص.
+وتقر بأن البرنامج -وبرامج الغير المرفقة مع البرنامج قد تكون- يخضع للرقابة بموجب قوانين الرقابة على الصادرات واللوائح المعمول بها في الولايات المتحدة الأمريكية وغيرها من البلدان والقوانين العالمية للرقابة على الصادرات واللوائح المعمول بها. وأنت توافق على عدم تصدير أو إعادة تصدير أو تنزيل أو نقل أو شحن البرنامج أو أي برنامج من برامج الغير بطريقة مباشرة أو غير مباشرة بأي وسيلة: (أ) إلى أي جهة محظورة أو مؤسسة أو فرد دون الحصول على ترخيص (تراخيص) التصدير المطلوبة أو الترخيص (التراخيص) من حكومة الولايات المتحدة و/أو غيرها من سلطات إصدار تراخيص التصدير المعمول بها، أو (ب) انتهاكًا للقوانين واللوائح المعمول بها في الولايات المتحدة الأمريكية أو القوانين واللوائح المعمول بها في الاختصاص القضائي ذي الصلة حيث تقوم باستخدام أو تنزيل البرنامج. في حال قيامك بتنزيل البرنامج، فأنت تضمن ما يلي وتقر به: (أ) عدم تواجدك في -أو خضوعك لسيطرة- أي بلد تحظر القوانين واللوائح المعمول بها فيه استيراد البرنامج أو أي برنامج من برامج الغير المرفقة مع البرنامج، و (ب) عدم تواجدك في -أو خضوعك لسيطرة- أي بلد تحظر القوانين واللوائح المعمول بها في الولايات المتحدة الأمريكية و/أو قوانين الرقابة على الصادرات الأخرى المعمول بها تصدير البرنامج أو أي برنامج من برامج الغير المرفقة مع البرنامج إليه.
+إذا كنت تمثِّل وكالة أو وزارة أو جهة أخرى تابعة لحكومة الولايات المتحدة الأمريكية: (أ) فاعلم بأن البرنامج "منتج تجاري" تم تصميمه حصريًا على النفقة الخاصة ويتضمن "برامج كمبيوتر تجارية" و"وثائق برامج الكمبيوتر التجارية"، حيث يتم تعريف هذه المنتجات أو استخدامها وفقًا للوائح الحيازة المعمول بها في الولايات المتحدة، و (ب) يتم ترخيص البرنامج أدناه (1) بوصفه منتجًا تجاريًا فحسب و(2) ولا تُمنح سوى الحقوق التي تُمنح لجميع المرخص لهم الآخرين وفقًا لأحكام هذه الاتفاقية وشروطها. وتوافق على عدم استخدام البرنامج أو نسخه أو الإفصاح عنه بأي شكل غير مسموح به صراحة في هذه الاتفاقية. ولا تشتمل هذه الاتفاقية على ما يلزم LEGO System أو أي من مورديها أو مرخصيها بإنتاج بيانات فنية من أجلك أو توفيرها لك.
+8- شمولية الاتفاقية
+تقر بأنك قد قرأت هذه الاتفاقية وفهمتها وتوافق على الامتثال للشروط والأحكام الواردة فيها، كما توافق على أن نص الاتفاقية المبرمة بيننا الكامل الحصري ينسخ أي عرض أو اتفاق مسبق سواء كان شفويًا أو خطيًا وأي اتصالات أخرى تمت بيننا فيما يخص موضوع الاتفاقية.
+ولا يجوز تعديل هذه الاتفاقية إلاّ في صورة كتابية شريطة أن توقع أنت وممثل مخوّل من LEGO System على الاتفاقية بعد التعديل بحسب الأصول.
+9- أحكام متفرقة:</EULAFull>
+  <TOU>شروط استخدم تطبيقات LEGOREPLACEWITHTRADEMARK
+
+تسري اعتبارًا من نوفمبر 2014
+
+مقدمة
+هذا التطبيق تقدمه إليك شركة LEGO System A/S، ومقرها Aastvej 1, DK-7190 Billund، تحت السجل التجاري المركزي رقم 47458714.
+يُشار إلى شركة LEGO System A/S وكافة الكيانات المسيطرة عليها أو الخاضعة لسيطرتها أو الخاضعة لسيطرة مشتركة معها أو التابعة لها مجموعة بالاسم "TLG" أو "مجموعة TLG" أو ضمائر المتكلم في هذا المستند.
+باستخدام أيٍ من تطبيقات TLG أو بنقر الخانة التي تنص على قبولك لهذه الشروط وموافقتك عليها، تكون قد أبديت موافقتك على شروط الاستخدام هذه. وإذ لم توافق على شروط الاستخدام هذه، فلا يجوز لك استخدام تطبيق TLG. دونما أي تقييد لعمومية الأحكام السابقة، تقر أن هذا الاعتبار يشمل استخدامك لتطبيق TLG واستلام البيانات والمواد والمعلومات المتاحة في تطبيق TLG أو من خلاله.
+
+بالنسبة للولايات المتحدة:
+LEGO Education, 501 Boylston Street Suite 4103, Boston Massachusetts, 02116
+هاتف:   1-800-362-4308
+بريد إلكتروني:   orders@LEGOeducation.us
+
+لباقي أنحاء العالم:
+LEGO Education Ltd., 3rd Floor Longus House, Newgate Row, Eastgate Street, Chester CH1 1ER, Great Britain
+هاتف:   +44 (0) 800-334-5346
+بريد إلكتروني:  customer.service@LEGOeducation.eu
+
+معالجة البيانات الشخصية واستخدام ملفات تعريف الارتباط
+تُشكِّل سياسة الخصوصية وسياسة ملفات تعريف الارتباط خاصتنا جزءًا أصيلًا من هذه الشروط ويمكن الاطلاع عليهما على: REPLACEWITHHTTPwww.lego.com/legal/legal-notice/privacy-policy-full and REPLACEWITHHTTPwww.lego.com/legal/cookieinfo.
+وللحصول على معلومات بشأن معالجة البيانات الشخصية التي جُمعت من الأطفال عبر الإنترنت، يرجى الرجوع إلى سياسة الخصوصية المعمول بها لدينا. فيما يتعلق بمجموعة LEGOREPLACEWITHTRADEMARK Education WeDo 2.0، قد يجمع مركز TLG بيانات مجمعة متعلقة باستخدام منتج ما للمساعدة على تحسين أداء المنتج والعروض. لن يجمع مركز TLG -تحت أي ظرف من الظروف- أي بيانات شخصية تتعلق بالمستخدمين (بما في ذلك أي معلم أو طالب) من خلال مجموعة LEGO Education WeDo 2.0. (LEGO Education هو قسم تجاري داخل TLG وهو مسؤول عن خطوط المنتجات والحلول المقدمة ضمن العلامة التجارية "LEGO Education").
+يكون أي طرف خارجي مخول بالتصرف نيابة عن TLG ملزمًا بذات القواعد والمبادئ التي تلتزم بها TLG.
+
+استخدام المحتوى
+كافة المعلومات والمواد والوظائف وغيرها من المحتويات ("المحتوى") المُضمَّنة في تطبيق TLG مملوكة وحقوق تأليفها ونشرها محفوظة لنا أو للمرخِّصين أو المرخَّص لهم التابعين لنا. وكافة العلامات والأسماء والأشكال التجارية وعلامات الخدمة مملوكة لنا و/أو المرخِّصين أو المرخَّص لهم التابعين لنا. يجوز لنا إنهاء حق وصولك إلى تطبيق TLG أو تغيير تطبيق TLG أو المحتوى أو الميزات بأي طريقة وفي أي وقت بسبب أو دون سبب.
+توافق أنه لا يحق لك نسخ المحتوى أو توزيعه أو هندسته عكسيًا، أو استخدام المحتوى بأي طريقة أخرى إلا إن كان ذلك متكاملًا في المحتوى أو لازمًا لاستخدامه.
+
+الحسابات
+تخولك بعض الخدمات بتطبيق TLG أو تقتضي منك إنشاء حساب معرف LEGO للتمتع بمزايا إضافية أو تأمينها. فيُرجى مراجعة شروط وأحكام معرِّف LEGO على REPLACEWITHHTTPSaccount2.lego.com/Terms%20Of%20Service/ShowTOSPage.
+ويجوز لنا تعليق أو إنهاء قدرتك على استخدام أيٍ من تطبيقات TLG التطبيق أو جزء منه في حالة عدم الامتثال لأحكام وشروط معرف LEGO أو أي شروط خاصة تتعلق بخدمة معينة.
+
+متاجر/موزعو التطبيق
+تقر أن شروط الاستخدام هذه مبرمة بينك وبيننا وليس مع متاجر/موزعو التطبيق مثل أبل إنك وأمازون وسامسونج وغيرهم ("موزعو التطبيق"). ونتحمل وحدنا -وليس موزعي التطبيق- المسؤولية عن تطبيق TLG وعما يُتاح فيه من خدمات ومحتوى. يوافق الطرفان أن موزعي التطبيق لا يتحملون أي التزام بتوفير خدمات صيانة أو دعم فيما يتعلق بتطبيق TLG.
+ولأقصى حد يجيزه القانون المعمول به، لا يخضع موزعو التطبيق لأي التزام ضمان من أي نوع فيما يتعلق بتطبيق TLG.
+وتوافق أننا نتحمل وحدنا -وليس موزعي التطبيق- المسؤولية عن الدفاع عن أي دعاوى ترفعها أنت أو أي طرف خارجي فيما يخص تطبيق TLG أو حيازتك و/أو استخدامك له بما يشمل -دون حصر- ما يلي: (1) دعاوى المسؤولية عن المنتج؛ (2) أي دعوى بأن تطبيق TLG لا يمتثل لأي مطلب قانوني أو تنظيمي معمول به؛ (3) الدعوى التي تنشأ بموجب تشريعات حماية العميل أو التشريعات المماثلة لها.
+توافق أننا نتحمل وحدنا -وليس موزعي التطبيق- المسؤولية عن التحقيق في أي دعوى انتهاك حقوق الملكية الفكرية لأي طرف خارجي والدفاع عنها وتسويتها وإنهائها فيما يخص تطبيق TLG أو حيازتك و/أو استخدامك له.
+تقر وتضمن أنك (1) لا تقيم في بلد يخضع لحظر اقتصادي من قبل حكومة الولايات المتحدة أو تم تعيينه من قبلها بلدًا "داعمًا للإرهاب"؛ (2) لست مدرجًا على قوائم الأحزاب المحظورة أو الممنوعة من قبل حكومة الولايات المتحدة.
+توافق على الامتثال لكافة شروط أي اتفاق معمول به بينك وأي طرف خارجي عند استخدام تطبيق TLG (على سبيل المثال، يجب ألا تنتهك شروط خدمة البيانات اللاسلكية عند استخدام تطبيق TLG).
+يوافق الطرفان أن موزعي التطبيق والشركات التابعة لهم هم أطراف خارجية مستفيدة من شروط الاستخدام هذه. رهنًا بموافقتك على شروط الاستخدام، يكون لموزعي التطبيق الحق -ويعتبر أنهم قد قبلوا الحق- في إلزامك بشروط الاستخدام هذه باعتبارك طرفًا خارجيًا مستفيدًا منها.
+توافق أن استخدامك لتطبيق TLG يخضع لقواعد الاستخدام المنصوص عليها في شروط الخدمة المعمول بها آنذاك لدى موزعي التطبيق لتنزيل التطبيقات من خلال موزع التطبيق.
+
+التعويض
+تتحمل المسؤولية عن صون سرية اسم المستخدم وكلمة المرور والحساب خاصتك، وكذلك كافة الأنشطة التي تحدث تحت مظلة حسابك. إلى أقصى حد يجيزه القانون المعمول به، توافق بموجبه على تعويضنا ومن يتبعنا من مرخِّصين ومرخص لهم وموزعين ووكلاء وممثلين ومستخدمين مخولين، ومن يتبعهم من بائعي تجزئة وموزعين ومزودي خدمة وموردين، وكذلك المسؤولين والمديرين والمالكين والوكلاء والممثلين والمُتنازل لهم التابعين للكيانات المذكورة كلها (يُشار إليهم مجتمعين "بالأطراف المعوضة") والدفاع عنهم وإبراء ذممهم من وضد كافة الخسائر والأضرار والالتزامات والتكاليف (بما في ذلك تكاليف التسوية وأي أتعاب أو نفقات قانونية لتحري أو الدفاع عن أي إجراءات أو إجراءات مُهدد بها) التي يتكبدها الأطراف المعوضة فيما يتعلق بأي مطالبة تنشأ عن أي إخلال من جهتك بشروط الاستخدام هذه أو عن استخدامك لتطبيق TLG و/أو حسابك. تلتزم ببذل قصارى جهدك للاشتراك معنا في الدفاع عن أي مطالبة. ونحتفظ بالحق في الاستعانة -على نفقتنا الخاصة- بمحام منفصل وتولي مهام الدفاع عن أي مسألة والسيطرة عليها حصريًا رهنًا بتعويض نتقاضاه منك.
+
+الاختصاص القضائي ومكان المحاكمة
+تخضع شروط الاستخدام هذه وتُفسَّر وفقًا لقوانين الدنمارك، بغض النظر عن مبادئ تنازع القوانين. توافق أن أي دعوى طبقًا للقانون أو قواعد العدالة المطلقة تنشأ عن شروط الاستخدام هذه أو تطبيق TLG أو ما يتعلق بهما يجب أن تُرفع -وأن يكون مكان المحاكمة- في الدنمارك على وجه الحصر، وتوافق بموجبه على الاختصاص الشخصي لهذه المحاكم وعلى الخضوع له لأغراض التقاضي في أي دعوى من هذا القبيل، علمًا بأن القوانين الإلزامية قد تُجيز لك رفع دعوى قضائية أمام اختصاصات قضائية أخرى. لا نتعهد بأن أي محتوى أو تطبيق TLG مناسب أو متاح للاستخدام في أي مكان بعينه. وأولئك الذين يختارون الوصول إلى تطبيق TLG يفعلون ذلك على عهدتهم الخاصة، ويتحملون مسؤولية الامتثال لكافة القوانين المعمول بها بما يشمل المحلي منها.
+
+التعديلات
+يجوز لنا في أي وقت تعديل شروط الاستخدام هذه (بما يشمل تعديل وحذف وإضافة أي جزء منها). وفي حال أدخلنا تعديلًا جوهريًا على شروط الاستخدام هذه، نخطرك بهذا التعديل بإرسال رسالة بريد إلكتروني على أحدث عنوان بريد إلكتروني توافينا به، و/أو بنشر إخطار بهذا التعديل على مواقع الويب المشمولة بشروط الاستخدام هذه أو عبر متجر التطبيقات ذي الصلة أو التطبيق نفسه. ويسري هذا التعديل الخاص بشروط الاستخدام هذه بعد انقضاء ثلاثين (30) يومًا تقويميًا بعد إرسالنا الإخطار الإلكتروني إليك. وباستخدام التطبيق بعد إخطار الثلاثين (30) يومًا، يُعتبر هذا موافقة منك على أي تعديلات جوهرية، علمًا بأنك وحدك المسؤول -في كافة الأوقات- عن تحديث بياناتك الشخصية لموافاتنا بعنوان البريد الإلكتروني الحالي خاصتك. وفي حال كان عنوان البريد الإلكتروني الذي قدمته إلينا غير صالح، أو تعذر عليه تسليم الإخطار المذكور أعلاه لأي سبب، فلا يؤثر ذلك على كون إرسالنا لرسالة البريد الإلكتروني التي تحوي هذا الإخطار يُشكِّل إخطارًا ساريًا بأي تعديلات ترد فيه.</TOU>
+  <LobbyTitleEULA>اتفاقية ترخيص المستخدم النهائي</LobbyTitleEULA>
+  <LobbyTitleLegoWedo>LEGO WeDo</LobbyTitleLegoWedo>
+  <LobbyInfoVersion>الإصدار</LobbyInfoVersion>
+  <LobbyInfoLanguageSelect>اللغات</LobbyInfoLanguageSelect>
+  <LobbyInfoPrivacyPolicy>سياسة الخصوصية</LobbyInfoPrivacyPolicy>
+  <LobbyInfoTOU>شروط الاستخدام</LobbyInfoTOU>
+  <LobbyInfoCookiePolicy>سياسة ملفات تعريف الارتباط</LobbyInfoCookiePolicy>
+  <LobbyInfoTeacherGuide>دليل المعلم</LobbyInfoTeacherGuide>
+  <LobbyInfoTeacherGuideLinkDescription>انقر هنا لإعادة التوجيه</LobbyInfoTeacherGuideLinkDescription>
+  <LobbyInfoTeacherGuideTitle>دليل المعلم</LobbyInfoTeacherGuideTitle>
+  <LobbyInfoTeacherGuideLinkURL>REPLACEWITHHTTPcache.lego.com/bigdownloads/buildinginstructions/6109825.pdf</LobbyInfoTeacherGuideLinkURL>
+  <StartupScreenEnterPassword>يرجى إدخال كلمة المرور الخاصة بك:</StartupScreenEnterPassword>
+  <StartupScreenDontHavePassword>لا أملك كلمة مرور</StartupScreenDontHavePassword>
+  <StartupScreenDontHavePasswordDescription>طُوِّر هذا التطبيق للاستخدام في الأغراض التعليمية، ويتطلب اقتناء برنامج WeDo 2.0 من LEGOREPLACEWITHTRADEMARK Education. اتصل بموزع LEGOREPLACEWITHTRADEMARK Education المحلي لمزيد من المعلومات.
+
+بعد تفعيل منتجات برنامج  WeDo 2.0 على www.LEGOEducation.com/LERO، تجد رمز التطبيق خاصتك على صفحة منتجات برنامج WeDo.</StartupScreenDontHavePasswordDescription>
+  <ButtonSubmit>إرسال</ButtonSubmit>
+  <ButtonOK>موافق</ButtonOK>
+  <ButtonCancel>إلغاء</ButtonCancel>
+  <UpdateCheckUpdatesAvailable>An update is available for your software.</UpdateCheckUpdatesAvailable>
+  <UpdateWindows10Title>Warning</UpdateWindows10Title>
+  <UpdateWindows10Text>يتطلب هذا التطبيق إجراء تحديث هام لنظام التشغيل Windows 10 حتى يمكن تشغيله. يرجى تحديث نظام التشغيل Windows 10 لأحدث إصدار.</UpdateWindows10Text>
+  <Windows10BLENotFound>تعذر تحديد جهاز بلوتوث منخفض الطاقة مدعوم على نظامك. يرجى توصيل دونجل مدعوم.</Windows10BLENotFound>
+  <Windows10ContinueWithoutBLE>تابع استخدام التطبيق دون دعم بلوتوث</Windows10ContinueWithoutBLE>
+  <Windows10BLENotFoundPopup>تعذر تحديد جهاز بلوتوث منخفض الطاقة مدعوم على نظامك.</Windows10BLENotFoundPopup>
+  <LobbyInfoOnlineContentError>نأسف جداً، يبدو أن هناك مشكلة في الشبكة. يرجى التحقق من الاتصال بالإنترنت والمحاولة مرة أخرى.</LobbyInfoOnlineContentError>
+  <LobbyInfoLanguageTitle>حدد اللغة المفضلة</LobbyInfoLanguageTitle>
+  <LobbyInfoLanguageDescription>تفضيلات اللغة تتحكم في اللغة التي تراها في مكتبة المشاريع ومكتبة التصميم والتعليمات والإعدادات.</LobbyInfoLanguageDescription>
+  <LobbyInfoTeacherGuidePageTitle>الوصول إلى أدلة المعلمين عبر الإنترنت</LobbyInfoTeacherGuidePageTitle>
+  <LobbyInfoTeacherGuidePageDescription>أدلة المعلمين متوفرة عبر الإنترنت. للوصول إليها دون اتصال، احفظ ملف PDF على جهازك.</LobbyInfoTeacherGuidePageDescription>
+  <LobbyInfoAboutPageTitle>راجع الشروط والخصوصية</LobbyInfoAboutPageTitle>
+  <LobbyInfoAboutPageDescription>سياسة الخصوصية وسياسة ملفات تعريف الارتباط لمجموعة LEGO Group متوفرة عبر الإنترنت.</LobbyInfoAboutPageDescription>
+  <LobbyInfoAbout>نبذة</LobbyInfoAbout>
+  <LocationSettingNeedsToBeEnabledButtonPositive>فتح الإعدادات</LocationSettingNeedsToBeEnabledButtonPositive>
+  <PleaseEnableBluetoothButtonPositive>تشغيل البلوتوث</PleaseEnableBluetoothButtonPositive>
+  <LocationSettingNeedsToBeEnabled>LEGOREPLACEWITHTRADEMARK Education WeDo 2.0 يحتاج للوصول إلى موقع الجهاز الخاص بك حتى تعمل تقنية Bluetooth بشكل صحيح.</LocationSettingNeedsToBeEnabled>
+  <PleaseEnableBluetooth>يرجى تشغيل البلوتوث للاتصال بجهازك (أجهزتك).</PleaseEnableBluetooth>
+  <OnboardingWelcome>مرحبًا بك في مقدمة WeDo 2.0 من LEGOREPLACEWITHTRADEMARK Education.</OnboardingWelcome>
+  <OnboardingSkip>SKIP</OnboardingSkip>
+  <OnboardingBuildModel>ابنِ نموذج LEGOREPLACEWITHTRADEMARK خاصًا بك ووصله بجهازك.</OnboardingBuildModel>
+  <OnboardingBuildCode>أنشئ كودًا برمجيًا خاصًا بك عن طريق جمع مكعبات البرمجة معًا.</OnboardingBuildCode>
+  <OnboardingPressPlay>اضغط على مكعب التشغيل لتحريك نموذج LEGOREPLACEWITHTRADEMARK خاصتك.</OnboardingPressPlay>
+  <OnboardingIntroductionActivities>ابدأ بأربعة أنشطة سريعة وسهلة.</OnboardingIntroductionActivities>
+  <OnboardingGetStarted>الشروع في العمل</OnboardingGetStarted>
+  <LobbyCreateProjectHelp>انقر الكتاب لإنشاء أول مشروع WeDo 2.0 خاصًا بك.</LobbyCreateProjectHelp>
+  <LobbyReplayIntroduction>أعِد تشغيل المقدمة</LobbyReplayIntroduction>
+  <LobbySettingsHelp>اعثر على دليل المعلم في لوحة الإعدادات.</LobbySettingsHelp>
+  <SettingsOnboardingTitle>المقدمة</SettingsOnboardingTitle>
+  <SettingsOnboardingSubTitle>اختر إعداداتك لمقدمة WeDo 2.0.</SettingsOnboardingSubTitle>
+  <SettingsOnboardingDescription>تشرح لك المقدمة طريقة استخدام تطبيق WeDo 2.0. تستطيع تمكين المقدمة وتعطيلها من هنا.</SettingsOnboardingDescription>
+  <SettingsOnboardingOption>عرض المقدمة عند بدء تشغيل تطبيق WeDo 2.0.</SettingsOnboardingOption>
+  <SettingsOnboardingLink>تفضل بزيارة legoeducation.com للاطلاع على مزيد من مواد الدعم والتدريس للمعلمين.</SettingsOnboardingLink>
+  <ConnectionPanelChooseSmartHub>اختيار الموزع الذكي.</ConnectionPanelChooseSmartHub>
+  <ConnectionPanelBackToProject>العودة إلى المشروع.</ConnectionPanelBackToProject>
+  <EULAAddition>BluetoothREPLACEWITHTRADEMARK هي علامة تجارية مملوكة لشركةBluetooth SIG, Inc.
+
+angular.js - حقوق التأليف والنشر لعام 2010-2015 محفوظة لشركة Google, Inc.، مرخص بموجب ترخيص The MIT الممنوح إلى LEGO System A/S
+
+Bootstrap - حقوق التأليف والنشر لعام 2011-2015 محفوظة لصالح Twitter, Inc، مرخص بموجب ترخيص MIT الممنوح إلى LEGO System A/S
+
+Font-Awesome وHammerjs - حقوق التأليف والنشر لعام 2011-2014 محفوظة لصالح Jorik Tangelder (Eight Media)، كل منهما بموجب ترخيص MIT الممنوح إلى LEGO System A/S
+Hammer.js for Angular.js - حقوق التأليف والنشر لعام 2014 محفوظة لصالح Ryan S Mullins، مرخص بموجب ترخيص The MIT الممنوح إلى LEGO System A/S
+
+Audio Recording:
+License Type: MIT
+We are currently using RecordRTC (REPLACEWITHHTTPrecordrtc.org/RecordRTC.html) for recording video and sound.
+
+Synchronisation:
+License Type: Apache License 2.0.
+The only third-party library I'm using on Chrome OS is this one:
+REPLACEWITHHTTPSgithub.com/GoogleChrome/chrome-app-samples/tree/master/libraries/gapi-chrome-apps-lib
+
+Roboto Font: Copyright 2011 Google Inc. Licensed under the Apache License, Version 2.0 - REPLACEWITHHTTPwww.apache.org/licenses/LICENSE-2.0
+MediaCaptureWPF: Licensed under the Apache License Version 2.0, January 2004 - REPLACEWITHHTTPwww.apache.org/licenses/LICENSE-2.0
+
+نهاية اتفاقية ترخيص المستخدم النهائي</EULAAddition>
+  <LobbyInfoLobby>الصفحة الرئيسية</LobbyInfoLobby>
+  <LobbyQuickStartProjectTitle>جديد في WeDo 2.0</LobbyQuickStartProjectTitle>
+  <LobbyQuickStartProjectButton>مشروعك الأول</LobbyQuickStartProjectButton>
+  <LobbyTeacherResourcesButtonTitle>موارد المعلم</LobbyTeacherResourcesButtonTitle>
+  <LobbyTeacherResourcesButtonSubtitle>انقر هنا للحصول علي نصائح وروابط مفيده</LobbyTeacherResourcesButtonSubtitle>
+  <LobbyClassroomProjectsButtonTitle>مشاريع الفصل الدراسي</LobbyClassroomProjectsButtonTitle>
+  <LobbyClassroomProjectsButtonSubtitle>انقر هنا لمتابعة الدروس الممتعة</LobbyClassroomProjectsButtonSubtitle>
+  <LobbyUserProjectsAreaTitle>مشاريعي</LobbyUserProjectsAreaTitle>
+  <ButtonYes>نعم</ButtonYes>
+  <ButtonNo>لا</ButtonNo>
+  <LobbyDeleteSingleProjectsDialog>هل تريد بالتأكيد حذف هذا المشروع؟</LobbyDeleteSingleProjectsDialog>
+  <LobbyProjectAgeDays>منذ أيام</LobbyProjectAgeDays>
+  <LobbyProjectAgeHours>منذ ساعات</LobbyProjectAgeHours>
+  <LobbyDefaultProjectName>المشروع</LobbyDefaultProjectName>
+  <LoadingScreenStartup>جارِ بدء التشغيل...</LoadingScreenStartup>
+  <LoadingScreenFull>جار التحميل...</LoadingScreenFull>
+  <LoadingScreenContent>يرجى الانتظار...</LoadingScreenContent>
+  <LoadingScreenModel>لحظة واحدة...</LoadingScreenModel>
+  <LobbyInfoLobbyPageTitle>إدارة الصفحة الرئيسية</LobbyInfoLobbyPageTitle>
+  <LobbyInfoLobbyPageDescription>هل صفحتك الرئيسية مزدحمة للغاية؟ انقر على الزر أدناه لحذف "مشاريعي" كلها من الصفحة الرئيسية.</LobbyInfoLobbyPageDescription>
+  <LobbyInfoLobbyPageDeleteAllProjectsButton>حذف كل المشاريع</LobbyInfoLobbyPageDeleteAllProjectsButton>
+  <LobbyDeleteAllProjectsDialogLocal>هل تريد بالتأكيد حذف "مشاريعي" كلها؟</LobbyDeleteAllProjectsDialogLocal>
+  <LobbyDeleteAllProjectsDialogGoogleDrive>هل تريد بالتأكيد حذف كل المشاريع علي حساب Google هذا؟</LobbyDeleteAllProjectsDialogGoogleDrive>
+  <TeacherResourcesPage1Title>بمشاركة الفصل الدراسي الخاص بك، قم بوضع مجموعة من القواعد الخاصة باستخدام مجموعات WeDo 2.0.</TeacherResourcesPage1Title>
+  <TeacherResourcesPage2Title>قسِّم الطلاب إلى مجموعات من طالبين. أعطِ كل مجموعة حقيبة WeDo 2.0.</TeacherResourcesPage2Title>
+  <TeacherResourcesPage3Title>شجع الطلاب علي السؤال والاستكشاف والإنشاء.</TeacherResourcesPage3Title>
+  <TeacherResourcesPage4Title>اسمح للأطفال ببعض الوقت حتى يتمكنوا من إصلاح التصميمات الخاصة بهم. لا تقلق إذا لم تتمكن من إنهاء كافة الأنشطة في حصة واحدة.</TeacherResourcesPage4Title>
+  <TeacherResourcesPage5Title>احفظ قطع LEGO "المفقودة" في حاويه لتسهيل إدارة الحقائب.</TeacherResourcesPage5Title>
+  <TeacherResourcesPage6Title>انقر على أيقونه للعثور علي مزيد من المعلومات عبر الإنترنت.</TeacherResourcesPage6Title>
+  <TeacherResourcesLink1Title>أدله المعلم</TeacherResourcesLink1Title>
+  <TeacherResourcesLink2Title>خطط الدروس</TeacherResourcesLink2Title>
+  <TeacherResourcesLink3Title>الدعم</TeacherResourcesLink3Title>
+  <RenameHubTitle>يرجى إعادة تسمية الموزع الذكي.</RenameHubTitle>
+  <RenameHubDescription>لإدارة الفصل الدراسي على نحو أكثر سهولة، نوصي بتسمية الموزع الذكي بنفس الاسم الوارد على ملصق الموزع.</RenameHubDescription>
+  <RenameHubYesButton>إعادة تسمية الموزع الذكي</RenameHubYesButton>
+  <RenameHubCancelButton>ليس الآن</RenameHubCancelButton>
+  <TeacherResourcesSlidesButton>نصائح وتلميحات الفصل الدراسي</TeacherResourcesSlidesButton>
+</strings>

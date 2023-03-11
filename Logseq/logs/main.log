@@ -1,0 +1,131 @@
+[2023-02-28 12:20:11.228] [info] Logseq App(0.8.17) Starting... 
+[2023-02-28 12:20:11.236] [info] restore proxy settings {:type "system"}
+[2023-02-28 12:20:11.238] [info] set proxy to {:type "system"}
+[2023-02-28 12:20:16.663] [debug] :electron.handler/watch-dir {:path "/home/alex/.logseq/config"}
+[2023-02-28 12:20:16.766] [debug] :electron.handler/unwatch-dir {:path "/local"}
+[2023-02-28 12:20:16.770] [debug] :electron.handler/watch-dir {:path "/local"}
+[2023-02-28 12:21:05.220] [info] :electron.handler/open-dir open folder selection dialog
+[2023-02-28 12:21:38.915] [debug] :electron.handler/open-dir {:path "/home/alex/Documents/Wiki"}
+[2023-02-28 12:21:39.207] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/Wiki"}
+[2023-02-28 12:24:12.273] [info] :electron.handler/backup backup db file /home/alex/Documents/Wiki/logseq/config.edn
+[2023-02-28 12:43:28.610] [info] :electron.handler/unlink {:path "draws/2023-02-28-12-42-29.excalidraw"}
+[2023-02-28 12:43:28.612] [error] :electron.handler/unlink draws/2023-02-28-12-42-29.excalidraw Error: ENOENT: no such file or directory, rename 'draws/2023-02-28-12-42-29.excalidraw' -> '/home/alex/Documents/Wiki/logseq/.recycle/draws_2023-02-28-12-42-29.excalidraw'
+    at Object.renameSync (node:fs:993:3)
+    at /tmp/.mount_LogseqSoKCfu/resources/app/electron.js:15043:34
+    at $JSCompiler_prototypeAlias$$.$cljs$core$IFn$_invoke$arity$2$ (/tmp/.mount_LogseqSoKCfu/resources/app/electron.js:9487:178)
+    at /tmp/.mount_LogseqSoKCfu/resources/app/electron.js:15911:76
+    at node:electron/js2c/browser_init:189:579
+    at EventEmitter.<anonymous> (node:electron/js2c/browser_init:161:11433)
+    at EventEmitter.emit (node:events:527:28)
+[2023-02-28 12:49:34.737] [debug] window-all-closed Quiting...
+[2023-02-28 12:55:04.390] [info] Logseq App(0.8.17) Starting... 
+[2023-02-28 12:55:04.406] [info] restore proxy settings {:type "system"}
+[2023-02-28 12:55:04.409] [info] set proxy to {:type "system"}
+[2023-02-28 12:55:10.464] [debug] :electron.handler/watch-dir {:path "/home/alex/.logseq/config"}
+[2023-02-28 12:55:10.537] [debug] :electron.handler/unwatch-dir {:path "/home/alex/Documents/Wiki"}
+[2023-02-28 12:55:10.538] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/Wiki"}
+[2023-02-28 12:55:22.407] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/Wiki"}
+[2023-02-28 21:54:24.428] [debug] window-all-closed Quiting...
+[2023-02-28 22:08:11.005] [info] Logseq App(0.8.17) Starting... 
+[2023-02-28 22:08:11.019] [info] restore proxy settings {:type "system"}
+[2023-02-28 22:08:11.020] [info] set proxy to {:type "system"}
+[2023-02-28 22:08:17.067] [debug] :electron.handler/watch-dir {:path "/home/alex/.logseq/config"}
+[2023-02-28 22:08:17.112] [debug] :electron.handler/unwatch-dir {:path "/home/alex/Documents/Wiki"}
+[2023-02-28 22:08:17.114] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/Wiki"}
+[2023-02-28 22:22:54.676] [debug] window-all-closed Quiting...
+[2023-02-28 22:23:09.499] [info] Logseq App(0.8.17) Starting... 
+[2023-02-28 22:23:09.506] [info] restore proxy settings {:type "system"}
+[2023-02-28 22:23:09.508] [info] set proxy to {:type "system"}
+[2023-02-28 22:23:13.047] [debug] :electron.handler/watch-dir {:path "/home/alex/.logseq/config"}
+[2023-02-28 22:23:13.093] [debug] :electron.handler/unwatch-dir {:path "/home/alex/Documents/Wiki"}
+[2023-02-28 22:23:13.094] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/Wiki"}
+[2023-02-28 22:23:39.035] [info] :electron.handler/backup backup db file /home/alex/Documents/Wiki/logseq/config.edn
+[2023-02-28 22:23:54.669] [info] :electron.handler/open-dir open folder selection dialog
+[2023-02-28 22:24:04.802] [debug] :electron.handler/open-dir {:path nil}
+[2023-02-28 22:24:35.867] [info] :electron.handler/open-dir open folder selection dialog
+[2023-02-28 22:24:44.716] [debug] :electron.handler/open-dir {:path "/home/alex/Documents/The Great Gatsby"}
+[2023-02-28 22:24:45.290] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/The Great Gatsby"}
+[2023-03-01 09:45:09.049] [info] Logseq App(0.8.17) Starting... 
+[2023-03-01 09:45:09.065] [info] restore proxy settings {:type "system"}
+[2023-03-01 09:45:09.068] [info] set proxy to {:type "system"}
+[2023-03-01 09:45:17.545] [debug] :electron.handler/watch-dir {:path "/home/alex/.logseq/config"}
+[2023-03-01 09:45:17.611] [debug] :electron.handler/unwatch-dir {:path "/home/alex/Documents/The Great Gatsby"}
+[2023-03-01 09:45:17.614] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/The Great Gatsby"}
+[2023-03-01 09:45:36.392] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/Wiki"}
+[2023-03-01 09:45:36.700] [info] :electron.handler/backup backup db file /home/alex/Documents/Wiki/logseq/config.edn
+[2023-03-01 09:45:57.677] [info] :electron.handler/open-dir open folder selection dialog
+[2023-03-01 09:46:06.003] [debug] :electron.handler/open-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 09:46:07.370] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 09:46:52.123] [error] Search blocks failed:  SqliteError: no such column: dissertation
+[2023-03-01 09:46:52.130] [error] Search page failed:  SqliteError: no such column: dissertation
+[2023-03-01 09:51:01.440] [error] Search blocks failed:  SqliteError: no such column: dissertation
+[2023-03-01 09:51:01.463] [error] Search page failed:  SqliteError: no such column: dissertation
+[2023-03-01 09:52:05.792] [debug] [Marketplace] Installing: sawhney17/logseq-pdf-export
+[2023-03-01 09:52:06.132] [debug] [Marketplace] [Release URL]  https://api.github.com/repos/sawhney17/logseq-pdf-export/releases/latest [Response Status/Text] 200 -
+[2023-03-01 09:52:06.147] [debug] [Marketplace] [Release Asset] # 2.2.7  => https://api.github.com/repos/sawhney17/logseq-pdf-export/releases/assets/86400548
+[2023-03-01 09:52:07.062] [debug] [Marketplace] [UpdatedDONE] 2.2.7
+[2023-03-01 09:56:11.675] [debug] [Marketplace] Installing: briansunter/logseq-plugin-gpt3-openai
+[2023-03-01 09:56:12.009] [debug] [Marketplace] [Release URL]  https://api.github.com/repos/briansunter/logseq-plugin-gpt3-openai/releases/latest [Response Status/Text] 200 -
+[2023-03-01 09:56:12.014] [debug] [Marketplace] [Release Asset] # v1.6.1  => https://api.github.com/repos/briansunter/logseq-plugin-gpt3-openai/releases/assets/91532289
+[2023-03-01 09:56:12.571] [debug] [Marketplace] [UpdatedDONE] v1.6.1
+[2023-03-01 09:56:29.029] [debug] [Marketplace] Installing: haydenull/logseq-plugin-markdown-table
+[2023-03-01 09:56:29.312] [debug] [Marketplace] [Release URL]  https://api.github.com/repos/haydenull/logseq-plugin-markdown-table/releases/latest [Response Status/Text] 200 -
+[2023-03-01 09:56:29.316] [debug] [Marketplace] [Release Asset] # v1.7.0  => https://api.github.com/repos/haydenull/logseq-plugin-markdown-table/releases/assets/62533609
+[2023-03-01 09:56:30.172] [debug] [Marketplace] [UpdatedDONE] v1.7.0
+[2023-03-01 09:56:34.827] [debug] [Marketplace] Installing: haydenull/logseq-plugin-agenda
+[2023-03-01 09:56:35.046] [debug] [Marketplace] [Release URL]  https://api.github.com/repos/haydenull/logseq-plugin-agenda/releases/latest [Response Status/Text] 200 -
+[2023-03-01 09:56:35.049] [debug] [Marketplace] [Release Asset] # v2.14.0  => https://api.github.com/repos/haydenull/logseq-plugin-agenda/releases/assets/96455059
+[2023-03-01 09:56:35.699] [debug] [Marketplace] [UpdatedDONE] v2.14.0
+[2023-03-01 10:15:28.618] [debug] window-all-closed Quiting...
+[2023-03-01 10:15:47.952] [info] Logseq App(0.8.17) Starting... 
+[2023-03-01 10:15:47.968] [info] restore proxy settings {:type "system"}
+[2023-03-01 10:15:47.990] [info] set proxy to {:type "system"}
+[2023-03-01 10:15:57.980] [debug] :electron.handler/watch-dir {:path "/home/alex/.logseq/config"}
+[2023-03-01 10:15:58.085] [debug] :electron.handler/unwatch-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 10:15:58.088] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 10:17:21.416] [error] Search blocks failed:  SqliteError: fts5: syntax error near ""
+[2023-03-01 10:17:21.431] [error] Search page failed:  SqliteError: fts5: syntax error near ""
+[2023-03-01 10:17:26.133] [error] Search blocks failed:  SqliteError: no such column: recher
+[2023-03-01 10:17:26.139] [error] Search page failed:  SqliteError: no such column: recher
+[2023-03-01 10:17:26.456] [error] Search blocks failed:  SqliteError: no such column: recherc
+[2023-03-01 10:17:26.460] [error] Search page failed:  SqliteError: no such column: recherc
+[2023-03-01 10:17:27.136] [error] Search blocks failed:  SqliteError: no such column: recherhe
+[2023-03-01 10:17:27.140] [error] Search page failed:  SqliteError: no such column: recherhe
+[2023-03-01 10:17:27.911] [error] Search blocks failed:  SqliteError: no such column: recherche
+[2023-03-01 10:17:27.916] [error] Search page failed:  SqliteError: no such column: recherche
+[2023-03-01 10:27:30.685] [debug] window-all-closed Quiting...
+[2023-03-01 10:41:27.321] [info] Logseq App(0.8.17) Starting... 
+[2023-03-01 10:41:27.342] [info] restore proxy settings {:type "system"}
+[2023-03-01 10:41:27.356] [info] set proxy to {:type "system"}
+[2023-03-01 10:41:37.160] [debug] :electron.handler/watch-dir {:path "/home/alex/.logseq/config"}
+[2023-03-01 10:41:37.263] [debug] :electron.handler/unwatch-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 10:41:37.266] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 10:42:26.886] [debug] :electron.fs-watcher/on-unlink {:path "/home/alex/Documents/Alex/draws/2023-02-28-12-42-29.excalidraw"}
+[2023-03-01 10:43:17.212] [debug] window-all-closed Quiting...
+[2023-03-01 11:35:59.228] [info] Logseq App(0.8.17) Starting... 
+[2023-03-01 11:35:59.243] [info] restore proxy settings {:type "system"}
+[2023-03-01 11:35:59.253] [info] set proxy to {:type "system"}
+[2023-03-01 11:36:07.432] [debug] :electron.handler/watch-dir {:path "/home/alex/.logseq/config"}
+[2023-03-01 11:36:07.519] [debug] :electron.handler/unwatch-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 11:36:07.521] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 11:38:40.821] [info] new-window https://brainquote.com/lists/topics/top-10-excess-quotes.com
+[2023-03-01 11:40:19.147] [info] new-window https://brainquote.com/lists/topics/top-10-excess-quotes
+[2023-03-01 11:58:52.760] [info] Logseq App(0.8.17) Starting... 
+[2023-03-01 11:58:52.768] [info] restore proxy settings {:type "system"}
+[2023-03-01 11:58:52.776] [info] set proxy to {:type "system"}
+[2023-03-01 11:59:01.124] [debug] :electron.handler/watch-dir {:path "/home/alex/.logseq/config"}
+[2023-03-01 11:59:01.207] [debug] :electron.handler/unwatch-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 11:59:01.209] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 12:02:55.061] [info] Logseq App(0.8.17) Starting... 
+[2023-03-01 12:02:55.078] [info] restore proxy settings {:type "system"}
+[2023-03-01 12:02:55.089] [info] set proxy to {:type "system"}
+[2023-03-01 12:03:03.768] [debug] :electron.handler/watch-dir {:path "/home/alex/.logseq/config"}
+[2023-03-01 12:03:03.865] [debug] :electron.handler/unwatch-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 12:03:03.868] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 12:04:26.901] [info] Logseq App(0.8.17) Starting... 
+[2023-03-01 12:04:26.908] [info] restore proxy settings {:type "system"}
+[2023-03-01 12:04:26.917] [info] set proxy to {:type "system"}
+[2023-03-01 12:04:35.628] [debug] :electron.handler/watch-dir {:path "/home/alex/.logseq/config"}
+[2023-03-01 12:04:35.723] [debug] :electron.handler/unwatch-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 12:04:35.726] [debug] :electron.handler/watch-dir {:path "/home/alex/Documents/Alex"}
+[2023-03-01 12:11:59.610] [debug] window-all-closed Quiting...

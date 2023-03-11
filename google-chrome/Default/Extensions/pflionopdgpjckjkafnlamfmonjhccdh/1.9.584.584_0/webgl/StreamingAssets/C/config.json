@@ -1,0 +1,17 @@
+{
+  "mediaSizes": {
+    "movie": {
+      "prefix": "small.",
+      "suffix": ".webm"
+    },
+    "image": {
+      "prefix": "high.",
+      "suffix": ".jpg"
+    },
+    "slideshow": {
+      "prefix": "high.",
+      "suffix": ".jpg"
+    }
+  },
+  "includeSnacksize": true
+}

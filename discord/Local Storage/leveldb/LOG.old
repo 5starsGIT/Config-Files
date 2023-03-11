@@ -1,0 +1,83 @@
+2023/03/05-11:08:07.908 268f Reusing MANIFEST /home/alex/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/03/05-11:08:07.909 268f Recovering log #1482
+2023/03/05-11:08:07.909 268f Level-0 table #1484: started
+2023/03/05-11:08:07.912 268f Level-0 table #1484: 11121 bytes OK
+2023/03/05-11:08:07.914 268f Delete type=0 #1482
+2023/03/05-11:08:07.914 267e Compacting 4@0 + 1@1 files
+2023/03/05-11:08:07.953 267e Generated table #1486@0: 124 keys, 2574099 bytes
+2023/03/05-11:08:07.953 267e Compacted 4@0 + 1@1 files => 2574099 bytes
+2023/03/05-11:08:07.954 267e compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/05-11:08:07.955 267e Delete type=2 #1484
+2023/03/05-11:08:07.955 267e Delete type=2 #1476
+2023/03/05-11:08:07.955 267e Delete type=2 #1478
+2023/03/05-11:08:07.955 267e Delete type=2 #1472
+2023/03/05-11:08:07.955 267e Delete type=2 #1481
+2023/03/05-11:24:50.690 267e Level-0 table #1488: started
+2023/03/05-11:24:50.692 267e Level-0 table #1488: 12816 bytes OK
+2023/03/05-11:24:50.693 267e Delete type=0 #1485
+2023/03/05-11:25:17.739 267e Level-0 table #1490: started
+2023/03/05-11:25:17.741 267e Level-0 table #1490: 6766 bytes OK
+2023/03/05-11:25:17.742 267e Delete type=0 #1487
+2023/03/05-11:27:13.552 267e Level-0 table #1492: started
+2023/03/05-11:27:13.563 267e Level-0 table #1492: 9391 bytes OK
+2023/03/05-11:27:13.565 267e Delete type=0 #1489
+2023/03/05-12:34:11.235 2dac Level-0 table #1494: started
+2023/03/05-12:34:11.238 2dac Level-0 table #1494: 15441 bytes OK
+2023/03/05-12:34:11.240 2dac Delete type=0 #1491
+2023/03/05-12:34:11.240 2dac Compacting 4@0 + 1@1 files
+2023/03/05-12:34:11.265 2dac Generated table #1495@0: 124 keys, 2574052 bytes
+2023/03/05-12:34:11.265 2dac Compacted 4@0 + 1@1 files => 2574052 bytes
+2023/03/05-12:34:11.267 2dac compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/05-12:34:11.268 2dac Delete type=2 #1494
+2023/03/05-12:34:11.268 2dac Delete type=2 #1488
+2023/03/05-12:34:11.268 2dac Delete type=2 #1490
+2023/03/05-12:34:11.268 2dac Delete type=2 #1486
+2023/03/05-12:34:11.268 2dac Delete type=2 #1492
+2023/03/05-12:38:38.602 2dac Level-0 table #1497: started
+2023/03/05-12:38:38.615 2dac Level-0 table #1497: 11940 bytes OK
+2023/03/05-12:38:38.616 2dac Delete type=0 #1493
+2023/03/05-13:36:25.978 2dac Level-0 table #1499: started
+2023/03/05-13:36:26.018 2dac Level-0 table #1499: 10718 bytes OK
+2023/03/05-13:36:26.020 2dac Delete type=0 #1496
+2023/03/05-14:27:25.979 d33d Level-0 table #1501: started
+2023/03/05-14:27:26.019 d33d Level-0 table #1501: 15918 bytes OK
+2023/03/05-14:27:26.020 d33d Delete type=0 #1498
+2023/03/05-14:43:25.979 d386 Level-0 table #1503: started
+2023/03/05-14:43:26.018 d386 Level-0 table #1503: 6300 bytes OK
+2023/03/05-14:43:26.019 d386 Delete type=0 #1500
+2023/03/05-14:43:26.020 d386 Compacting 4@0 + 1@1 files
+2023/03/05-14:43:26.049 d386 Generated table #1504@0: 124 keys, 2574087 bytes
+2023/03/05-14:43:26.049 d386 Compacted 4@0 + 1@1 files => 2574087 bytes
+2023/03/05-14:43:26.050 d386 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/05-14:43:26.051 d386 Delete type=2 #1497
+2023/03/05-14:43:26.051 d386 Delete type=2 #1503
+2023/03/05-14:43:26.051 d386 Delete type=2 #1499
+2023/03/05-14:43:26.051 d386 Delete type=2 #1501
+2023/03/05-14:43:26.051 d386 Delete type=2 #1495
+2023/03/05-15:16:25.978 d33d Level-0 table #1506: started
+2023/03/05-15:16:26.034 d33d Level-0 table #1506: 1440631 bytes OK
+2023/03/05-15:16:26.036 d33d Delete type=0 #1502
+2023/03/05-15:57:25.978 d33d Level-0 table #1508: started
+2023/03/05-15:57:26.018 d33d Level-0 table #1508: 9420 bytes OK
+2023/03/05-15:57:26.019 d33d Delete type=0 #1505
+2023/03/05-17:52:19.763 e5dc Level-0 table #1510: started
+2023/03/05-17:52:19.775 e5dc Level-0 table #1510: 15657 bytes OK
+2023/03/05-17:52:19.777 e5dc Delete type=0 #1507
+2023/03/05-18:09:36.590 e5dc Level-0 table #1512: started
+2023/03/05-18:09:36.629 e5dc Level-0 table #1512: 11098 bytes OK
+2023/03/05-18:09:36.631 e5dc Delete type=0 #1509
+2023/03/05-18:09:36.631 e5dc Compacting 4@0 + 1@1 files
+2023/03/05-18:09:36.658 e5dc Generated table #1513@0: 124 keys, 2575056 bytes
+2023/03/05-18:09:36.658 e5dc Compacted 4@0 + 1@1 files => 2575056 bytes
+2023/03/05-18:09:36.659 e5dc compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/05-18:09:36.659 e5dc Delete type=2 #1504
+2023/03/05-18:09:36.659 e5dc Delete type=2 #1508
+2023/03/05-18:09:36.660 e5dc Delete type=2 #1506
+2023/03/05-18:09:36.660 e5dc Delete type=2 #1512
+2023/03/05-18:09:36.660 e5dc Delete type=2 #1510
+2023/03/05-18:11:36.589 e5dc Level-0 table #1515: started
+2023/03/05-18:11:36.600 e5dc Level-0 table #1515: 15993 bytes OK
+2023/03/05-18:11:36.602 e5dc Delete type=0 #1511
+2023/03/05-18:22:36.589 10b24 Level-0 table #1517: started
+2023/03/05-18:22:36.628 10b24 Level-0 table #1517: 10225 bytes OK
+2023/03/05-18:22:36.629 10b24 Delete type=0 #1514

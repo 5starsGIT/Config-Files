@@ -1,0 +1,15 @@
+2023/03/01-19:20:15.008 8132 Reusing MANIFEST /home/alex/.config/obsidian/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/01-19:20:15.009 8132 Recovering log #7
+2023/03/01-19:20:15.009 8132 Reusing old log /home/alex/.config/obsidian/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2023/03/01-19:20:22.090 846b Level-0 table #12: started
+2023/03/01-19:20:22.091 846b Level-0 table #12: 5667 bytes OK
+2023/03/01-19:20:22.093 846b Delete type=0 #7
+2023/03/01-19:20:22.093 846b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/01-19:20:22.093 846b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x10\xd0\x0e\xfbixB\x00\x03\x00\x00\x00\x00\x00\x00$@' @ 490 : 1
+2023/03/01-19:20:22.093 846b Compacting 1@1 + 1@2 files
+2023/03/01-19:20:22.094 846b Generated table #13@1: 58 keys, 1334 bytes
+2023/03/01-19:20:22.094 846b Compacted 1@1 + 1@2 files => 1334 bytes
+2023/03/01-19:20:22.096 846b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/01-19:20:22.096 846b Delete type=2 #9
+2023/03/01-19:20:22.096 846b Delete type=2 #12
+2023/03/01-19:20:22.096 846b Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x10\xd0\x0e\xfbixB\x00\x03\x00\x00\x00\x00\x00\x00$@' @ 490 : 1 .. (end); will stop at (end)

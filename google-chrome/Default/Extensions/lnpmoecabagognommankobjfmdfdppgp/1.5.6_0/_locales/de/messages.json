@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Konjugieren Sie mühelos französische Verben mit Hilfe dieses französischen Verbkonjugators."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Konjugation Vatefaireconjuguer"
+   }
+}

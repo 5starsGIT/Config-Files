@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<strings>
+  <OnlineStartupTitle>Ditt Wedo 2.0 program er oppdatert!</OnlineStartupTitle>
+  <OnlineStartupDescription>Du må jobbe i tilkoblet modus for å få tilgang til alt undervisningsmateriellet for WeDo 2.0. Dette krever en Internett-tilkobling. I frakoblet modus har du tilgang til programmeringsmiljøet, dokumentasjonsverktøyet og dine egne opprettede prosjekter. Velg tilkoblet modus eller frakoblet modus ved å bruke knappene nedenfor. Hvis du ønsker å jobbe med undervisningsmateriellet i frakoblet modus, blir du veiledet gjennom nedlastingsprosessen.</OnlineStartupDescription>
+  <OnlineStartupButtonGoOffline>Frakoblet modus</OnlineStartupButtonGoOffline>
+  <OnlineStartupButtonUseOnline>Tilkoblet modus</OnlineStartupButtonUseOnline>
+  <OnlineStartUpUpdatedContentTitle>Ditt Wedo 2.0 program er oppdatert!</OnlineStartUpUpdatedContentTitle>
+  <OnlineStartUpUpdatedContentDescription>WeDo 2.0 har automatisk byttet til tilkoblet modus på grunn av denne oppdateringen. Hvis du vil se alt undervisningsmateriellet for WeDo 2.0, må du ha Internett-tilgang som standard. Du har tilgang til programmeringsmiljøet, dokumentasjonsverktøyet og dine egne opprettede prosjekter, selv om du er frakoblet. Velg om du ønsker å jobbe i tilkoblet modus eller frakoblet modus. Hvis du ønsker å jobbe med undervisningsmateriellet i frakoblet modus, blir du veiledet gjennom nedlastingsprosessen.</OnlineStartUpUpdatedContentDescription>
+  <OnlineStartUpUpdatedContentButtonGoToOfflineSettings>Frakoblet modus</OnlineStartUpUpdatedContentButtonGoToOfflineSettings>
+  <OnlineStartUpUpdatedContentButtonUseOnline>Tilkoblet modus</OnlineStartUpUpdatedContentButtonUseOnline>
+  <OnlineOfflineSettingsTitle>Innstillinger for frakoblet modus</OnlineOfflineSettingsTitle>
+  <OnlineOfflineSettingsStatusDownloadAll>Last ned alt undervisningsmateriellet for WeDo 2.0</OnlineOfflineSettingsStatusDownloadAll>
+  <OnlineOfflineSettingsStatusContentDownloadSize>(_CONTENT_SIZE_ GB)</OnlineOfflineSettingsStatusContentDownloadSize>
+  <OnlineOfflineSettingsPerformanceWarningText>UNDER NEDLASTING KAN WEDO 2.0 KJØRE SAKTERE ENN FORVENTET.</OnlineOfflineSettingsPerformanceWarningText>
+  <OnlineOfflineSettingsClearCacheDescriptionText>Dine personlige prosjekter påvirkes ikke av dette. Når du bytter til tilkoblet modus, fjernes alt undervisningsmateriell fra enheten din. Du har tilgang til materiellet på nett, eller du kan laste ned materiellet på nytt ved å bytte til frakoblet modus.</OnlineOfflineSettingsClearCacheDescriptionText>
+  <OnlineOfflineSettingsStatusDownloading>LASTER NED</OnlineOfflineSettingsStatusDownloading>
+  <OnlineOfflineSettingStatusNoConnection>Ingen Internett-forbindelse</OnlineOfflineSettingStatusNoConnection>
+  <OnlineOfflineSettingsButton>Bytt til tilkoblet modus</OnlineOfflineSettingsButton>
+  <LobbyInfoGuideGettingStarted>Innledning</LobbyInfoGuideGettingStarted>
+  <LobbyInfoGuideGettingStartedSize/>
+  <LobbyInfoGuidePreparation>Forberedelsesveiledning</LobbyInfoGuidePreparation>
+  <LobbyInfoGuidePreparationSize>(Størrelse 250kB, PDF)</LobbyInfoGuidePreparationSize>
+  <LobbyInfoGuideTeacherComputing>Matematisk tankegang – lærerveiledning</LobbyInfoGuideTeacherComputing>
+  <LobbyInfoGuideTeacherComputingSize/>
+  <LobbyInfoGuideSoftwareGuide>Verktøykasse</LobbyInfoGuideSoftwareGuide>
+  <LobbyInfoGuideSoftwareGuideSize/>
+  <LobbyInfoGuideTeacherScience>Naturfag – lærerveiledning</LobbyInfoGuideTeacherScience>
+  <LobbyInfoGuideTeacherScienceSize/>
+  <LobbyInfoGuideTeacherGuideSize>(Størrelse 15MB, PDF)</LobbyInfoGuideTeacherGuideSize>
+  <syncmanualunauth>Kan ikke synkronisere brukerdata.
+
+Trykk på spinner-ikonet i Lobby og tilordne tilgang til Google Drive.</syncmanualunauth>
+  <synclocaloffline>Kan ikke synkronisere brukerdata.
+
+Sørg for at du er tilkoblet Internett.</synclocaloffline>
+  <syncmwillnotify>Kan ikke synkronisere brukerdata.
+
+Du blir varslet når det er mulig å prøve på nytt.</syncmwillnotify>
+  <syncbigrecovered>Nå er det mulig å synkronisere brukerdata igjen.
+
+Trykk på spinner-ikonet i Lobby og prøv på nytt.</syncbigrecovered>
+  <syncofflinestate>Kan ikke synkronisere brukerdata.
+
+Trykk på spinner-ikonet i Lobby og tilordne tilgang til Google Drive.</syncofflinestate>
+  <LobbyInfoPreparationGuideTitle>Important: Renaming the Smarthub</LobbyInfoPreparationGuideTitle>
+  <LobbyInfoPreparationGuideLinkDescription>Klikk her for å bli omdirigert</LobbyInfoPreparationGuideLinkDescription>
+  <EULAFull>LEGO® Education WeDo 2.0 Lisensavtale for sluttbrukere for programvare
+Denne lisensen for LEGO® Education WeDo 2.0 programvaren  (heretter kalt "Programvare") tildeles av LEGO System A/S, Aastvej 2.0, DK-1 Billund, Danmark (heretter kalt "LEGO System").
+VIKTIG - LES NØYE: Dette er en juridisk avtale mellom deg (enten som privatperson eller juridisk enhet) og LEGO System. Den pålegger visse begrensninger på din bruk av Programvaren. LEGO System og tilknyttede leverandører og lisensgivere beholder eierskap til Programvaren, og ingen rettigheter gis til deg med unntak av en lisens til å bruke Programvaren og tilhørende dokumentasjon (heretter referert til som "Dokumentasjonen") i henhold til vilkårene beskrevet i denne Avtalen. Ved å klikke på knappen “Send” nedenfor samtykker du i å være og bli bundet av vilkårene i denne Lisensavtalen. Dersom du ikke samtykker i vilkårene i denne Avtalen, må du umiddelbart returnere eller tilintetgjøre alle kopier av Programvaren, inkludert enhver tilhørende Dokumentasjon og eventuelle kopier du har lastet ned fra nettbutikk eller nettsted.
+LEGO System tilbyr noen tredjepartsprogramvarer som er underlagt separate lisensvilkår, enten når du installerer EV3-programvaren eller som en del av Programvaren ("Tredjepartsprogramvare"). Slik Tredjepartsprogramvare er ikke inkludert i betydningen av ordet "Programvare".
+Programvaren distribueres av LEGO System via flere forhandlerpartnere, herunder via Apple App Store, Google Play Store, Microsoft Windows store eller nettstedet LEGOEducation.com. Dersom du har mottatt Programvaren fra en annen kilde, kan den være defekt eller betydelig endret i forhold til originalproduktet. Bruk av enhver modifisert versjon skjer på egen risiko.
+I. TILDELING AV LISENS:
+LEGO System gir herved deg (Brukeren) en ikke-eksklusiv, begrenset lisens til å bruke Programvaren og Dokumentasjonen for ikke-kommersielle formål i henhold til følgende vilkår:
+Du kan KUN bruke Programvaren på følgende måte:
+(a)	(a) bruke Programvaren på én eller flere enheter hos den navngitte institusjonen;
+
+(b) kopiere Programvaren som nødvendig for å installere Programvaren på enhetene som tillates i Del I (a), og for sikkerhetskopier og arkiveringsformål. Kopiene må i så tilfelle inneholde alle av Programvarens merknader om eiendomsrett;
+(c) bruke innhold som er laget gjennom bruk av Programvaren for ethvert ikke-kommersielt formål og
+(d) opprette prosjekter for LEGO® Education WeDo 2.0,, som beskrevet i Dokumentasjonen, men kun for ikke-kommersielle formål med mindre LEGO System gir deg skriftlig tillatelse til å gjøre dette for kommersielle formål. Hvis du ønsker å bruke Programvaren til å opprette eller dele prosjekter for et kommersielt formål, kontakter du LEGO Systems representant for å be om LEGO Systems tillatelse. LEGO System A/S er ikke forpliktet til å gi slik tillatelse.
+Du kan IKKE:
+(1) tillate andre enkeltpersoner til å bruke Programvaren med mindre du sørger for at de andre enkeltpersonene (a) forstår at deres bruk er underlagt vilkårene og betingelsene i denne Avtalen, og (b) at de overholder denne Avtalen;
+(2) foreta omvendt utvikling ("reverse engineering"), dekompilere, demontere eller på annen måte redusere Programvaren til en form som kan forstås av andre (bortsett fra i den grad denne begrensningen er uttrykkelig forbudt i henhold til gjeldende lov), endre eller oversette Programvaren eller Dokumentasjonen eller skape avledede produkter basert på Programvaren eller Dokumentasjonen;
+(3) kopiere Programvaren eller Dokumentasjonen (med unntak av sikkerhetskopieringsformål);
+(4) selge, leie, tilordne, distribuere eller på annen måte overføre Programvaren eller Dokumentasjonen, eller noen av de andre lisensierte rettigheter, med tanke på Programvaren eller Dokumentasjonen;
+(5) overføre Programvaren eller Dokumentasjonen via Internett;
+(6) bruke sikkerhetskopien på annen måte enn som erstatning for opprinnelig kopi;
+(7) bruke Programvaren for ethvert kommersielt formål;
+(8) fjerne enhver erklæring eller merknad om eiendomsrett i eller på Programvaren eller Dokumentasjonen;
+ (9) bruke Programvaren for ethvert formål relatert til produksjon, markedsføring, salg eller distribusjon av plastbyggeklosser;
+(10) bruke Programvaren til å få tilgang til ikke-krypterte data på en måte som omgår den digitale innholdsbeskyttelsen i Programvaren, eller bruke Programvaren til å, eller sammen med enheter, programmer eller tjenester som er ment å, omgå teknologiske forholdsregler som brukes til å kontrollere tilgang til, eller rettighetene i, en innholdsfil eller annet arbeid som er beskyttet av lover om opphavsrett i enhver jurisdiksjon;
+(11) foreta en handling som resulterer i at Programvaren som er underlagt en lisens som krever, eller hevder å kreve, som en betingelse for bruk, endring eller distribusjon, at (a) koden som er eller som kan bli underlagt lisensen, avsløres eller distribueres i kildekodeform, eller (b) andre har rettigheten til å endre eller skape avledede produkter basert på koden, som er eller kan bli underlagt lisensen; eller
+(12) direkte eller indirekte eksportere, eksportere Programvaren på nytt, laste ned, overføre eller sende Programvaren i strid med andre paragraf i del VII nedenfor.
+Enhver bruk eller overføring som er brudd på ovennevnte begrensninger vil føre til umiddelbart og automatisk opphør av din lisens.
+II. PROGRAMVARE:
+Ved behov kan du laste ned programvaren én eller flere ganger til enheten(e), men programvaren kan ikke overføres til eller brukes av en annen person. Lisensen gir deg ingen rettigheter til forbedringer eller oppdateringer.
+III. TITTEL:
+Enhver tittel, eierskap, rettigheter og åndsrettigheter i og til Programvaren og Dokumentasjonen, og alle kopier av Programvaren og Dokumentasjonen, skal fortsatt eies av LEGO System og/eller deres leverandører og lisensgivere. Alle rettigheter som ikke uttrykkelig gis til deg i denne Avtalen, er forbeholdt LEGO System og/eller deres leverandører og lisensgivere. Programvaren beskyttes av nasjonale lover om opphavsrett og internasjonale avtaler om opphavsrett.
+Tittel, eierskapsrettigheter og åndsrettigheter i og til innholdet som gjøres tilgjengelig gjennom Programvaren, inkludert ethvert innhold i Programvarens demonstrasjonsfiler, er gjeldende innholdseiers eiendom og kan beskyttes av gjeldende lover om opphavsrett eller andre lover. Denne lisensen gir deg ingen rettigheter til slikt innhold. Teksten, byggeinstruksjonene og bildene i Programvaren eies av LEGO System og/eller deres leverandører og lisensgivere. Du kan imidlertid bruke disse for dine egne ikke-kommersielle formål.
+LEGO, LEGO logoen og minifiguren er varemerker for og/eller eiendommen til LEGO gruppen.  ©2016 The LEGO Group. All rights reserved.
+
+Du finner informasjon nedenfor om patenter som omfatter Programvaren samt varsler og lisenser relatert til tredjepartsprogramvare.
+IV. BEGRENSET GARANTI:
+LEGO System garanterer at Programvaren er fri fra material- eller produksjonsfeil ved normal bruk i en periode på nitti (90) dager fra leveringsdatoen, som kan bevises med en kopi av kvitteringen.
+BORTSETT FRA DEN FOREGÅENDE GARANTIEN, GJØRES TREDJEPARTSPROGRAMVAREN TILGJENGELIG "SLIK DEN ER" UTEN NOEN FORM FOR GARANTI, VERKEN UTTRYKKELIG ELLER UNDERFORSTÅTT, INKLUDERT, MEN IKKE BEGRENSET TIL, UNDERFORSTÅTTE GARANTIER FOR SALGBARHET, EGENHET FOR ET BESTEMT FORMÅL, TITTEL, KRENKELSE AV TREDJEPARTS RETTIGHETER ELLER EVENTUELLE ANDRE GARANTIER I HENHOLD TIL LOVFESTEDE RETTIGHETER (I DEN GRAD DET TILLATES I HENHOLD TIL GJELDENDE LOVGIVNING). HELE RISIKOEN NÅR DET GJELDER KVALITETEN OG YTELSEN TIL PROGRAMVAREN, OG EVENTUELL TREDJEPARTSPROGRAMVARE, LIGGER HOS DEG. SKULLE PROGRAMVAREN VISE SEG Å VÆRE DEFEKT, PÅTAR DU (OG IKKE LEGO System ELLER EN AUTORISERT LEGO SYSTEM FORHANDLER) DEG HELE KOSTNADEN TIL ALL NØDVENDIG SERVICE, REPARASJON ELLER RETTELSE. ENKELTE LAND OG STATER GODTAR IKKE EKSKLUDERING AV INDIREKTE GARANTIER, SÅ DET ER MULIG AT OVENNEVNTE ANSVARSFRASKRIVELSE IKKE GJELDER FOR DEG. DENNE GARANTIEN GIR DEG SPESIFIKKE LOVBESTEMTE RETTIGHETER OG DET KAN OGSÅ HENDE AT DU HAR ANDRE RETTIGHETER SOM KAN VARIERE I ULIKE STATER ELLER LAND. LEGO System garanterer ikke at funksjonaliteten som finnes i Programvaren eller prosjekter basert på Programvaren kommer til å oppfylle kravene dine, eller at operasjonen av Programvaren og nevnte prosjekter ikke forstyrres eller er feilfrie.
+V. BEGRENSNINGER I KOMPENSASJON:
+BEGRENSNINGER I KOMPENSASJON
+LEGO Systems hele ansvar, og din eksklusive kompensasjon, skal være:
+a.	(a)	utskiftingen av Programvare som ikke oppfyller LEGO System "Begrensede garanti" og som returneres til LEGO System eller en autorisert LEGO System forhandler med en kopi av kvittering, eller
+
+a.	(b)	dersom LEGO System eller forhandleren ikke kan levere utskiftningsprogramvare som er fri fra material- eller produksjonsfeil, kan du avslutte denne Avtalen ved å returnere programmet og du vil da få pengene refundert.
+
+LEGO SYSTEM ELLER NOEN AV DERES LEVERANDØRER ELLER LISENSGIVERE SKAL IKKE UNDER NOEN OMSTENDIGHETER HOLDES ANSVARLIG FOR SKADER, INKLUDERT, MEN IKKE BEGRENSET TIL, TAP AV FORTJENESTE, TAP AV OPPSPARTE MIDLER ELLER ANDRE INDIREKTE, SPESIELLE ELLER TILFELDIGE SKADER, STRAFFESKADER ELLER FØLGESKADER SOM OPPSTÅR FRA BRUKEN AV ELLER MANGLENDE EVNE TIL Å BRUKE PROGRAMVAREN ELLER EVENTUELL TREDJEPARTSPROGRAMVARE, SELV OM EVENTUELL KOMPENSASJON IKKE OPPFYLLER SITT TILTENKTE FORMÅL ELLER LEGO SYSTEM, NOEN AV DERES LEVERANDØRER ELLER LISENSGIVERE ELLER EN AUTORISERT LEGO FORHANDLER HAR BLITT INFORMERT OM MULIGHETEN FOR SLIKE SKADER, ELLER EVENTUELLE KRAV FRA ANDRE PARTER.
+LEGO SYSTEMS LEVERANDØRER OG LISENSGIVERE GIR INGEN GARANTIER OG SKAL IKKE HOLDES ANSVARLIG I FORBINDELSE MED DENNE AVTALEN.
+ENKELTE LAND ELLER STATER TILLATER IKKE ANSVARSBEGRENSNING ELLER ANSVARSFRASKRIVELSE FOR TILFELDIGE SKADER ELLER FØLGESKADER, SÅ DET ER MULIG AT OVENNEVNTE ANSVARSBEGRENSNING ELLER ANSVARSFRASKRIVELSE IKKE GJELDER FOR DEG.
+VI. OPPHØR:
+Lisensen og din rett til å bruke Programvaren skal opphøre automatisk dersom du ikke overholder bestemmelsene i denne Avtalen. Slikt opphør krever ikke forutgående varsel fra LEGO System. Ved opphør skal du returnere Programvaren og Dokumentasjonen til LEGO System, eller tilintetgjøre alle kopier av Programvaren og Dokumentasjonen. Delene III, VI og VII, forskriftene til garantiansvarsfraskrivelsene i del IV, og forskriftene om ekskluderingen av ansvar og skader i del V, skal forsatt gjelde ved Avtalens opphør.
+VII. GJELDENDE LOV:
+Denne avtalen er underlagt lovene til det landet hvor du kjøpte lisensen.
+Du bekrefter at Programvaren er, og at tredjepartsprogramvaren som kommer med Programvaren kan være, underlagt kontroll i henhold til eksportkontrollovene og bestemmelsene i USA og andre land, og gjeldende globale eksportkontrollover og bestemmelser. Du godtar at du ikke direkte eller indirekte eksporterer, eksporterer Programvaren på nytt, overfører, laster ned eller sender Programvaren eller eventuell Tredjepartsprogramvare, på noen måter: (a) til en forbudt destinasjon, enhet eller enkeltperson uten påkrevd(e) eksportlisens(er) eller autorisasjon(er) fra den amerikanske regjeringen og/eller andre gjeldende eksportlisensautoritet, eller (b) som bryter lovene og bestemmelsene til USA eller lovene og bestemmelsene til den gjeldende jurisdiksjonen hvor du bruker eller laster ned Programvaren. Hvis du laster ned Programvaren, representerer og garanterer du at: (a) du ikke befinner deg i, eller er under kontroll av, et land hvis lover og bestemmelser forbyr import av Programvaren eller annen Tredjepartsprogramvare som leveres med Programvaren, og (b) at du ikke befinner deg i, eller er under kontroll av, et land hvis lover og bestemmelser til USA og/eller andre gjeldende eksportkontrolllover forbyr eksport av Programvaren eller annen Tredjepartsprogramvare som leveres med Programvaren.
+Hvis du er et byrå, en avdeling eller en annen enhet i den amerikanske regjeringen: (a) informeres du om at Programvaren er et "kommersielt objekt" som er utviklet eksklusivt for egen regning, og består av "kommersiell datamaskinprogramvare" og "dokumentasjon for kommersiell datamaskinprogramvare" slik disse begrepene er definert og brukes i gjeldende amerikanske anskaffelsesbestemmelser, og (b) at Programvaren er lisensiert (i) bare som et kommersielt objekt og (ii) kun med de rettighetene som gis til alle andre lisenshavere i henhold til vilkårene og betingelsene til denne Avtalen. Du godtar at du ikke skal bruke, duplisere eller avsløre Programvaren på noen måte som ikke er uttrykkelig tillatt i henhold til denne Avtalen. Ingenting i denne Avtalen krever at LEGO System eller noen av deres leverandører eller lisensgivere produserer eller tilrettelegger tekniske data for eller til deg.
+VIII. HELE AVTALEN:
+DU BEKREFTER AT DU HAR LEST OG FORSTÅTT DENNE AVTALEN OG GODTAR Å VÆRE BUNDET TIL VILKÅRENE OG BETINGELSENE. DU GODTAR OGSÅ AT DETTE ER DEN FULLSTENDIGE OG EKSKLUSIVE AVTALEN MELLOM OSS, OG AT DEN ERSTATTER EVENTUELLE FORSLAG ELLER TIDLIGERE AVTALER, MUNTLIG ELLER SKRIFTLIG, OG ANNEN KOMMUNIKASJON MELLOM OSS I FORBINDELSE MED INNHOLDET I DENNE AVTALEN.
+        Denne Avtalen kan ikke modifiseres med mindre dette skjer skriftlig og blir underskrevet av autorisert representant for LEGO System og deg.</EULAFull>
+  <TOU>Vilkår for bruk for LEGO® Apps
+
+Gjeldende fra november 2014
+
+INNLEDNING
+Denne appen leveres til deg fra LEGO System A/S, Aastvej 1, DK-7190 Billund, CVR nr.. 47458714.
+LEGO System A/S og alle eventuelle enheter som kontrollerer eller kontrolleres av eller er tilknyttet, refereres samlet til som “TLG”, “vi”, “oss”, eller “vår”.
+Ved å bruke TLG-apper eller merke av i en boks som sier at du godtar eller samtykker i disse vilkårene, angir du at du er enig i disse vilkårene for bruk. Hvis du ikke er enig i disse vilkårene for bruk, kan du ikke bruke TLG-appen. Uten å begrense de foregående generelle prinsippene, samtykker du i at slik vurdering inkluderer din bruk av TLG-appen og mottak av data, materialer og informasjon som er tilgjengelig i eller via TLG-appen.
+
+For USA:
+LEGO Education, 501 Boylston Street Suite 4103, Boston Massachusetts, 02116
+Telefon:   1-800-362-4308
+E-post:   orders@LEGOeducation.us
+
+For resten av verden:
+LEGO Education Ltd., 3rd Floor Longus House, Newgate Row, Eastgate Street, Chester CH1 1ER, Great Britain
+Telefon:   +44 (0) 800-334-5346
+E-post:  customer.service@LEGOeducation.eu
+
+BEHANDLING AV PERSONLIG INFORMASJON OG BRUK AV INFORMASJONSKAPSLER
+Våre retningslinjer for personvern og retningslinjer for bruk av informasjonskapsler er en integrert del av denne avtalen og er tilgjengelig på: http://www.lego.com/legal/legal-notice/privacy-policy-full and http://www.lego.com/legal/cookieinfo.
+Informasjon om behandling av barns personopplysninger som er samlet inn på nett, er tilgjengelig i våre retningslinjer for personvern. 
+I forbindelse med LEGO® Education WeDo 2.0 kan TLG samle inn aggregert data om bruk av et produkt, for å bidra til å forbedre produktytelsen og fremtidige tilbud. TLG vil ikke under noen omstendighet samle inn personopplysninger om brukere (inkludert eventuelle lærere eller elever) gjennom LEGO Education WeDo 2.0 . (LEGO Education er en selskapsavdeling hos TLG, og er ansvarlig for produktet og løsningene som tilbys under "LEGO Education" merkevaren.) Eventuelle tredjeparter som opptrer på vegne av TLG, er bundet av samme regler og prinsipper som TLG.
+
+BRUK AV INNHOLD
+All informasjon, materialer, funksjoner og annet innhold (“Innhold”) som finnes i TLG-appen er vår opphavsrettsbeskyttede eiendom eller opphavsrettsbeskyttet eiendom tilhørende våre lisensgivere eller lisenstakere. Alle varemerker, tjenestemerker, varenavn og varekjennetegn tilhører oss og/eller våre lisensgivere eller lisenstakere. Vi kan når som helst og uansett årsak avslutte din tilgang til TLG-appen eller endre TLG-appen eller slette innhold eller funksjoner uansett måte.
+Du samtykker i at du ikke skal kopiere, distribuere eller foreta omvendt utvikling av Innholdet eller bruke Innholdet på noen måte med mindre dette er integrert i eller nødvendig for bruk av Innholdet.
+
+KONTOER
+Enkelte tjenester i TLG-appen tillater eller krever at du oppretter en LEGO ID konto for å delta eller sikre ytterligere fordeler. Se Vilkår for LEGO ID på https://account2.lego.com/Terms%20Of%20Service/ShowTOSPage.
+Vi kan midlertidig stoppe eller avslutte din tilgang til å bruke TLG-appen eller deler av den i tilfelle manglende overholdelse av Vilkårene for LEGO ID eller eventuelle spesielle vilkår knyttet til en bestemt tjeneste.
+
+APP-DISTRIBUTØRER/BUTIKKER
+Du samtykker i at disse vilkårene for bruk utelukkende er avtalt mellom deg og oss og ikke mellom deg og appen. Distributører/butikker, for eksempel Apple, Inc., Amazon, Samsung osv. (“App-distributører”). Vi, og ikke app-distributørene, er eneansvarlig for TLG-appen og tjenestene og Innholdet som er tilgjengelig i appen. Partene samtykker i at App-distributørene ikke har noen forpliktelse til å levere vedlikeholds- og støttetjenester for TLG-appen.
+I den maksimale utstrekning det er tillatt i henhold til gjeldende lovgivning, gir App-distributørene ingen garanti på noen måte når det gjelder TLG-appen.
+Du samtykker i at vi, og ikke App-distributørene, er ansvarlig for å håndtere eventuelle krav fra deg eller tredjepart knyttet til TLG-appen eller ditt eierskap til og/eller din bruk av TLG-appen, inkludert, men ikke begrenset til: (i) produktansvarskrav; (ii) eventuelle krav som skyldes at TLG-appen ikke oppfyller eventuelle gjeldende juridiske eller lovmessige krav; og (iii) krav som oppstår på bakgrunn av forbrukerbeskyttelse eller lignende lovgivning.
+Du samtykker i at vi, og ikke App-distributørene, er ansvarlig for undersøkelse, forsvar, forlik og avvisning av eventuelle krav fra tredjepart knyttet til brudd på åndsverkloven, relatert til TLG-appen eller ditt eierskap til og din bruk av TLG-appen.
+Du erklærer og garanterer at (i) du ikke er bosatt i et land som er underlagt en boikott fra den amerikanske regjeringen eller som er angitt av den amerikanske regjeringen som et “terroriststøttende” land; og (ii) at du ikke er oppført på noen av den amerikanske regjeringens lister over forbudte eller begrensede parter.
+Du samtykker i å overholde alle gjeldende tredjeparts kontraktsvilkår når du bruker TLG-appen (dvs. at du ikke må bryte avtalevilkårene fra din leverandør av trådløse datatjenester mens du bruker TLG-appen).
+Partene samtykker i at App-distributørene og deres underleverandører er tredjepartsbegunstiget i disse Vilkårene for bruk. Når du godkjenner Vilkårene for bruk, har App-distributørene rett (og vil anses som å ha akseptert denne retten) til å håndheve Vilkårene for bruk ovenfor deg, som tredjepartsbegunstiget i Vilkårene.
+Du samtykker i at din bruk av TLG-appen er underlagt bruksreglene som er angitt i App-distributørenes til enhver tid gjeldende Vilkår for tjenesten for å laste ned apper via App-distributøren.
+
+SKADESLØSHOLDELSE
+Du er ansvarlig for å ivareta konfidensialiteten til dine brukernavn, passord og kontoer, samt alle aktiviteter du foretar på dine kontoer. I den grad det er tillatt i henhold til gjeldende lovgivning samtykker du herved i å skadesløsholde, forsvare og holde oss, våre lisensgivere, lisenstakere, distributører, agenter, representanter og andre autoriserte brukere og hver av de foregående enhetenes forhandlere, distributører, tjenesteleverandører og leverandører og alle foregående enheters direktører, styremedlemmer, eiere, ansatte, representanter og tildelte enheter (samlet kalt “Skadesløsholdte parter”) skadesløse og fri fra alt ansvar når det gjelder alle tap, skader, ansvar og kostnader (inkludert kostnader til rettsforlik og eventuelle andre juridiske eller andre typer avgifter og kostnader når det gjelder granskninger eller forsvar mot søksmål eller trusler om søksmål) som pådras de Skadesløsholdte parter i forbindelse med eventuelle krav som oppstår som følge av dine eventuelle brudd på disse Vilkårene for bruk eller krav som oppstår som følge av din bruk av TLG-appen og/eller din(e) konto(er). Du plikter å iverksette alle rimelige tiltak for å samarbeide med oss i forsvaret mot eventuelle krav. Vi forbeholder oss retten til på egen regning å innhente separat juridisk assistanse og eksklusivt håndtere forsvar og kontroll over saken på andre måter, på bakgrunn av din skadesløsholdelse.
+
+JURISDIKSJON OG GJELDENDE RETT
+Disse Vilkårene for bruk er underlagt og fortolket i samsvar med lovgivningen i Danmark, uten hensyn til konflikt i lovprinsipper. Du samtykker at eventuelle søksmål eller forliksklager som oppstår i forbindelse med disse Vilkårene for bruk eller TLG-appen skal forelegges utelukkende for danske domstoler, og du samtykker herved i å være underlagt disse domstolenes personlige jurisdiksjon med det formål å løse slike tvister. Vær oppmerksom på at påbudt lovgivning kan pålegge deg å angi søksmål i andre jurisdiksjoner. Vi gir ingen erklæringer om at Innhold på noen TLG-app er passende eller tilgjengelig for bruk i et bestemt bruksområde. Hvis du velger å skaffe deg tilgang til en TLG-app, gjør du dette på eget initiativ og er ansvarlig for overholdelse av all gjeldende lovgivning, inkludert eventuelle gjeldende lokale lover.
+
+ENDRING
+Vi kan fra tid til annen endre disse Vilkårene for bruk (inkludert ved å endre, slette og/eller legge til deler). Hvis vi gjør omfattende endringer i disse Vilkårene for bruk, varsler vi deg om disse endringene ved å sende deg en e-post på den sist oppgitte e-postadressen og/eller ved å legge ut et varsel på nettstedene som er dekket av disse Vilkårene for bruk eller via den relevante App Store eller selve appen. Eventuelle endringer i disse Vilkårene for bruk trer i kraft tretti (30) kalenderdager etter at vi har sendt deg varsel om dette via e-post. Hvis du bruker appen innen varselet på tretti (30) kalenderdager, samtykker du i eventuelle større endringer. Vær oppmerksom på at du til enhver tid er ansvarlig for å holde dine personopplysninger og e-postadresse oppdatert. Hvis den siste e-postadressen du oppga, ikke er gyldig, eller hvis vi av andre årsaker ikke kan levere det ovennevnte varselet til deg, vil vår utsendelse av e-posten som inneholder varslet, utgjøre tilstrekkelig forhåndsvarsel for endringer som beskrevet i varslet.</TOU>
+  <LobbyTitleEULA>Lisensavtale for sluttbrukere for programvare</LobbyTitleEULA>
+  <LobbyTitleLegoWedo>LEGO WeDo</LobbyTitleLegoWedo>
+  <LobbyInfoVersion>Versjon</LobbyInfoVersion>
+  <LobbyInfoLanguageSelect>Språk</LobbyInfoLanguageSelect>
+  <LobbyInfoPrivacyPolicy>Personvernpolicy</LobbyInfoPrivacyPolicy>
+  <LobbyInfoTOU>Vilkår for bruk</LobbyInfoTOU>
+  <LobbyInfoCookiePolicy>Retningslinjer for informasjonskapsler</LobbyInfoCookiePolicy>
+  <LobbyInfoTeacherGuide>Lærerveiledning</LobbyInfoTeacherGuide>
+  <LobbyInfoTeacherGuideLinkDescription>Klikk her for å bli omdirigert</LobbyInfoTeacherGuideLinkDescription>
+  <LobbyInfoTeacherGuideTitle>Lærerveiledning</LobbyInfoTeacherGuideTitle>
+  <LobbyInfoTeacherGuideLinkURL>http://cache.lego.com/bigdownloads/buildinginstructions/6109825.pdf</LobbyInfoTeacherGuideLinkURL>
+  <StartupScreenEnterPassword>Oppgi passordet ditt:</StartupScreenEnterPassword>
+  <StartupScreenDontHavePassword>Jeg har ikke et passord</StartupScreenDontHavePassword>
+  <StartupScreenDontHavePasswordDescription>Denne appen er utviklet for utdanningsformål og krever anskaffelse av LEGO® Education WeDo 2.0 programvare.  Kontakt din lokale LEGO® Education distributør for ytterligere informasjon.
+
+Når du har aktivert WeDo 2.0 programvareprodukter på www.LEGOEducation.com/LERO, finner du appkoden på WeDo programvareproduktsiden.</StartupScreenDontHavePasswordDescription>
+  <ButtonSubmit>Send inn</ButtonSubmit>
+  <ButtonOK>OK</ButtonOK>
+  <ButtonCancel>Avbryt</ButtonCancel>
+  <UpdateCheckUpdatesAvailable>En oppdatering er tilgjengelige for programvaren.</UpdateCheckUpdatesAvailable>
+  <UpdateWindows10Title>Warning</UpdateWindows10Title>
+  <UpdateWindows10Text>Denne applikasjonen kan ikke kjøres uten en svært viktig oppdatering av Windows 10. Oppdater Windows 10 til nyeste versjon.</UpdateWindows10Text>
+  <Windows10BLENotFound>Finner ikke en Bluetooth Low Energy-enhet som støttes, på systemet ditt.
+Koble til en dongel som støttes.</Windows10BLENotFound>
+  <Windows10ContinueWithoutBLE>Fortsett å bruk programmet uten Bluetooth-støtte</Windows10ContinueWithoutBLE>
+  <Windows10BLENotFoundPopup>Finner ikke en Bluetooth Low Energy-enhet som støttes, på systemet ditt.</Windows10BLENotFoundPopup>
+  <LobbyInfoOnlineContentError>Vi beklager, men det ser ut til å være et nettverksproblem. Kontroller Internett-tilkoblingen, og prøv på nytt.</LobbyInfoOnlineContentError>
+  <LobbyInfoLanguageTitle>Velge språk</LobbyInfoLanguageTitle>
+  <LobbyInfoLanguageDescription>Språkinnstillinger kontrollerer språket du ser i Prosjektbibliotek, Designbiblioteket, Hjelp og Innstillinger.</LobbyInfoLanguageDescription>
+  <LobbyInfoTeacherGuidePageTitle>Få tilgang til lærerveiledningen på nettet</LobbyInfoTeacherGuidePageTitle>
+  <LobbyInfoTeacherGuidePageDescription>Lærerveiledningen er tilgjengelig på nettet. Hvis du vil ha tilgang til den i frakoblet modus, lagrer du PDF-en på enheten din.</LobbyInfoTeacherGuidePageDescription>
+  <LobbyInfoAboutPageTitle>Se vilkårene og retningslinjer for personvern</LobbyInfoAboutPageTitle>
+  <LobbyInfoAboutPageDescription>LEGO gruppens retningslinjer for personvern og bruk av informasjonskapsler er tilgjengelig på nettet.</LobbyInfoAboutPageDescription>
+  <LobbyInfoAbout>Om</LobbyInfoAbout>
+  <LocationSettingNeedsToBeEnabledButtonPositive>Åpne innstillinger</LocationSettingNeedsToBeEnabledButtonPositive>
+  <PleaseEnableBluetoothButtonPositive>Aktiver Bluetooth</PleaseEnableBluetoothButtonPositive>
+  <LocationSettingNeedsToBeEnabled>LEGO® Education WeDo 2.0 må ha tilgang til posisjonstjenester for enheten din for at Bluetooth skal fungere.</LocationSettingNeedsToBeEnabled>
+  <PleaseEnableBluetooth>Du må aktivere Bluetooth for å koble til enheten(e).</PleaseEnableBluetooth>
+  <OnboardingWelcome>Velkommen til innledningen for 
+LEGO® Education WeDo 2.0.</OnboardingWelcome>
+  <OnboardingSkip>SKIP</OnboardingSkip>
+  <OnboardingBuildModel>Bygg LEGO® modellen, og 
+koble den til enheten din.</OnboardingBuildModel>
+  <OnboardingBuildCode>Bygg din egen kode ved å 
+samle programmeringsikoner.</OnboardingBuildCode>
+  <OnboardingPressPlay>Trykk på Spill av-ikonet for
+å få liv i LEGO® modellen.</OnboardingPressPlay>
+  <OnboardingIntroductionActivities>Kom i gang med fire raske
+og enkle aktiviteter.</OnboardingIntroductionActivities>
+  <OnboardingGetStarted>Kom i gang</OnboardingGetStarted>
+  <LobbyCreateProjectHelp>Klikk på boken for å lage ditt første WeDo 2.0-prosjekt.</LobbyCreateProjectHelp>
+  <LobbyReplayIntroduction>Spill av innledningen på nytt</LobbyReplayIntroduction>
+  <LobbySettingsHelp>Finn lærerveiledningen i Innstillinger-panelet.</LobbySettingsHelp>
+  <SettingsOnboardingTitle>Innledning</SettingsOnboardingTitle>
+  <SettingsOnboardingSubTitle>Velg innstillingene for innledningen til WeDo 2.0</SettingsOnboardingSubTitle>
+  <SettingsOnboardingDescription>Innledningen viser deg hvordan du bruker WeDo 2.0-programmet. Du kan aktivere og deaktivere innledningen her.</SettingsOnboardingDescription>
+  <SettingsOnboardingOption>Vis innledningen når du starter WeDo 2.0-appen.</SettingsOnboardingOption>
+  <SettingsOnboardingLink>Gå til legoeducation.com for mer støtte og klasseromsaktiviteter for lærere.</SettingsOnboardingLink>
+  <ConnectionPanelChooseSmartHub>Velg Smarthub</ConnectionPanelChooseSmartHub>
+  <ConnectionPanelBackToProject>Tilbake til Prosjekt</ConnectionPanelBackToProject>
+  <EULAAddition>IX. DIVERSE:
+Bluetooth® er et varemerke som eies av Bluetooth SIG, Inc.
+
+angular.js - Copyright (c) 2010-2015 Google, Inc., lisensiert under The MIT License til LEGO System A/S
+
+Bootstrap - Copyright (c) 2011-2015 Twitter, Inc, lisensiert under The MIT License til LEGO System A/S
+
+Font-Awesome og Hammerjs - Copyright (C) 2011-2014 av Jorik Tangelder (Eight Media), begge lisensiert under The MIT License til LEGO System A/S
+Hammer.js for Angular.js - Copyright (c) 2014 Ryan S Mullins er lisensiert under The MIT License til LEGO System A/S
+Audio Recording:
+License Type: MIT
+We are currently using RecordRTC (http://recordrtc.org/RecordRTC.html) for recording video and sound.
+
+Synchronisation:
+License Type: Apache License 2.0.
+The only third-party library I'm using on Chrome OS is this one:
+https://github.com/GoogleChrome/chrome-app-samples/tree/master/libraries/gapi-chrome-apps-lib
+
+Roboto Font: Copyright 2011 Google Inc. Licensed under the Apache License, Version 2.0 - http://www.apache.org/licenses/LICENSE-2.0
+MediaCaptureWPF: Licensed under the Apache License Version 2.0, January 2004 - http://www.apache.org/licenses/LICENSE-2.0
+
+Slutt på Lisensavtale for sluttbrukere</EULAAddition>
+  <LobbyInfoLobby>Lobby</LobbyInfoLobby>
+  <LobbyQuickStartProjectTitle>Nyhet for WeDo 2.0</LobbyQuickStartProjectTitle>
+  <LobbyQuickStartProjectButton>Ditt første prosjekt</LobbyQuickStartProjectButton>
+  <LobbyTeacherResourcesButtonTitle>Lærerressurser</LobbyTeacherResourcesButtonTitle>
+  <LobbyTeacherResourcesButtonSubtitle>Klikk her for nyttige tips og lenker</LobbyTeacherResourcesButtonSubtitle>
+  <LobbyClassroomProjectsButtonTitle>Klasseromsprosjekter</LobbyClassroomProjectsButtonTitle>
+  <LobbyClassroomProjectsButtonSubtitle>Klikk her for å åpne leksjoner</LobbyClassroomProjectsButtonSubtitle>
+  <LobbyUserProjectsAreaTitle>Mine prosjekter</LobbyUserProjectsAreaTitle>
+  <ButtonYes>Ja</ButtonYes>
+  <ButtonNo>Nei</ButtonNo>
+  <LobbyDeleteSingleProjectsDialog>Er du sikker på at du vil slette dette prosjektet?</LobbyDeleteSingleProjectsDialog>
+  <LobbyProjectAgeDays>dager siden</LobbyProjectAgeDays>
+  <LobbyProjectAgeHours>timer siden</LobbyProjectAgeHours>
+  <LobbyDefaultProjectName>Prosjekt</LobbyDefaultProjectName>
+  <LoadingScreenStartup>Starter ...</LoadingScreenStartup>
+  <LoadingScreenFull>Laster ...</LoadingScreenFull>
+  <LoadingScreenContent>Vent litt ...</LoadingScreenContent>
+  <LoadingScreenModel>Et øyeblikk ...</LoadingScreenModel>
+  <LobbyInfoLobbyPageTitle>Administrere Lobby</LobbyInfoLobbyPageTitle>
+  <LobbyInfoLobbyPageDescription>Er det for fullt i Lobby? Klikk på knappen nedenfor for å slette alle «Mine prosjekter» fra Lobby.</LobbyInfoLobbyPageDescription>
+  <LobbyInfoLobbyPageDeleteAllProjectsButton>Slett alle prosjekter</LobbyInfoLobbyPageDeleteAllProjectsButton>
+  <LobbyDeleteAllProjectsDialogLocal>Er du sikker på at du vil slette alle «Mine prosjekter»?</LobbyDeleteAllProjectsDialogLocal>
+  <LobbyDeleteAllProjectsDialogGoogleDrive>Er du sikker på at du vil slette alle prosjekter fra denne Google-kontoen?</LobbyDeleteAllProjectsDialogGoogleDrive>
+  <TeacherResourcesPage1Title>Sett opp regler sammen med klassen, for bruken av WeDo 2.0 settene.</TeacherResourcesPage1Title>
+  <TeacherResourcesPage2Title>Grupper elever i par. Gi hvert par et WeDo 2.0-sett.</TeacherResourcesPage2Title>
+  <TeacherResourcesPage3Title>Oppmuntre elevene til å stille spørsmål, utforske og skape.</TeacherResourcesPage3Title>
+  <TeacherResourcesPage4Title>La barna få tid til å utforske og endre designene sine. Ikke vær bekymret hvis du ikke blir ferdig med alle aktivitetene i en økt.</TeacherResourcesPage4Title>
+  <TeacherResourcesPage5Title>Legg «manglende» LEGO-deler i en beholder for at det skal bli enklere å sortere senere.</TeacherResourcesPage5Title>
+  <TeacherResourcesPage6Title>Klikk på et ikon for å finne mer informasjon på nettet.</TeacherResourcesPage6Title>
+  <TeacherResourcesLink1Title>Lærerveiledninger</TeacherResourcesLink1Title>
+  <TeacherResourcesLink2Title>Leksjonsplaner</TeacherResourcesLink2Title>
+  <TeacherResourcesLink3Title>Kundestøtte</TeacherResourcesLink3Title>
+  <RenameHubTitle>Gi smarthuben et nytt navn.</RenameHubTitle>
+  <RenameHubDescription>For enklere administrasjon i klasserommet anbefaler vi å gi smarthuben det samme navnet som det står på den fysiske etiketten.</RenameHubDescription>
+  <RenameHubYesButton>Gi smarthuben nytt navn</RenameHubYesButton>
+  <RenameHubCancelButton>Ikke nå</RenameHubCancelButton>
+  <TeacherResourcesSlidesButton>Tips og triks for klasserommet</TeacherResourcesSlidesButton>
+</strings>

@@ -1,0 +1,10 @@
+Build revisions
+
+Manifest version: LOCAL
+
+JS Core sha1: 2ea8a6aa5808c8ebccda85b1006c05f0e45dcb89
+
+JS sha1: b3e25bcc9a4e67830a83f9e352c3412333084520
+
+JS build number: 584
+

@@ -1,0 +1,69 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "bg.js" ]
+      }
+   },
+   "default_locale": "en",
+   "description": "directprint.io enterprise printing for Chromebooks.",
+   "differential_fingerprint": "1.4138c4bb8498fa8e2469ec23cbfccc23b69398fa723e53ab3757c551862ddaac",
+   "externally_connectable": {
+      "matches": [ "https://directprint.io/*", "https://beta.directprint.io/*", "http://alpha.directprint.io:8080/*", "https://new.directprint.io/*" ]
+   },
+   "icons": {
+      "128": "icons/icon_128_v2.png",
+      "16": "icons/icon_16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4PZZA3AG8xAhslYtuaLAAqP5254tKhrT3u4OJgr73Oy8kBpyKai/vP4ndLShbmqVrM2YBd72jLuEajEj2DadqjjZOdPHSeSIS3rxm0jou2VOOqfkyqohZCztejurEnv5TUN8WwW1FrZaJUL9icOS/r8A+45twMMFId8A3GWC83nTTgqx7LvHCjEEom708mjeNSVB71RisXP5hL5BP0gM9Wo9b4xBjjRKtlZsYu4NN4ybW9fjb4wxt9CPeARV3JIX/kHyppUVOiXxUAJDc5QOztB0cW22Cm0aN2InyInZefMIfyUsMQHfXbjIIlb4UPsfnijvQPHdzBylJaAB/BndwQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "57",
+   "name": "directprint.io printing for Chromebooks",
+   "oauth2": {
+      "client_id": "1088801601552-d2ecel7d730r4rv1lp3da1i4pa5dim9p.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/userinfo.profile", "https://www.googleapis.com/auth/drive.file" ]
+   },
+   "offline_enabled": true,
+   "optional_permissions": [ "usb", {
+      "usbDevices": [ {
+         "productId": 20497,
+         "vendorId": 1046
+      }, {
+         "productId": 3605,
+         "vendorId": 1208
+      }, {
+         "productId": 514,
+         "vendorId": 1208
+      }, {
+         "productId": 32,
+         "vendorId": 2338
+      }, {
+         "productId": 33,
+         "vendorId": 2338
+      }, {
+         "productId": 34,
+         "vendorId": 2338
+      }, {
+         "productId": 35,
+         "vendorId": 2338
+      }, {
+         "productId": 3,
+         "vendorId": 1305
+      } ]
+   } ],
+   "permissions": [ "http://*/*", "https://*/*", "mdns", "alarms", "background", "storage", "unlimitedStorage", "printerProvider", "notifications", "identity", "identity.email", "enterprise.deviceAttributes", "system.network", "power" ],
+   "short_name": "Printing by directprint.io",
+   "sockets": {
+      "tcp": {
+         "connect": "*:*"
+      },
+      "udp": {
+         "bind": "*",
+         "send": "*"
+      }
+   },
+   "storage": {
+      "managed_schema": "schema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "22.11.16.1549"
+}

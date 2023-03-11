@@ -1,0 +1,358 @@
+{
+   "blockedMessage": {
+      "description": "Tab locking page message",
+      "message": "Navigation ciblée est actif. Navigation ciblée a été initié par $teacherName$ en utilisant Hapara Highlights. Donc, ce site ne sera pas accessible pour la prochaine fois $time$.",
+      "placeholders": {
+         "teacherName": {
+            "content": "$1",
+            "example": "Miss Fitz"
+         },
+         "time": {
+            "content": "$2",
+            "example": "2 minutes"
+         }
+      }
+   },
+   "blockedTitle": {
+      "description": "Title of tab locking page",
+      "message": "Une activité ciblée est en cours"
+   },
+   "browserIconActive": {
+      "description": "Browser icon tooltip when a valid user is signed",
+      "message": "Hapara Highlights - Actif"
+   },
+   "browserIconInactive": {
+      "description": "Browser icon tooltip when no valid user is signed",
+      "message": "Hapara Highlights - Inactif"
+   },
+   "browserIconMultipleUsers": {
+      "description": "Browser icon tooltip when multiple users are signed in",
+      "message": "Hapara Highlights: Plusieurs utilisateurs sont connectés sur Google. Pour résoudre ce problème veuillez vous déconnecter."
+   },
+   "diagnosticsButtonDownloadResults": {
+      "description": "Button to download diagnostics results",
+      "message": "Télécharger les resultats"
+   },
+   "diagnosticsButtonSendResults": {
+      "description": "Button to send diagnostic results to Hapara",
+      "message": "Envoyez les résultats à Hapara"
+   },
+   "diagnosticsButtonTryAgain": {
+      "description": "Button to retry diagnostics sending",
+      "message": "Réessayer si'l vous plaît"
+   },
+   "diagnosticsMessageComplete": {
+      "description": "Message indicating diagnostics run is compmlete",
+      "message": "Diagnostique Complet ..."
+   },
+   "diagnosticsMessageFailedSending": {
+      "description": "Message indicating diagnostics failed to send to Hapara",
+      "message": "Erreur: Nous n'avons pas pus envoyer le diagnostique"
+   },
+   "diagnosticsMessageRunning": {
+      "description": "Message indicating diagnostics is running",
+      "message": "Diagnostique en cours ..."
+   },
+   "diagnosticsMessageSending": {
+      "description": "Message indicating diagnostics report is being sent to Hapara",
+      "message": "Envoi du rapport ..."
+   },
+   "diagnosticsSendAlso": {
+      "description": "Message displayed before additional options on successful diagnostics send to Hapara",
+      "message": "Vous pouvez aussi"
+   },
+   "diagnosticsSendCodeInformation": {
+      "description": "Informational message indicating the diagnostics code to the user",
+      "message": "Veuiller citer le code $code$ lorsque vous signalez ce problème.",
+      "placeholders": {
+         "code": {
+            "content": "$1",
+            "example": "XBNA"
+         }
+      }
+   },
+   "diagnosticsSendSuccess": {
+      "description": "Message indicating diagnostics were successfully sent to Hapara",
+      "message": "Un diagnostique a été envoyé à Hapara"
+   },
+   "diagnosticsStateFailed": {
+      "description": "Used to indicate this test has failed",
+      "message": "Échoué"
+   },
+   "diagnosticsStatePassed": {
+      "description": "Used to indicate this test has passed",
+      "message": "Réussi"
+   },
+   "diagnosticsStatePending": {
+      "description": "Used to indicate this test is running",
+      "message": "En attente"
+   },
+   "diagnosticsTestCommunicationDescription": {
+      "description": "Communication test description",
+      "message": "Vérifiez que la messagerie fonctionne entre cet ordinateur et Hapara"
+   },
+   "diagnosticsTestCommunicationLatencyMessage": {
+      "description": "Communication success message indicating round-trip time in milliseconds",
+      "message": "Aller-retour d'informations: $milliseconds$ms",
+      "placeholders": {
+         "milliseconds": {
+            "content": "$1",
+            "example": "413"
+         }
+      }
+   },
+   "diagnosticsTestCommunicationPusherError": {
+      "description": "Message indicating pusher failed to connect",
+      "message": "Erreur de connection avec Pusher"
+   },
+   "diagnosticsTestCommunicationTimeout": {
+      "description": "Message for when testing communication times out",
+      "message": "[TIMED OUT] pendant le test de communication"
+   },
+   "diagnosticsTestCommunicationTitle": {
+      "description": "Communication test title",
+      "message": "Le canal de communication"
+   },
+   "diagnosticsTestExtensionDescription": {
+      "description": "Extension test description",
+      "message": "Vérifiez que l'extension Hapara Highlights est installée et à jour"
+   },
+   "diagnosticsTestExtensionNewerVersion": {
+      "description": "Message when there's a newer version available",
+      "message": "Nouvelle version disponible: $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "1.0"
+         }
+      }
+   },
+   "diagnosticsTestExtensionTitle": {
+      "description": "Extension test title",
+      "message": "L'extension est installée"
+   },
+   "diagnosticsTestExtensionTooManyChecks": {
+      "description": "Message when chrome throttles our extension update checks",
+      "message": "Trop de vérifications de mise à jour, veuillez essayer de nouveau plus tard"
+   },
+   "diagnosticsTestExtensionUnknownResponse": {
+      "description": "Message when chrome returns us an known extension status",
+      "message": "Réponse inconnue pour la vérification du mise à jour: $status$",
+      "placeholders": {
+         "status": {
+            "content": "$1",
+            "example": "new_status"
+         }
+      }
+   },
+   "diagnosticsTestGoogleDescription": {
+      "description": "Google test description",
+      "message": "Vérifiez que cet ordinateur peut se connecter à Google"
+   },
+   "diagnosticsTestGoogleTitle": {
+      "description": "Google test title",
+      "message": "Google est disponible"
+   },
+   "diagnosticsTestHTTPRequestError": {
+      "description": "Generic diagnostics message when an HTTP request fails",
+      "message": "Erreur de validation: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1",
+            "example": "404 Not Found"
+         }
+      }
+   },
+   "diagnosticsTestHaparaDescription": {
+      "description": "Hapara test description",
+      "message": "Vérifiez que cet ordinateur peut se connecter à Hapara"
+   },
+   "diagnosticsTestHaparaTitle": {
+      "description": "Hapara test title",
+      "message": "Hapara est disponible"
+   },
+   "diagnosticsTestLoggedInDescription": {
+      "description": "LoggedIn test description",
+      "message": "Vérifiez qu'il y a au moins un utilisateur connecté à Google"
+   },
+   "diagnosticsTestLoggedInErrorRequesting": {
+      "description": "Message when the diagnostics page gets an error from the extension",
+      "message": "Erreur pendant la demande d'information utilisateurs de l'extension: $error$",
+      "placeholders": {
+         "error": {
+            "content": "$1",
+            "example": "Something went wrong"
+         }
+      }
+   },
+   "diagnosticsTestLoggedInFoundUsers": {
+      "description": "Message indicating what users were found",
+      "message": "Utilisateurs trouvés: $users$",
+      "placeholders": {
+         "users": {
+            "content": "$1",
+            "example": "student1@example.com, student2@example.com"
+         }
+      }
+   },
+   "diagnosticsTestLoggedInNoUsers": {
+      "description": "Message indicating that no users were found",
+      "message": "Aucun utilisateur trouvé"
+   },
+   "diagnosticsTestLoggedInTimedOut": {
+      "description": "Message when the diagnostics page gets no response from the extension",
+      "message": "[TIMED OUT] Temps épuisé, en attente "
+   },
+   "diagnosticsTestLoggedInTitle": {
+      "description": "LoggedIn test title",
+      "message": "Connecté"
+   },
+   "diagnosticsTestValidUserDescription": {
+      "description": "ValidUser test description",
+      "message": "Vérifie que au moins un utilisateur connecté est inscrit à une école où Hapara Highlights est activée"
+   },
+   "diagnosticsTestValidUserErrorRequesting": {
+      "description": "Message indicating an error while requesting users from the extension",
+      "message": "Erreur pendant la demande d'informations utilisateurs de l'extension"
+   },
+   "diagnosticsTestValidUserFoundValidUser": {
+      "description": "Message indicating successfully found a single valid user",
+      "message": "Utilisateur valide trouvé: $user$",
+      "placeholders": {
+         "user": {
+            "content": "$1",
+            "example": "student1@example.com"
+         }
+      }
+   },
+   "diagnosticsTestValidUserMultipleUsers": {
+      "description": "Message indicating multiple valid users were found",
+      "message": "Nous avons trouvé plusieurs utilisateurs valides: $users$",
+      "placeholders": {
+         "users": {
+            "content": "$1",
+            "example": "student1@example.com, student2@example.com"
+         }
+      }
+   },
+   "diagnosticsTestValidUserMultipleUsersSignoutLink": {
+      "description": "Content of the log-out link to resolve the multiple user issue",
+      "message": "Veuillez déconnecter de votre compte Google"
+   },
+   "diagnosticsTestValidUserNoValidUser": {
+      "description": "Message indicating no valid users were found",
+      "message": "Nous avons trouvé aucun utilisateur valide $reason$",
+      "placeholders": {
+         "reason": {
+            "content": "$1",
+            "example": "(Teacher logged in)"
+         }
+      }
+   },
+   "diagnosticsTestValidUserTimeout": {
+      "description": "Message for when testing valid users times out",
+      "message": "Temps épuisé, en attente d'informations utilisateurs valides de l'extension"
+   },
+   "diagnosticsTestValidUserTitle": {
+      "description": "ValidUser test title",
+      "message": "Étudiant enregistré"
+   },
+   "diagnosticsTitle": {
+      "description": "Title of the diagnostics page",
+      "message": "Diagnostique pour l'extension Hapara Highlights"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Extension de l'étudiant pour Hapara Highlights"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "L'extension de Hapara Highlights"
+   },
+   "lockingNotificationDuration1": {
+      "description": "Countdown indicator for locking notifications (when seconds = 1)",
+      "message": "$number$ seconde",
+      "placeholders": {
+         "number": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "lockingNotificationDuration2Plus": {
+      "description": "Countdown indicator for locking notifications (when seconds > 1)",
+      "message": "$number$ secondes",
+      "placeholders": {
+         "number": {
+            "content": "$1",
+            "example": "4"
+         }
+      }
+   },
+   "lockingNotificationStartNowButton": {
+      "description": "Text on pop-up button that forces locking to start immediately",
+      "message": "Commencer maintenant"
+   },
+   "lockingNotificationTitle": {
+      "description": "Title of the pop-up notifications for tab locking",
+      "message": "Hapara Highlights"
+   },
+   "lockingNotificationTitleBlocked": {
+      "description": "Title of the pop-up notifications for tab locking - filter",
+      "message": "Filter session will begin shortly"
+   },
+   "lockingNotificationTitleFocused": {
+      "description": "Title of the pop-up notifications for tab locking - focused",
+      "message": "Focus session will begin shortly"
+   },
+   "messagePopupReplyButton": {
+      "description": "Text label for the reply button on a pop-up message",
+      "message": "Répondre au message"
+   },
+   "messagePopupTitle": {
+      "description": "Title of messages received from a teacher (on pop-ups)",
+      "message": "Message de $teacherName$",
+      "placeholders": {
+         "teacherName": {
+            "content": "$1",
+            "example": "Miss Fitz"
+         }
+      }
+   },
+   "messageTabReplyTitle": {
+      "description": "Title of messages received from a teacher (on tabs)",
+      "message": "Répondre à $teacherName$",
+      "placeholders": {
+         "teacherName": {
+            "content": "$1",
+            "example": "Miss Fitz"
+         }
+      }
+   },
+   "messageTabSendButton": {
+      "description": "Text on the send reply button",
+      "message": "Envoyer"
+   },
+   "messageTabSendError": {
+      "description": "Messaged displayed when there's an error sending a reply. Indicates the user should try again.",
+      "message": "Il y a eu une erreur dans l'envoi de votre message.  Essayer de nouveau.  "
+   },
+   "messageTabSendingText": {
+      "description": "Text to display while sending the reply",
+      "message": "En cours d'envoi ..."
+   },
+   "messageTabSentText": {
+      "description": "Text to display after the reply is sent",
+      "message": "Message envoyé"
+   },
+   "messageTabTitle": {
+      "description": "Title of messages received from a teacher (on tabs)",
+      "message": "$teacherName$ dit",
+      "placeholders": {
+         "teacherName": {
+            "content": "$1",
+            "example": "Miss Fitz"
+         }
+      }
+   }
+}

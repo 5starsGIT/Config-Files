@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html, charset=utf-8">
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+  <title>WeDo</title>
+  <style>
+    html,
+    body,
+    canvas,
+    #wedoContainer {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+<script src="../js/unity.bundle.js"></script>
+</head>
+
+
+<body style="margin: 0px;">
+  <div id="wedoContainer"></div>
+
+  <script src="Application/UnityLoader.js"></script>
+  <script src="Application/UnityProgress.js"></script>
+
+  <script type='text/javascript'>
+    unityInstance = UnityLoader.instantiate("wedoContainer", "Application/webgl_application.json", {
+      onProgress: (gameInstance, progress) => {
+        UnityProgress(gameInstance, progress);
+      },
+      Module: {
+        onRuntimeInitialized: () => {
+          console.log("onRuntimeInitialized - progress: 'complete'");
+
+          // Optimized version of SendMessage - https://forum.unity.com/threads/super-fast-javascript-interaction-on-webgl.382734/#post-2488359
+          unityInstance.SendMessage = function (gameObject, func, param) {
+            console.log("unityInstance.SendMessage - gameObject: " + gameObject + ", func: " + func + ", param: " + param);
+            if (param === undefined) {
+              if (typeof unityInstance.SendMessage_vss !== 'function') {
+                  console.log('Defining SendMessage_vss (should happen only once)');
+                  unityInstance.SendMessage_vss = unityInstance.Module.cwrap('SendMessage', 'void', ['string', 'string']);
+              }
+              console.log('Invoking SendMessage_vss (', gameObject, func, ')');
+              unityInstance.SendMessage_vss(gameObject, func);
+            } else if (typeof param === "string") {
+              if (typeof unityInstance.SendMessage_vsss !== 'function') {
+                  console.log('Defining SendMessage_vsss (should happen only once)');
+                  unityInstance.SendMessage_vsss = unityInstance.Module.cwrap('SendMessageString', 'void', ['string',
+                      'string', 'string'
+                  ]);
+              }
+              console.log('Invoking SendMessage_vsss (', gameObject, func, param, ')');
+              unityInstance.SendMessage_vsss(gameObject, func, param);
+            } else if (typeof param === "number") {
+              if (typeof unityInstance.SendMessage_vssn !== 'function') {
+                  console.log('Defining SendMessage_vssn (should happen only once)');
+                  unityInstance.SendMessage_vssn = unityInstance.Module.cwrap('SendMessageFloat', 'void', ['string',
+                      'string', 'number'
+                  ]);
+              }
+              console.log('Invoking SendMessage_vssn (', gameObject, func, param, ')');
+              unityInstance.SendMessage_vssn(gameObject, func, param);
+            } else
+              throw "" + param + " is does not have a type which is supported by SendMessage.";
+          };
+
+          if (unity && unity.Setup) {
+            console.log("unityInstance - onRuntimeInitialized - unity && unity.Setup defined - setUnityGameInstance", unityInstance);
+            // UnityMessageHandler is set on window.unity['Setup'] by UnityApp.js
+            unity.Setup.setUnityGameInstance(unityInstance);
+          } else {
+            console.warn("onRuntimeInitialized - no unity or unity.Setup unable to set unityInstance");
+          }
+          console.log("unityInstance - onRuntimeInitialized - UnityProgress 'complete'");
+          UnityProgress(unityInstance, "complete");
+
+          if (unityInstance.Module['FS']) {
+            console.log("Promoting unityInstance.Module['FS'] to window.FS");
+            window.FS = unityInstance.Module['FS'];
+          }
+
+          if (unityInstance.Module['MediaCapturingJSImpl']) {
+            console.log("Promoting unityInstance.Module['MediaCapturingJSImpl'] to window.MediaCapturingJSImpl");
+            window.MediaCapturingJSImpl = unityInstance.Module['MediaCapturingJSImpl'];
+          }
+
+        },
+      }
+    });
+    if (unity && unity.Setup && unityInstance) {
+      // UnityMessageHandler is set on window.unity['Setup'] by UnityApp.js
+      console.log("post UnityLoader.instantiate - setting unityInstance");
+      unity.Setup.setUnityGameInstance(unityInstance);
+    } else {
+      console.warn(
+        "post UnityLoader.instantiate - no unity or unity.Setup unable to set unityInstance - making global SendMessage invoke instance SendMessage"
+      );
+    }
+
+    if (unityInstance.SendMessage) {
+        console.log('Using SendMessage from unityInstance');
+        SendMessage = unityInstance.SendMessage;
+    } else {
+        console.log('Using SendMessage from UnityLoader');
+        SendMessage = UnityLoader.SendMessage;
+    }
+
+    console.log("unityInstance - SendMessage is defined: " + (typeof SendMessage !== "undefined"));
+  </script>
+  <script>
+    document.addEventListener('mousewheel', function (e) {
+      if (e.ctrlKey === true) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+    });
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<strings>
+  <OnlineStartupTitle>Je WeDo 2.0-applicatie is bijgewerkt.</OnlineStartupTitle>
+  <OnlineStartupDescription>Om toegang te krijgen tot al het lesmateriaal van WeDo 2.0 moet je in de onlinemodus werken. Hiervoor is een internetverbinding vereist.
+
+In de offlinemodus heb je toegang tot de programmeeromgeving, de documentatietool en de projecten die je zelf hebt gemaakt.
+
+Gebruik de knoppen onderaan om de online- of offlinemodus te selecteren.
+
+Als je ervoor kiest om het lesmateriaal in de offlinemodus te gebruiken, word je door het downloadproces geleid.</OnlineStartupDescription>
+  <OnlineStartupButtonGoOffline>Offlinemodus</OnlineStartupButtonGoOffline>
+  <OnlineStartupButtonUseOnline>Onlinemodus</OnlineStartupButtonUseOnline>
+  <OnlineStartUpUpdatedContentTitle>Je WeDo 2.0-applicatie is bijgewerkt.</OnlineStartUpUpdatedContentTitle>
+  <OnlineStartUpUpdatedContentDescription>Door deze update is WeDo 2.0 automatisch ingesteld op de onlinemodus.
+
+Om al het WeDo 2.0-lesmateriaal te bekijken, heb je standaard een internetverbinding nodig.
+
+Je hebt toegang tot de programmeeromgeving, de documentatietool en de projecten die je zelf hebt gemaakt, zelfs wanneer je offline bent.
+
+Selecteer of je de voorkeur geeft aan de online- of offlinemodus.
+
+Als je ervoor hebt gekozen om het lesmateriaal in de offlinemodus te gebruiken, word je door het downloadproces geleid.</OnlineStartUpUpdatedContentDescription>
+  <OnlineStartUpUpdatedContentButtonGoToOfflineSettings>Offlinemodus</OnlineStartUpUpdatedContentButtonGoToOfflineSettings>
+  <OnlineStartUpUpdatedContentButtonUseOnline>Onlinemodus</OnlineStartUpUpdatedContentButtonUseOnline>
+  <OnlineOfflineSettingsTitle>Instellingen voor de offlinemodus</OnlineOfflineSettingsTitle>
+  <OnlineOfflineSettingsStatusDownloadAll>Al het lesmateriaal voor WeDo 2.0 downloaden</OnlineOfflineSettingsStatusDownloadAll>
+  <OnlineOfflineSettingsPerformanceWarningText>TIJDENS HET DOWNLOADEN WERKT WEDO 2.0 MOGELIJK LANGZAMER</OnlineOfflineSettingsPerformanceWarningText>
+  <OnlineOfflineSettingsClearCacheDescriptionText>Dit heeft geen invloed op je persoonlijke projecten. Als je naar de onlinemodus overschakelt, wordt al het lesmateriaal van je apparaat verwijderd. Je kunt dit materiaal online bekijken of het materiaal opnieuw downloaden door over te schakelen naar de offlinemodus.</OnlineOfflineSettingsClearCacheDescriptionText>
+  <OnlineOfflineSettingsStatusDownloading>DOWNLOADEN</OnlineOfflineSettingsStatusDownloading>
+  <OnlineOfflineSettingStatusNoConnection>Geen internetverbinding</OnlineOfflineSettingStatusNoConnection>
+  <OnlineOfflineSettingsButton>Overschakelen naar de onlinemodus</OnlineOfflineSettingsButton>
+  <OnlineOfflineSettingsStatusContentDownloadSize>(_CONTENT_SIZE_ GB)</OnlineOfflineSettingsStatusContentDownloadSize>
+  <LobbyInfoGuideGettingStarted>Inleiding</LobbyInfoGuideGettingStarted>
+  <LobbyInfoGuideGettingStartedSize>(Grootte 4 MB, PDF)</LobbyInfoGuideGettingStartedSize>
+  <LobbyInfoGuidePreparation>Voorbereidingsgids</LobbyInfoGuidePreparation>
+  <LobbyInfoGuidePreparationSize>(Grootte 250 KB, PDF)</LobbyInfoGuidePreparationSize>
+  <LobbyInfoGuideTeacherComputing>Computational thinking Handleiding voor leerkrachten</LobbyInfoGuideTeacherComputing>
+  <LobbyInfoGuideTeacherComputingSize>(Grootte 5 MB, PDF)</LobbyInfoGuideTeacherComputingSize>
+  <LobbyInfoGuideSoftwareGuide>Programmeer- en bouwelementen</LobbyInfoGuideSoftwareGuide>
+  <LobbyInfoGuideSoftwareGuideSize>(Grootte 4 MB, PDF)</LobbyInfoGuideSoftwareGuideSize>
+  <LobbyInfoGuideTeacherScience>Wetenschap en technologie Handleiding voor leerkrachten</LobbyInfoGuideTeacherScience>
+  <LobbyInfoGuideTeacherScienceSize>(Grootte 16 MB, PDF)</LobbyInfoGuideTeacherScienceSize>
+  <LobbyInfoGuideTeacherGuideSize>(Grootte 15 MB, PDF)</LobbyInfoGuideTeacherGuideSize>
+  <syncmanualunauth>Kan de gebruikersgegevens niet synchroniseren.
+
+Druk in de lobby op het spinnerpictogram en verleen toegang tot Google Drive.</syncmanualunauth>
+  <synclocaloffline>Kan de gebruikersgegevens niet synchroniseren.
+
+Zorg ervoor dat er verbinding is met internet.</synclocaloffline>
+  <syncmwillnotify>Kan de gebruikersgegevens niet synchroniseren.
+
+Je ontvangt een bericht zodra je het opnieuw kunt proberen.</syncmwillnotify>
+  <syncbigrecovered>Het is weer mogelijk om gebruikersgegevens te synchroniseren.
+
+Druk in de lobby op het spinnerpictogram om het opnieuw te proberen.</syncbigrecovered>
+  <syncofflinestate>Kan de gebruikersgegevens niet synchroniseren.
+
+Druk in de lobby op het spinnerpictogram en verleen toegang tot Google Drive.</syncofflinestate>
+  <LobbyInfoPreparationGuideTitle>Belangrijk: De naam van de Smarthub wijzigen</LobbyInfoPreparationGuideTitle>
+  <LobbyInfoPreparationGuideLinkDescription>Klik hier om te worden doorverwezen</LobbyInfoPreparationGuideLinkDescription>
+  <EULAFull>LEGO® Education WeDo 2.0-softwarelicentie voor eindgebruikers
+Deze licentie voor de LEGO® Education WeDo 2.0-software (hierna de "software" genoemd) is verleend door LEGO System A/S, Aastvej 1, DK-7190 Billund, Denemarken (hierna "LEGO System" genoemd).
+BELANGRIJK -- ZORGVULDIG LEZEN: Dit is een juridische overeenkomst tussen u (als individu of als rechtspersoon) en LEGO System. In de overeenkomst worden enkele beperkingen opgelegd ten aanzien van uw gebruik van de software. LEGO System en/of zijn leveranciers en licentiegevers behouden het eigendomsrecht van de software en verlenen u geen andere rechten dan een licentie voor de software en bijbehorende documentatie (hierna “documentatie” genoemd) voor het gebruik onder de voorwaarden die uitdrukkelijk in deze overeenkomst worden vermeld. Door hieronder op de knop Inzenden te klikken, aanvaardt u dat u gebonden bent aan de voorwaarden van deze licentieovereenkomst. Als u de voorwaarden in deze overeenkomst niet aanvaardt, bent u verplicht meteen alle kopieën van deze software, inclusief de bijbehorende documentatie en eventuele kopieën die u van de toepasselijke winkel of website gedownload hebt, af te leveren of te vernietigen.
+LEGO System verschaft bepaalde software van derden die onderhevig is aan afzonderlijke licentievoorwaarden die op het ogenblik van de installatie worden voorgelegd of samen met de software (“software van derden”) worden geleverd. Deze software van derden valt niet binnen de betekenis van de term “software”.
+De software wordt door LEGO System via verschillende partners verdeeld via de Apple App Store, Play Store, Microsoft Windows Store en de website LEGOEducation.com. Als u de software van een andere bron hebt verkregen, kan deze defect of wezenlijk gewijzigd zijn in verhouding tot het originele product. Het gebruik van een aangepaste versie gebeurt op eigen risico.
+I. LICENTIEVERLENING:
+LEGO System verleent u (de gebruiker) hierbij een niet-exclusieve, beperkte licentie om de software en documentatie voor niet-commerciële doeleinden te gebruiken met inachtneming van de volgende voorwaarden:
+U mag de software ALLEEN als volgt gebruiken:
+(a) de software gebruiken op een of meerdere apparaten in het genoemde instituut;
+
+(b) de software indien nodig kopiëren om deze te installeren op de computers vermeld in sectie 1 (a) en voor back-up- en archiveringsdoeleinden, op voorwaarde dat de gemaakte kopieën alle aanduidingen betreffende auteursrechten van de oorspronkelijke software bevatten;
+(c) inhoud die gemaakt is met behulp van de software voor elk niet-commercieel doel gebruiken;
+(d) om projecten voor LEGO® Education WeDo 2.0 te creëren (zoals beschreven in de documentatie), maar dan uitsluitend voor niet-commerciële doeleinden, tenzij LEGO System u vooraf schriftelijk de toestemming voor het tegengestelde heeft verleend. Als u de software wilt gebruiken om projecten aan te maken of te delen voor commerciële doeleinden, neemt u contact op met een vertegenwoordiger van LEGO System om de goedkeuring van LEGO System te vragen. LEGO System A/S is niet verplicht u deze te verlenen.
+Het is VERBODEN:
+(1) anderen de software te laten gebruiken, tenzij u garandeert dat die andere persoon (a) begrijpt dat zijn of haar gebruik onderhevig is aan de algemene voorwaarden van deze overeenkomst, en (b) deze overeenkomst naleeft;
+(2) de software naar de broncode terug te brengen, te decompileren, uit elkaar te halen of op andere wijze te reduceren in een voor de mens waarneembare vorm (behalve voor zover deze beperking uitdrukkelijk door de wet verboden wordt); de software of documentatie te wijzigen of te vertalen of afgeleid werk op basis van de software of documentatie te creëren;
+(3) de software of documentatie te kopiëren (behalve voor back-updoeleinden);
+(4) de software of documentatie door te verkopen, te verhuren, te leasen, toe te kennen, te distribueren of de rechten ervan op andere wijze over te dragen;
+(5) de software of documentatie op het internet door te geven;
+(6) de back-upkopie voor andere doeleinden te gebruiken dan het vervangen van de oorspronkelijke kopie;
+(7) de software voor enig commercieel doel te gebruiken;
+(8) de aanduidingen van auteursrechten of labels op de software of documentatie te verwijderen;
+ (9) de software voor enig doel te gebruiken dat verband houdt met het produceren, op de markt brengen, verkopen of distribueren van plastic bouwstenen;
+(10) de software te gebruiken om toegang te krijgen tot niet-versleutelde gegevens, op een manier die indruist tegen de bescherming van digitale inhoud die in de software opgenomen is; of de software te gebruiken voor het omzeilen van technologische maatregelen die instaan voor de toegang tot of de inhoud van een bestand of andere gegevens die beschermd worden door de auteursrechtwetgeving van een rechtsgebied, en dit al dan niet in combinatie met een apparaat, programma of dienst hiervoor bestemd;
+(11) maatregelen te treffen die ertoe leiden dat de software, of een deel ervan, onderhevig wordt aan een licentie die al dan niet ogenschijnlijk als een gebruiks-, aanpassings- of distributievoorwaarde vereist dat (a) de code die onderhevig is of kan zijn aan de licentie vrijgegeven of gedistribueerd wordt als broncode, of (b) anderen het recht hebben om de code aan te passen of afgeleide werken van de code te maken die onderhevig zijn of zouden kunnen zijn aan de licentie;
+of (12) al dan niet rechtstreeks de software te exporteren, opnieuw te exporteren, te downloaden, door te sturen of te verzenden als deze handeling een inbreuk vormt op de tweede paragraaf van Hoofdstuk VII hieronder.
+Elke vorm van gebruik of overdracht in strijd met het bovenstaande zal leiden tot een onmiddellijke, automatische beëindiging van uw licentie.
+II. SOFTWARE:
+Indien nodig mag u de software (opnieuw) downloaden op uw apparaten, maar de software mag niet doorgegeven worden aan of gebruikt worden door andere personen. Deze licentie verleent u geen recht op verbeterde versies of updates van het product.
+III. TITEL:
+Alle titels, eigendommen, rechten en intellectuele eigendomsrechten in en van de software en documentatie, en alle kopieën van de software en documentatie, blijven het eigendom van LEGO System en/of zijn leveranciers en licentiegevers. Alle rechten die niet expliciet aan u verleend zijn middels deze overeenkomst zijn aan LEGO System en/of zijn leveranciers en licentiegevers voorbehouden. De software is beschermd door de nationale copyrightwetgeving en internationale copyrightverdragen.
+De titels, eigendomsrechten en intellectuele eigendomsrechten van en over inhoud waartoe met behulp van de software toegang verkregen wordt, waaronder inhoud in de softwaremediademonstratiebestanden, zijn het eigendom van de betreffende eigenaar van deze inhoud en worden mogelijk beschermd door het desbetreffende copyright of andere wetten. Deze licentie verleent u geen rechten voor dergelijke inhoud. De tekst, de bouwinstructies, en de afbeeldingen in de software zijn het eigendom van LEGO System en/of zijn leveranciers en licentiegevers. U mag deze echter wel gebruiken voor eigen, niet-commerciële doeleinden.
+“LEGO, het LEGO logo en de minifiguur zijn handelsmerken en/of copyrights van de LEGO Groep. ©2016 The LEGO Group. Alle rechten voorbehouden”
+
+Voor patenten die de software dekken, evenals aanduidingen en licenties met betrekking tot software van derden, zie hieronder.
+IV. BEPERKTE GARANTIE:
+LEGO System garandeert dat de software vrij is van defecten in materialen en uitvoering bij normaal gebruik gedurende een periode van negentig (90) dagen vanaf de leverdatum aan u, zoals blijkt uit een kopie van uw kwitantie.
+BEHALVE WAT BETREFT DE VOORGAANDE GARANTIE, WORDEN DE SOFTWARE EN SOFTWARE VAN DERDEN GELEVERD “IN DE HUIDIGE STAAT” ZONDER ENIGE GARANTIE, EXPLICIET OF STILZWIJGEND, MET INBEGRIP VAN MAAR NIET BEPERKT TOT, GARANTIES VOOR DE VERKOOPBAARHEID, DE GESCHIKTHEID VOOR SPECIALE DOELEN, DE INFORMATIEVE INHOUD EN HET NIET SCHENDEN VAN RECHTEN OF ENIGE ANDERE STATUTAIRE GARANTIES (ZOVER DIT MOGELIJK IS VOLGENS DE GELDENDE WETGEVING). HET VOLLEDIGE RISICO TEN AANZIEN VAN DE KWALITEIT EN HET GEBRUIK VAN DE SOFTWARE EN SOFTWARE VAN DERDEN LIGT BIJ U. INDIEN BLIJKT DAT DE SOFTWARE DEFECT IS, DAN ZULT U (EN NIET LEGO System OF EEN ERKENDE LEGO SYSTEM-DEALER) DE VOLLE KOSTEN VAN ALLE VEREISTE SERVICE, REPARATIE OF VERBETERING OP U NEMEN. OMDAT SOMMIGE STATEN EN LANDEN UITSLUITING OF BEPERKING VAN DE IMPLICIETE GARANTIES NIET AANVAARDEN, IS HET MOGELIJK DAT BOVENSTAANDE BEPERKING NIET OP U VAN TOEPASSING IS. DEZE GARANTIE BIEDT U SPECIFIEKE WETTELIJKE RECHTEN EN KAN OOK ANDERE RECHTEN OMVATTEN DIE PER STAAT OF LAND KUNNEN VERSCHILLEN. LEGO System garandeert niet dat de functionaliteit van de software of van projecten die gebaseerd zijn op de software aan uw eisen voldoen of dat de werking van deze software of projecten ononderbroken en foutloos zal zijn.
+V. BEPERKING VAN VERHAAL:
+BEPERKINGEN VAN VERHAAL
+De volledige aansprakelijkheid van LEGO System, en uw exclusieve verhaal, is als volgt:
+a. (a) het vervangen van software die niet voldoet aan de "beperkte garantie" van LEGO System en die is geretourneerd naar LEGO System of een erkende LEGO System dealer tezamen met een kopie van uw kwitantie,
+
+of a. (b) als LEGO System of de dealer niet in staat is vervangende software te leveren die vrij is van defecten in materialen en uitvoering, kunt u deze overeenkomst beëindigen door het programma te retourneren, waarna uw geld zal worden terugbetaald.
+
+LEGO SYSTEM, OF EEN VAN ZIJN LEVERANCIERS OF LICENTIEGEVERS, KAN ONDER GEEN ENKELE OMSTANDIGHEID AANSPRAKELIJK GESTELD WORDEN VOOR ENIGE SCHADE, MET INBEGRIP VAN MAAR NIET BEPERKT TOT, ALLE VORMEN VAN WINSTVERLIES, VERLOREN OPSPARING OF ANDERE INDIRECTE, SPECIALE, INCIDENTELE, STRAFRECHTELIJKE OF ANDERE SCHADE DIE ONTSTAAT DOOR HET GEBRUIKEN OF NIET KUNNEN GEBRUIKEN VAN DE SOFTWARE OF DE SOFTWARE VAN DERDEN, OOK ALS DEZE ER NIET IN SLAAGT ZIJN OORSPRONKELIJKE DOEL TE VERVULLEN OF ALS LEGO SYSTEM, EEN VAN ZIJN LEVERANCIERS OF LICENTIEGEVERS, OF EEN ERKENDE LEGO-DEALER INGELICHT IS OVER DE MOGELIJKHEID VAN DERGELIJKE SCHADE, OF VOOR ENIGE SCHADECLAIMS DOOR DERDEN.
+DE LEVERANCIERS OF LICENTIEGEVERS VAN LEGO SYSTEM GEVEN GEEN GARANTIES EN KUNNEN NIET AANSPRAKELIJK WORDEN GESTELD IN HET KADER VAN DEZE OVEREENKOMST.
+OMDAT SOMMIGE LANDEN EN STATEN UITSLUITING OF BEPERKING VAN AANSPRAKELIJKHEID VOOR INCIDENTELE SCHADE OF GEVOLGSCHADE NIET AANVAARDEN, IS HET MOGELIJK DAT BOVENSTAANDE BEPERKING NIET OP U VAN TOEPASSING IS.
+VI. BEËINDIGING:
+Deze licentie en uw rechten om de software te gebruiken, zullen automatisch worden beëindigd als u de bepalingen in deze overeenkomst niet naleeft. LEGO System is niet verplicht om een dergelijke beëindiging mee te delen. Bij het beëindigen bent u verplicht om de software en documentatie aan LEGO System te retourneren of om alle kopieën van de software en documentatie te vernietigen. Hoofdstuk III, VI en VII, de bepalingen betreffende de garantiedisclaimer in Hoofdstuk IV, en de bepalingen betreffende de uitsluiting van aansprakelijkheid en schade in Hoofdstuk V, blijven geldig na het beëindigen van deze overeenkomst.
+VII. HEERSEND RECHT:
+Deze overeenkomst is onderworpen aan de wetten in het land waar u de licentie heeft verkregen.
+U erkent dat de software onderhevig is aan controle in het kader van de exportcontrolewetgeving en -regelgeving van de Verenigde Staten van Amerika en andere landen, en aan de toepasselijke wereldwijde exportcontrolewetgeving en -regelgeving, en dat de software van derden die wordt meegeleverd met de software hier mogelijk ook aan onderhevig is. U gaat ermee akkoord dat u de software of eventuele software van derden niet rechtstreeks of onrechtstreeks zult exporteren, opnieuw exporteren, overdragen, downloaden of versturen, op om het even welke manier: (a) naar om het even welke verboden bestemming, entiteit of persoon zonder de vereiste exportlicentie(s) of machtiging(en) van de VS. naar om het even welke overheid en/of andere toepasselijke exportlicentie-instantie, of (b) in strijd met de wetten en bepalingen in de VS of de wetten en bepalingen in de desbetreffende rechtsgebieden waar u de software gebruikt of downloadt. Als u de software downloadt, erkent en garandeert u dat: (a) u zich niet in of onder het beheer van een land bevindt waarvoor geldt dat de uitvoerwetgeving en -bepalingen van dat land de uitvoer van de software of software van derden die geleverd is bij de software ernaar verbieden; en (b) u zich niet in of onder het beheer van een land bevindt waarvoor geldt dat de uitvoerwetgeving en -bepalingen van de VS en/of andere toepasselijke exportcontrolewetgevingen de uitvoer van de software of software van derden die geleverd is bij de software ernaar verbieden.
+Als u een agent, afdeling, of andere entiteit bent van de regering van de Verenigde Staten: (a) erkent u dat de software een "commercieel item" is dat uitsluitend met privéfondsen werd ontwikkeld en dat bestaat uit "commerciële computersoftware" en "commerciële computersoftwaredocumentatie", zoals gedefinieerd of gebruikt in de toepasselijke acquisitieregelgeving van de VS; en (b) er wordt hieronder alleen een licentie voor de software verleend (i) als een commercieel item en (ii) met uitsluitend die rechten die toegekend worden aan alle andere licentienemers krachtens de algemene voorwaarden van deze overeenkomst. U gaat ermee akkoord de software niet te gebruiken, te dupliceren of vrij te geven op een manier die niet uitdrukkelijk toegestaan is in het kader van deze overeenkomst. Niets in deze overeenkomst vereist dat LEGO System of zijn leveranciers of licentiegevers technische gegevens voor u creëren of aan u verstrekken.
+VIII. VOLLEDIGE OVEREENKOMST:
+U BEVESTIGT DAT U DEZE OVEREENKOMST HEEFT GELEZEN EN BEGREPEN EN DAT U ERMEE INSTEMT GEBONDEN TE ZIJN DOOR DE BETALINGEN EN VOORWAARDEN. U STEMT ER TEVENS MEE IN DAT DIT DE VOLLEDIGE EN EXCLUSIEVE VERKLARING TUSSEN ONS IS DIE AAN ALLE VOORSTELLEN EN EERDERE OVEREENKOMSTEN, MONDELING ZOWEL ALS SCHRIFTELIJK, EN ALLE ANDERE COMMUNICATIE TUSSEN ONS IN VERBAND MET HET ONDERWERP IN DEZE OVEREENKOMST DEROGEERT.
+        Deze overeenkomst mag niet worden aangepast, behalve schriftelijk en naar behoren door een bevoegde vertegenwoordiger van LEGO System en u ondertekend.</EULAFull>
+  <TOU>De gebruiksvoorwaarden voor LEGO® apps
+
+Gaan in vanaf november 2014
+
+INTRODUCTIE
+Deze app wordt u verstrekt door LEGO System A/S, Aastvej 1, DK-7190 Billund, CVR no. 47458714.
+LEGO System A/S en alle entiteiten die voorgaande controleren, gecontroleerd worden door of een partner zijn van of gemeenschappelijk bestuurd worden door TLG, worden in dit document "wij," "ons" of "onze" genoemd.
+Door een TLG-app te gebruiken of te klikken op een vak dat aangeeft dat u deze voorwaarden of bepalingen aanvaardt of ermee akkoord gaat, verklaart u deze gebruiksvoorwaarden te accepteren. Als u niet akkoord gaat met deze gebruiksvoorwaarden, kunt u de TLG-app niet gebruiken. Zonder de algemene aard van het voorgaande te beperken, erkent u dat deze beschouwing uw gebruik van de TLG-app en de ontvangst van gegevens, materialen en informatie via de TLG-app omvat.
+
+Voor de VS:
+LEGO Education, 501 Boylston Street Suite 4103, Boston Massachusetts, 02116
+Phone:   1-800-362-4308
+E-mail:   orders@LEGOeducation.us
+
+Voor de rest van de wereld:
+LEGO Education Ltd., 3rd Floor Longus House, Newgate Row, Eastgate Street, Chester CH1 1ER, Great Britain
+Phone:    +44 (0) 800-334-5346
+E-mail:  customer.service@LEGOeducation.eu
+
+VERWERKING VAN PERSOONSGEGEVENS EN GEBRUIK VAN COOKIES
+Ons privacybeleid en cookiebeleid vormen een integraal onderdeel van deze voorwaarden en kunnen geraadpleegd worden via: http://www.lego.com/legal/legal-notice/privacy-policy-full en http://www.lego.com/legal/cookieinfo.
+Voor informatie over de verwerking van persoonsgegevens van kinderen die online zijn verzameld, ziet u ons privacybeleid.
+Met betrekking tot LEGO® Education WeDo 2.0, kan TLG samengevoegde gegevens verzamelen betreffende het gebruik van een product om productprestaties en aanbiedingen te helpen verbeteren. TLG zal onder geen enkele omstandigheid persoonlijke gegevens van gebruikers (met inbegrip van leerkrachten of leerlingen) via LEGO Education WeDo 2.0 verzamelen. (LEGO Education is een ondernemingsdivisie binnen TLG en is verantwoordelijk voor de product- en oplossingslijnen die onder het "LEGO Education" merk worden aangeboden.)
+Derde partijen die optreden in naam van TLG zijn gebonden aan dezelfde regels en principes als TLG.
+
+GEBRUIK VAN INHOUD
+Alle informatie, materialen, functies en andere inhoud (“Inhoud”) in de TLG-app zijn ons eigendom of het eigendom van onze licentiegevers of licentienemers, en zijn beschermd door auteursrechten. Alle handelsmerken, servicemerken, handelsnamen en presentatievormen zijn het eigendom van ons en/of onze licentiegevers of licentienemers. Wij hebben het recht om op om het even welke manier, om het even wanneer en al dan niet zonder reden uw verdere toegang tot de TLG-app te beëindigen, de TLG-app te wijzigen of inhoud of functies te verwijderen.
+U gaat ermee akkoord dat u de inhoud niet zal kopiëren, distribueren of naar de broncode terug zal brengen, behalve zoals geïntegreerd in of nodig voor het gebruik van de inhoud.
+
+ACCOUNTS
+Voor sommige diensten in de TLG-app mag of moet u een LEGO ID-account aanmaken om deel te kunnen nemen of extra voordelen te krijgen. Raadpleeg de algemene voorwaarden voor een LEGO ID via https://account2.lego.com/Terms%20Of%20Service/ShowTOSPage.
+Wij behouden ons het recht voor om uw gebruik van een TLG-app of een deel daarvan op te schorten of te beëindigen in geval van niet naleving van deze algemene voorwaarden voor een LEGO ID of andere speciale voorwaarden met betrekking tot een bepaalde dienst.
+
+APP-DISTRIBUTEURS/-WINKELS
+U erkent dat deze gebruiksvoorwaarden overeengekomen worden tussen u en ons alleen, en niet met app- distributeurs/-winkels zoals Apple, Inc., Amazon, Samsung enz. (“app-distributeurs”). Wij, en niet de app-distributeurs, zijn in hoofde verantwoordelijk voor de TLG-app en de daarop beschikbare diensten en inhoud. De partijen gaan ermee akkoord dat de app-distributeurs geen verplichtingen hebben voor het aanreiken van onderhouds- en ondersteuningsdiensten met betrekking tot de TLG-app.
+Voor zover dit toegelaten wordt door de toepasselijke wetgeving, hebben de app-distributeurs geen enkele verplichting inzake garantie met betrekking tot de TLG-app.
+U gaat ermee akkoord dat wij, en niet de app-distributeurs, verantwoordelijk zijn voor het verwerken van eventuele claims van u of derden met betrekking tot de TLG-app of voor uw bezit en/of gebruik van de TLG-app, met inbegrip van maar niet beperkt tot: (i) claims inzake productaansprakelijkheid, (ii) claims dat de TLG-app bepaalde wettelijke of regelgevende vereisten niet naleeft, en (iii) claims in het kader van wetgevingen op consumentenbescherming of gelijkaardig.
+U gaat ermee akkoord dat wij, en niet de app-distributeurs, verantwoordelijk zijn voor het onderzoeken, verdedigen, schikken en nietig verklaren van eventuele claims betreffende inbreuken op intellectueel eigendom van derde partijen met betrekking tot de TLG-app of uw bezit en gebruik van de TLG-app.
+U verklaart en garandeert dat (i) u niet woonachtig bent in een land dat onderworpen is aan een embargo opgelegd door de overheid van de VS of dat door de VS gezien wordt als een land dat terrorisme ondersteunt, en dat (ii) u niet voorkomt op een lijst van de overheid van de VS met verboden of beperkte partijen.
+U gaat ermee akkoord alle toepasselijke algemene voorwaarden van derde partijen na te leven tijdens het gebruik van de TLG-app (u mag bijvoorbeeld geen inbreuk plegen op de algemene voorwaarden van uw dienst voor draadloze verbinding tijdens het gebruik van de TLG-app).
+De partijen gaan ermee akkoord dat de app-distributeurs en hun dochtermaatschappijen derde begunstigden zijn wat betreft deze gebruiksvoorwaarden. Na uw aanvaarding van de gebruiksvoorwaarden hebben de app-distributeurs het recht (en zullen zij worden beschouwd als dit recht te hebben aanvaard) om de gebruiksvoorwaarden tegen u als een derde begunstigde ervan af te dwingen.
+U gaat ermee akkoord dat uw gebruik van de TLG-app onderhevig is aan de gebruiksregels die opgenomen zijn in de op dat moment actuele servicevoorwaarden van de app-distributeurs voor het downloaden van apps via de app-distributeur.
+
+VERGOEDING
+U bent verantwoordelijk voor het vertrouwelijk houden van uw gebruikersnamen, wachtwoorden en accounts, en alle activiteiten die plaatsvinden binnen uw accounts. Tot zover als dit volgens de geldende wetgeving mogelijk is, gaat u akkoord met het vergoeden, verdedigen en behoeden van ons, onze licentiegevers, licentienemers, verdelers, agenten, vertegenwoordigers en andere gemachtigde gebruikers, en van de respectieve wederverkopers, distributeurs, dienstverleners en leveranciers van deze voorgaande entiteiten, en van de respectieve functionarissen, directeurs, eigenaars, werknemers, agenten, vertegenwoordigers en rechtverkrijgenden van deze voorgaande entiteiten (samen de “vergoede partijen”) voor en tegen alle verlies, schade, aansprakelijkheid en kosten (met inbegrip van schikkingskosten en eventuele wettelijke of andere kosten en uitgaven voor het onderzoeken van of verdedigen tegen eventuele processen of op handen zijnde processen) die opgelopen worden door de vergoede partijen in verband met eventuele claims die voortvloeien uit inbreuken van u op deze gebruiksvoorwaarden of claims die voortvloeien uit uw gebruik van de TLG-app en/of uw accounts. U zult er alles aan doen om met ons samen te werken tijdens het verdedigen tegen eventuele claims. Wij behouden ons het recht voor om, op onze eigen kosten, onafhankelijk advies in te winnen en de exclusieve verdediging en controle van zaken die anders onderhevig zouden zijn aan vergoeding door u op ons te nemen.
+
+BEVOEGDE RECHTSPRAAK EN RECHTBANKEN
+Deze gebruiksvoorwaarden zijn onderworpen aan en opgesteld onder de wetten van Denemarken, onverminderd conflicterende wettelijke bepalingen. U gaat ermee akkoord dat alle claims of geschillen die voortvloeien uit of in verband staan met deze gebruiksvoorwaarden moeten worden ingediend bij de rechtbanken in Denemarken, en u gaat hierbij akkoord met en onderwerpt u aan de persoonlijke rechtspraak van dergelijke rechtbanken voor het voeren van eventuele processen. Houd er rekening mee dat dwingend recht u mogelijk aanspraak geeft op een rechtsvordering in andere rechtsgebieden. Wij bieden geen garantie dat de inhoud van een TLG-app geschikt of beschikbaar is voor gebruik op bepaalde plaatsen. Zij die ervoor kiezen een TLG-app te gebruiken, doen dit op eigen initiatief en zijn verantwoordelijk voor het naleven van alle toepasselijke wetten, met inbegrip van eventuele toepasselijke plaatselijke wetten.
+
+AANPASSINGEN
+Wij kunnen deze gebruiksvoorwaarden te allen tijde aanpassen (onder meer door wijziging, verwijdering en/of toevoeging van een deel ervan). Als wij belangrijke aanpassingen doorvoeren aan deze gebruiksvoorwaarden, brengen wij u daarvan op de hoogte door u een e-mail te bezorgen op het laatste e-mailadres dat u ons hebt meegedeeld, en/of door een melding aangaande de betreffende wijziging weer te geven op de websites die onder deze gebruiksvoorwaarden vallen of via de relevante app-winkel of app zelf. Dergelijke aanpassingen aan deze gebruiksvoorwaarden zijn dertig (30) kalenderdagen na het versturen van de e-mail van kracht. Als u de app na deze termijn van dertig (30) kalenderdagen gebruikt, geeft u toestemming voor elke materiële aanpassing. Houd er rekening mee dat u te allen tijde zelf verantwoordelijk bent voor het bijwerken van uw persoonlijke informatie zodat wij over uw huidige e-mailadres beschikken. Als het laatste e-mailadres dat u ons hebt bezorgd niet geldig is of wegens om het even welke andere reden de hierboven beschreven melding niet aan u kan bezorgen, zal het door ons versturen van de betreffende e-mail met de melding niettemin betekenen dat u effectief op de hoogte werd gebracht van de wijzigingen die in de melding werden beschreven.</TOU>
+  <LobbyTitleEULA>Softwarelicentieovereenkomst voor eindgebruikers</LobbyTitleEULA>
+  <LobbyTitleLegoWedo>LEGO WeDo</LobbyTitleLegoWedo>
+  <LobbyInfoVersion>Versie</LobbyInfoVersion>
+  <LobbyInfoLanguageSelect>Talen</LobbyInfoLanguageSelect>
+  <LobbyInfoPrivacyPolicy>Privacybeleid</LobbyInfoPrivacyPolicy>
+  <LobbyInfoTOU>Gebruiksvoorwaarden</LobbyInfoTOU>
+  <LobbyInfoCookiePolicy>Cookiebeleid</LobbyInfoCookiePolicy>
+  <LobbyInfoTeacherGuide>Handleiding voor leerkrachten</LobbyInfoTeacherGuide>
+  <LobbyInfoTeacherGuideLinkDescription>Klik hier om te worden doorverwezen</LobbyInfoTeacherGuideLinkDescription>
+  <LobbyInfoTeacherGuideTitle>Handleiding voor leerkrachten</LobbyInfoTeacherGuideTitle>
+  <LobbyInfoTeacherGuideLinkURL>http://cache.lego.com/bigdownloads/buildinginstructions/6109825.pdf</LobbyInfoTeacherGuideLinkURL>
+  <StartupScreenEnterPassword>Voer je wachtwoord in:</StartupScreenEnterPassword>
+  <StartupScreenDontHavePassword>Ik heb geen wachtwoord</StartupScreenDontHavePassword>
+  <StartupScreenDontHavePasswordDescription>Deze app is ontwikkeld voor educatief gebruik. De LEGO® Education WeDo 2.0-software is ervoor vereist. Neem contact op met je plaatselijke LEGO® Education-distributeur voor meer informatie.
+
+Na de activering van je WeDo 2.0-softwareproducten op www.LEGOeducation.com/LERO kun je de code voor de app terugvinden op de productpagina van de WeDo-software.</StartupScreenDontHavePasswordDescription>
+  <ButtonSubmit>Inzenden</ButtonSubmit>
+  <ButtonOK>OK</ButtonOK>
+  <ButtonCancel>Annuleren</ButtonCancel>
+  <UpdateCheckUpdatesAvailable>Er is een update beschikbaar voor de software.</UpdateCheckUpdatesAvailable>
+  <UpdateWindows10Title>Waarschuwing</UpdateWindows10Title>
+  <UpdateWindows10Text>Deze applicatie vereist een Windows 10-update om correct te functioneren. Werk Windows 10 bij naar de nieuwste versie.</UpdateWindows10Text>
+  <Windows10BLENotFound>Kan geen ondersteund Bluetooth Low Energy-apparaat vinden op uw systeem.
+          Sluit een ondersteunde dongle aan.</Windows10BLENotFound>
+  <Windows10ContinueWithoutBLE>Gebruik de toepassing zonder Bluetooth-ondersteuning</Windows10ContinueWithoutBLE>
+  <Windows10BLENotFoundPopup>Kan geen ondersteund Bluetooth Low Energy-apparaat vinden op uw systeem.</Windows10BLENotFoundPopup>
+  <LobbyInfoOnlineContentError>Het spijt ons, maar er lijkt een netwerkprobleem te zijn. Controleer uw internetverbinding en probeer het opnieuw.</LobbyInfoOnlineContentError>
+  <LobbyInfoLanguageTitle>Selecteer uw voorkeurstaal</LobbyInfoLanguageTitle>
+  <LobbyInfoLanguageDescription>Taalvoorkeuren bepalen de taal die u ziet in Projectbibliotheek, Ontwerpbibliotheek, Help en Instellingen.</LobbyInfoLanguageDescription>
+  <LobbyInfoTeacherGuidePageTitle>Raadpleeg de Handleidingen leerkracht online</LobbyInfoTeacherGuidePageTitle>
+  <LobbyInfoTeacherGuidePageDescription>De Handleidingen leerkracht zijn online beschikbaar. Om ze offline te raadplegen, slaat u het PDF-bestand op uw apparaat op.</LobbyInfoTeacherGuidePageDescription>
+  <LobbyInfoAboutPageTitle>Zie Algemene voorwaarden en privacybeleid</LobbyInfoAboutPageTitle>
+  <LobbyInfoAboutPageDescription>Het privacybeleid en cookiebeleid van de LEGO Group zijn online beschikbaar.</LobbyInfoAboutPageDescription>
+  <LobbyInfoAbout>Over</LobbyInfoAbout>
+  <LocationSettingNeedsToBeEnabledButtonPositive>Open de instellingen</LocationSettingNeedsToBeEnabledButtonPositive>
+  <PleaseEnableBluetoothButtonPositive>Schakel Bluetooth in</PleaseEnableBluetoothButtonPositive>
+  <LocationSettingNeedsToBeEnabled>LEGO® Education WeDo 2.0 heeft toegang nodig tot de locatie van jouw apparaat om Bluetooth goed te laten werken.</LocationSettingNeedsToBeEnabled>
+  <PleaseEnableBluetooth>Schakel Bluetooth in om verbinding te maken met uw appara(a)t(en).</PleaseEnableBluetooth>
+  <OnboardingWelcome>Welkom bij de introductie van
+LEGO® Education WeDo 2.0.</OnboardingWelcome>
+  <OnboardingSkip>SKIP</OnboardingSkip>
+  <OnboardingBuildModel>Bouw je LEGO® model en
+verbind het met je apparaat.</OnboardingBuildModel>
+  <OnboardingBuildCode>Bouw je eigen code door
+programmeerblokken samen te voegen.</OnboardingBuildCode>
+  <OnboardingPressPlay>Druk op het afspeelblok om je
+LEGO® model tot leven te brengen.</OnboardingPressPlay>
+  <OnboardingIntroductionActivities>Ga aan de slag met vier korte
+en eenvoudige activiteiten.</OnboardingIntroductionActivities>
+  <OnboardingGetStarted>Aan de slag</OnboardingGetStarted>
+  <LobbyCreateProjectHelp>Klik op het boek om je eerste WeDo 2.0 project aan te maken.</LobbyCreateProjectHelp>
+  <LobbyReplayIntroduction>Introductie opnieuw afspelen</LobbyReplayIntroduction>
+  <LobbySettingsHelp>Je vindt de handleidingen voor de leerkracht in het deelvenster met instellingen.</LobbySettingsHelp>
+  <SettingsOnboardingTitle>Introductie</SettingsOnboardingTitle>
+  <SettingsOnboardingSubTitle>Je instellingen kiezen voor de WeDo 2.0 introductie</SettingsOnboardingSubTitle>
+  <SettingsOnboardingDescription>In de introductie krijg je te zien hoe je de WeDo 2.0 applicatie gebruikt. Hier kun je de introductie in- en uitschakelen.</SettingsOnboardingDescription>
+  <SettingsOnboardingOption>Toon de introductie bij het opstarten van de WeDo 2.0 app.</SettingsOnboardingOption>
+  <SettingsOnboardingLink>Ga naar legoeducation.com voor verdere ondersteuning en lesmaterialen voor leerkrachten.</SettingsOnboardingLink>
+  <ConnectionPanelChooseSmartHub>Smarthub kiezen</ConnectionPanelChooseSmartHub>
+  <ConnectionPanelBackToProject>Terug naar project</ConnectionPanelBackToProject>
+  <EULAAddition>IX. DIVERSEN:
+Bluetooth® is een handelsmerk van Bluetooth SIG, Inc.
+
+angular.js - Copyright (c) 2010-2015 Google, Inc., licenties onder The MIT License to LEGO System A/S
+
+Bootstrap - Copyright (c) 2011-2015 Twitter, Inc, licenties onder The MIT License to LEGO System A/S
+
+Font-Awesome and Hammerjs - Copyright (C) 2011-2014 by Jorik Tangelder (Eight Media), beiden licenties onder The MIT License to LEGO System A/S
+Hammer.js for Angular.js - Copyright (c) 2014 Ryan S Mullins is een licentie onder The MIT License to LEGO System A/S
+
+Audio Recording:
+Licentietype: MIT
+We gebruiken momenteel RecordRTC (http://recordrtc.org/RecordRTC.html) voor het opnemen van geluid en filmpjes.
+
+Synchronisatie:
+Licentietype: Apache-licentie 2.0
+De enige bibliotheek van derden die ik gebruik op Chrome OS is deze:
+https://github.com/GoogleChrome/chrome-app-samples/tree/master/libraries/gapi-chrome-apps-lib Einde van de licentieovereenkomst voor eindgebruikers
+
+Roboto Font: Copyright 2011 Google Inc. Licensed under the Apache License, Version 2.0 - http://www.apache.org/licenses/LICENSE-2.0
+MediaCaptureWPF: Licensed under the Apache License Version 2.0, January 2004 - http://www.apache.org/licenses/LICENSE-2.0
+
+Einde van de licentieovereenkomst voor eindgebruikers</EULAAddition>
+  <LobbyInfoLobby>Lobby</LobbyInfoLobby>
+  <LobbyQuickStartProjectTitle>Nieuw bij WeDo 2.0</LobbyQuickStartProjectTitle>
+  <LobbyQuickStartProjectButton>Je eerste project</LobbyQuickStartProjectButton>
+  <LobbyTeacherResourcesButtonTitle>Hulpmiddelen voor leerkrachten</LobbyTeacherResourcesButtonTitle>
+  <LobbyTeacherResourcesButtonSubtitle>Klik hier voor nuttige tips en links</LobbyTeacherResourcesButtonSubtitle>
+  <LobbyClassroomProjectsButtonTitle>Klassikale projecten</LobbyClassroomProjectsButtonTitle>
+  <LobbyClassroomProjectsButtonSubtitle>Klik hier voor boeiende lessen</LobbyClassroomProjectsButtonSubtitle>
+  <LobbyUserProjectsAreaTitle>Mijn projecten</LobbyUserProjectsAreaTitle>
+  <ButtonYes>Ja</ButtonYes>
+  <ButtonNo>Nee</ButtonNo>
+  <LobbyDeleteSingleProjectsDialog>Weet je zeker dat je dit project wilt verwijderen?</LobbyDeleteSingleProjectsDialog>
+  <LobbyProjectAgeDays>Dagen geleden</LobbyProjectAgeDays>
+  <LobbyProjectAgeHours>Uren geleden</LobbyProjectAgeHours>
+  <LobbyDefaultProjectName>Project</LobbyDefaultProjectName>
+  <LoadingScreenStartup>Bezig met opstarten...</LoadingScreenStartup>
+  <LoadingScreenFull>Bezig met laden…</LoadingScreenFull>
+  <LoadingScreenContent>Even geduld...</LoadingScreenContent>
+  <LoadingScreenModel>Moment...</LoadingScreenModel>
+  <LobbyInfoLobbyPageTitle>Beheer je lobby</LobbyInfoLobbyPageTitle>
+  <LobbyInfoLobbyPageDescription>Is je lobby te druk? Klik op de onderstaande knop om al ‘Mijn projecten’ uit de lobby te verwijderen.</LobbyInfoLobbyPageDescription>
+  <LobbyInfoLobbyPageDeleteAllProjectsButton>Alle projecten verwijderen</LobbyInfoLobbyPageDeleteAllProjectsButton>
+  <LobbyDeleteAllProjectsDialogLocal>Weet je zeker dat je al ‘Mijn projecten’ wilt verwijderen?</LobbyDeleteAllProjectsDialogLocal>
+  <LobbyDeleteAllProjectsDialogGoogleDrive>Weet je zeker dat u alle projecten van dit Google-account wilt verwijderen?</LobbyDeleteAllProjectsDialogGoogleDrive>
+  <TeacherResourcesPage1Title>Maak met je klas een set gebruiksregels voor WeDo 2.0-sets.</TeacherResourcesPage1Title>
+  <TeacherResourcesPage2Title>Groepeer studenten in koppels. Geef elk koppel een WeDo 2.0-set.</TeacherResourcesPage2Title>
+  <TeacherResourcesPage3Title>Moedig studenten aan om vragen te stellen, te onderzoeken en te creëren.</TeacherResourcesPage3Title>
+  <TeacherResourcesPage4Title>Geef de kinderen voldoende tijd om aan hun ontwerpen te sleutelen en wijzigingen aan te brengen. Maak je geen zorgen als je niet alle activiteiten in één les kunt afwerken.</TeacherResourcesPage4Title>
+  <TeacherResourcesPage5Title>Doe 'verdwaalde' LEGO-stukjes in een container voor eenvoudiger setbeheer.</TeacherResourcesPage5Title>
+  <TeacherResourcesPage6Title>Klik op een pictogram om meer online-informatie te vinden.</TeacherResourcesPage6Title>
+  <TeacherResourcesLink1Title>Handleidingen voor leerkrachten</TeacherResourcesLink1Title>
+  <TeacherResourcesLink2Title>Lesplannen</TeacherResourcesLink2Title>
+  <TeacherResourcesLink3Title>Ondersteuning</TeacherResourcesLink3Title>
+  <RenameHubTitle>Wijzig de naam van de smarthub.</RenameHubTitle>
+  <RenameHubDescription>Om de klas gemakkelijker te kunnen beheren, geef je de smarthub best dezelfde naam als het fysieke label op de smarthub.</RenameHubDescription>
+  <RenameHubYesButton>De naam van smarthub wijzigen</RenameHubYesButton>
+  <RenameHubCancelButton>Niet nu</RenameHubCancelButton>
+  <TeacherResourcesSlidesButton>Tips en trucs voor in de klas</TeacherResourcesSlidesButton>
+</strings>

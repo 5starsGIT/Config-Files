@@ -1,0 +1,758 @@
+{
+   "account_code_box_empty": {
+      "description": "Accounting code neets to be at least one character for the box to accept an entry. shown as toast/snackbar to user (temporary on screen message)",
+      "message": "Please provide an accounting code to print"
+   },
+   "color": {
+      "description": "Color",
+      "message": "Color"
+   },
+   "config_cache_deleted": {
+      "description": "Notify the user the printer config cache has been deleted",
+      "message": "Deleted printer config cache"
+   },
+   "credit_copy": {
+      "description": "The remaining print page limits in page values",
+      "message": "Copy pages remaining"
+   },
+   "credit_print": {
+      "description": "The remaining print page limits in page values",
+      "message": "Print pages remaining"
+   },
+   "credit_value": {
+      "description": "Amount of credit remaining to print with (in currency)",
+      "message": "Credit Remaining"
+   },
+   "dpio_edge_node_sign_in": {
+      "description": "Link to show a popup to sign in as an Edge Node",
+      "message": "Sign in as dpio Edge Node"
+   },
+   "edge_node_select_title": {
+      "description": "title when prompting the user to select an Edge Node",
+      "message": "Select Edge Node"
+   },
+   "edge_print_auth_cleared": {
+      "description": "Notify the user the printer Edge Print authorization has been cleared",
+      "message": "Cleared Edge Print auth"
+   },
+   "environment_quickcode": {
+      "description": "State that the allocation was via an OS. Environment Variable settting QuickCodes",
+      "message": "Environment QuickCode"
+   },
+   "error_with_status_code": {
+      "description": "Show an error with a given status code",
+      "message": "Error: Status code $CODE$",
+      "placeholders": {
+         "code": {
+            "content": "$1",
+            "example": "404"
+         }
+      }
+   },
+   "follow_me_app_key": {
+      "description": "Settings header to show the user the follow me application",
+      "message": "Follow Me App"
+   },
+   "follow_me_app_value": {
+      "description": "Button text for the user selecting to show the release app install",
+      "message": "Show release app install"
+   },
+   "ink_save_2_up": {
+      "description": "Whether to print 2 pages side by side to every one sheet of paper (checkbox)",
+      "message": "2-up printing"
+   },
+   "ink_save_best": {
+      "description": "The best quality ink save profile (no ink saving)",
+      "message": "Best"
+   },
+   "ink_save_dont_print_blank": {
+      "description": "Whether to skip over printing blank pages during the print (checkbox)",
+      "message": "Don't print blank pages"
+   },
+   "ink_save_dont_print_nblank": {
+      "description": "Whether to skip over printing nearly blank pages during the print (checkbox)",
+      "message": "Don't print nearly blank pages"
+   },
+   "ink_save_draft": {
+      "description": "Draft ink usage profile",
+      "message": "Draft"
+   },
+   "ink_save_estimated_saving": {
+      "description": "The amount of ink that can be saved by using the current ink save profile instead of \"Best\"",
+      "message": "Estimated page ink usage vs \"Best\" Quality"
+   },
+   "ink_save_mono": {
+      "description": "Monochrome ink usage profile",
+      "message": "Mono"
+   },
+   "ink_save_printing_xofx": {
+      "description": "Notify the number of pages against total pages to be printed",
+      "message": "Printing $PAGES$ of $TOTAL$ pages",
+      "placeholders": {
+         "pages": {
+            "content": "$1",
+            "example": "1"
+         },
+         "total": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "ink_save_saver": {
+      "description": "(Save ink) Reduced ink usage profile",
+      "message": "Saver"
+   },
+   "ink_save_saving": {
+      "description": "A percentage of the amount of ink being saved",
+      "message": "$PERCENT$% Saving",
+      "placeholders": {
+         "percent": {
+            "content": "$1",
+            "example": "78"
+         }
+      }
+   },
+   "ink_save_superdraft": {
+      "description": "(very draft) Superdraft ink usage profile",
+      "message": "Superdraft"
+   },
+   "ink_save_tooltip_best": {
+      "description": "tooltip popup for \"best\" ink saving option",
+      "message": "No reduction in quality"
+   },
+   "ink_save_tooltip_draft": {
+      "description": "tooltip popup for \"draft\" ink saving option",
+      "message": "Removes all color, reduces black intensity to save ink/toner"
+   },
+   "ink_save_tooltip_mono": {
+      "description": "tooltip popup for \"mono\" ink saving option",
+      "message": "Removes all color"
+   },
+   "ink_save_tooltip_saver": {
+      "description": "tooltip popup for \"saver\" ink saving option",
+      "message": "Uses less toner/ink while maintaining images & text"
+   },
+   "ink_save_tooltip_superdraft": {
+      "description": "tooltip popup for \"superdraft\" ink saving option",
+      "message": "Removes all color, reduces black intensity even more"
+   },
+   "ink_save_tooltip_ultradraft": {
+      "description": "tooltip popup for \"ultradraft\" ink saving option",
+      "message": "Removes all color, removes most images"
+   },
+   "ink_save_tooltip_zap": {
+      "description": "tooltip popup for \"image zap\" ink saving option",
+      "message": "Locates and reduces image ink, text is unchanged for readability (proofing)"
+   },
+   "ink_save_ultradraft": {
+      "description": "(very very draft) Ultradraft ink usage profile",
+      "message": "Ultradraft"
+   },
+   "ink_save_zap": {
+      "description": "Further reduced ink usage profile",
+      "message": "Image Zap"
+   },
+   "job_account_code_entry_choose": {
+      "description": "Placeholder text for the dropdown seleciton box to pick an accounting code",
+      "message": "Select code"
+   },
+   "job_account_code_entry_fill": {
+      "description": "Placeholder text for the freeform entry box to enter an accounting code",
+      "message": "Enter code"
+   },
+   "job_account_code_entry_text": {
+      "description": "to follow on with job_account_code_entry_title, jobname on printername",
+      "message": "$job$ on $printer$",
+      "placeholders": {
+         "job": {
+            "content": "$1",
+            "example": "directprint.io job"
+         },
+         "printer": {
+            "content": "$2",
+            "example": "Bens home printer"
+         }
+      }
+   },
+   "job_account_code_entry_title": {
+      "description": "Title for modal popup requiring the user to input an accounting code",
+      "message": "Waiting for accounting code"
+   },
+   "job_make_default_check": {
+      "description": "Text for checkbox to make the current code default for the next time",
+      "message": "Make default"
+   },
+   "job_multiple_copies": {
+      "description": "Number of copies of the current job to print (multiple)",
+      "message": "$NUM$ copies",
+      "placeholders": {
+         "num": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "job_no_jobs": {
+      "description": "The placeholder text for when there are no current print jobs",
+      "message": "You have no active jobs"
+   },
+   "job_popup_cancel": {
+      "description": "Notification to user as they are cancelling a print job",
+      "message": "Are you sure you want to cancel this job?"
+   },
+   "job_single_copy": {
+      "description": "Number of copies of the current job to print (singular)",
+      "message": "1 copy"
+   },
+   "job_state_acc_code_select": {
+      "description": "Current job state - the job is awaiting the user to select and accounting code",
+      "message": "Select Accounting Code"
+   },
+   "job_state_back_off": {
+      "description": "Current job state - the job is awaiting retry on a printer",
+      "message": "Back Off"
+   },
+   "job_state_claimed": {
+      "description": "Current job state - the job has been claimed by another print node",
+      "message": "Claimed"
+   },
+   "job_state_complete": {
+      "description": "Current job state - the job has been completed",
+      "message": "Complete"
+   },
+   "job_state_converted": {
+      "description": "Current job state - the job has been converted",
+      "message": "Converted"
+   },
+   "job_state_converting": {
+      "description": "Current job state - the job is converting",
+      "message": "Converting"
+   },
+   "job_state_created": {
+      "description": "Current job state - the job has been created",
+      "message": "Created"
+   },
+   "job_state_download_failed": {
+      "description": "Current job state - the job download has failed and it's awaiting to retry",
+      "message": "Download Retry Queued"
+   },
+   "job_state_downloading": {
+      "description": "Current job state - the job is downloading from the cloud",
+      "message": "Downloading"
+   },
+   "job_state_error": {
+      "description": "Current job state - the job has errored and will not continue",
+      "message": "Error"
+   },
+   "job_state_follow_me_prompt": {
+      "description": "Current job state - the job is awaitng the user to confirm the follow-me prompt",
+      "message": "FollowMe Prompt"
+   },
+   "job_state_invalid": {
+      "description": "Current job state - the job is in an unknown/invalid state",
+      "message": "Invalid"
+   },
+   "job_state_pin_required": {
+      "description": "Current job state - the job is awaiting PIN release",
+      "message": "PIN Required"
+   },
+   "job_state_printer_stalled": {
+      "description": "Current job state - the job has been stalled due to a printer issue",
+      "message": "Printer Stalled"
+   },
+   "job_state_printing": {
+      "description": "The job is currently printing on the printer $PRINTER_NAME$",
+      "message": "printing on $PRINTER_NAME$",
+      "placeholders": {
+         "printer_name": {
+            "content": "$1",
+            "example": "Ben HP Cloud"
+         }
+      }
+   },
+   "job_state_queued": {
+      "description": "Current job state - the job is queued waiting for printer availability",
+      "message": "Queued"
+   },
+   "job_state_started": {
+      "description": "Current job state - the job has been started",
+      "message": "Started"
+   },
+   "job_state_uploading": {
+      "description": "Current job state - the job is uploading to the cloud",
+      "message": "Uploading"
+   },
+   "job_state_user_cancelled": {
+      "description": "Current job state - the job has been cancelled by the user",
+      "message": "User Cancelled"
+   },
+   "job_state_user_input": {
+      "description": "Current job state - the job is waiting for user input",
+      "message": "Choose Mode"
+   },
+   "job_state_validating_acc": {
+      "description": "Current job state - the job is validating the given accounting code",
+      "message": "Validating Accounting Code"
+   },
+   "mono": {
+      "description": "Short for monochrome",
+      "message": "Mono"
+   },
+   "nav_add": {
+      "description": "Clickable button for adding an option",
+      "message": "Add"
+   },
+   "nav_allow": {
+      "description": "Clickable button to grant permission",
+      "message": "Allow"
+   },
+   "nav_back": {
+      "description": "Clickable button to go back",
+      "message": "Back"
+   },
+   "nav_cancel": {
+      "description": "Clickable button to cancel a prompt",
+      "message": "Cancel"
+   },
+   "nav_config": {
+      "description": "shorthand for 'Configuration', link to page",
+      "message": "Config"
+   },
+   "nav_enter": {
+      "description": "Clickable button to enter some input",
+      "message": "Enter"
+   },
+   "nav_go": {
+      "description": "Clickable button to go forward with a submission",
+      "message": "Go"
+   },
+   "nav_ok": {
+      "description": "Clickable button to ok a prompt",
+      "message": "OK"
+   },
+   "nav_print": {
+      "description": "Clickable button to continue to print",
+      "message": "Print"
+   },
+   "nav_printers": {
+      "description": "shorthand for 'Active Printer List', link to page",
+      "message": "Printers"
+   },
+   "nav_queue": {
+      "description": "shorthand for 'Print Queue', link to page",
+      "message": "Queue"
+   },
+   "nav_remove": {
+      "description": "Clickable button for removing an option",
+      "message": "Remove"
+   },
+   "nav_yes": {
+      "description": "Clickable button for yes on a notification",
+      "message": "Yes"
+   },
+   "no_admin_user_data": {
+      "description": "Notify the user that no data has been set by the admin for them",
+      "message": "No admin user data set"
+   },
+   "no_advanced_options": {
+      "description": "Notification to the user that there are no advanced options available for the given printer",
+      "message": "No advanced options for $printer$",
+      "placeholders": {
+         "printer": {
+            "content": "$1",
+            "example": "Canon 1234"
+         }
+      }
+   },
+   "no_id": {
+      "description": "Stating that there is no ID found",
+      "message": "No ID"
+   },
+   "not_available": {
+      "description": "statement that the given settings value is currently not available",
+      "message": "Not available"
+   },
+   "printer_advanced": {
+      "description": "Clickable text to go to printer advanced options from menu drop down",
+      "message": "Advanced options"
+   },
+   "printer_bridge_direct": {
+      "description": "Printer is connected directly",
+      "message": "Direct"
+   },
+   "printer_bridge_proxy": {
+      "description": "Printer is connected via a networked bridge at the given IP $ADDRESS$",
+      "message": "Bridge: $ADDRESS$",
+      "placeholders": {
+         "address": {
+            "content": "$1",
+            "example": "192.168.0.12"
+         }
+      }
+   },
+   "printer_bridge_title": {
+      "description": "Is the printer connected directly or via a networked bridge e.g. proxy",
+      "message": "Bridged / Direct"
+   },
+   "printer_capability_cached": {
+      "description": "Capabilitiesof the printer cached on the given localized $DATE$",
+      "message": "Cached: $DATE$",
+      "placeholders": {
+         "date": {
+            "content": "$1",
+            "example": "18/03/2021, 9:56:43"
+         }
+      }
+   },
+   "printer_capability_fetched_on_print": {
+      "description": "Capabilities fetched on print",
+      "message": "Fetched on print"
+   },
+   "printer_capability_title": {
+      "description": "State of printer capabilities - cached or fetched on print",
+      "message": "Capability"
+   },
+   "printer_enter_quickcode": {
+      "description": "Label for the QuickCode text entry box",
+      "message": "Enter QuickCode"
+   },
+   "printer_enter_quickcode_modal": {
+      "description": "Modal title for the enter a QuickCode modal",
+      "message": "Enter QuickCode to add printer"
+   },
+   "printer_format_detect_fail": {
+      "description": "Note that the detection of printer formats failed",
+      "message": "Autodetection failed"
+   },
+   "printer_format_title": {
+      "description": "List of formats the printer supports",
+      "message": "Printer format support"
+   },
+   "printer_icon_edge": {
+      "description": "The printer is a network printer that can be printed to via cloud infrastructure",
+      "message": "Edge Printer"
+   },
+   "printer_icon_local": {
+      "description": "The printer is local and can be printed to immediately",
+      "message": "Immediate Print"
+   },
+   "printer_icon_queue": {
+      "description": "The printer is a network queue that can be printed to via cloud infrastructure",
+      "message": "Queue Printer"
+   },
+   "printer_icon_secure": {
+      "description": "The printer requires a PIN to release print jobs",
+      "message": "Secure Release Printer - use PIN"
+   },
+   "printer_icon_unavailable": {
+      "description": "The printer is not available for use",
+      "message": "Printer Unavailable"
+   },
+   "printer_multiple_printers_allocated": {
+      "description": "Notification to user that the client has allocated $COUNT$ (2 or more) printers to the user",
+      "message": "$COUNT$ printers allocated",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "4"
+         }
+      }
+   },
+   "printer_no_printers": {
+      "description": "Message on screen that highlights to the user that they have no printers",
+      "message": "You have no active printers"
+   },
+   "printer_no_usb_nwjs": {
+      "description": "Notification to user that the app needs USB permssions to talk to a printer",
+      "message": "USB printing unavailable"
+   },
+   "printer_one_printers_allocated": {
+      "description": "Notification to user that the client has allocated 1 printer to the user",
+      "message": "1 printer allocated"
+   },
+   "printer_popup_delete": {
+      "description": "Notification to user as they are removing a printer",
+      "message": "Are you sure you want to remove this printer?"
+   },
+   "printer_status_accepting": {
+      "description": "Printer is able to accept new print jobs",
+      "message": "Accepting jobs"
+   },
+   "printer_status_not_accepting": {
+      "description": "Printer is not able to accept new print jobs",
+      "message": "Not accepting jobs"
+   },
+   "printer_status_not_queried": {
+      "description": "Status of printer for non contactable printers",
+      "message": "Printer not queried"
+   },
+   "printer_status_offline": {
+      "description": "Offline status of printer",
+      "message": "Offline"
+   },
+   "printer_status_online": {
+      "description": "Online status of printer",
+      "message": "Online"
+   },
+   "printer_status_title": {
+      "description": "Current identified status of the printer",
+      "message": "Printer status"
+   },
+   "printer_status_unknown": {
+      "description": "Printer is not contactable and status is unknown, we will still attempt to print",
+      "message": "Unknown: Print will be attempted"
+   },
+   "printer_test_cannot_resolve": {
+      "description": "Connection status result when the printer is not contactable at all",
+      "message": "The driver cannot contact the printer, all tests have failed. Please check the printer is turned on and that TCP traffic is not blocked."
+   },
+   "printer_tests": {
+      "description": "Clickable text to go to printer information from menu drop down",
+      "message": "Connection test"
+   },
+   "printer_tests_bridge": {
+      "description": "Printer connnected via network bridge, no protocol tests available",
+      "message": "No test - bridged"
+   },
+   "printer_tests_ipp_available": {
+      "description": "Printer can connect via IPP protocol",
+      "message": "IPP Available"
+   },
+   "printer_tests_ipp_connect_fail": {
+      "description": "Notify the user that the printer cannot connect via $TEST$ due to the reason listed against $TEST_STATUS%",
+      "message": "Cannot connect via $TEST$, see error against $TEST_STATUS$ below",
+      "placeholders": {
+         "test": {
+            "content": "$1",
+            "example": "IPP (631)"
+         },
+         "test_status": {
+            "content": "$2",
+            "example": "IPP 631 Status"
+         }
+      }
+   },
+   "printer_tests_ipps_available": {
+      "description": "Printer can connect via IPPS protocol",
+      "message": "IPPS Available"
+   },
+   "printer_tests_port_closed": {
+      "description": "Connection status result when the printer can't connect on the given port",
+      "message": "Port closed"
+   },
+   "printer_tests_port_connecting": {
+      "description": "Connection status result during test run",
+      "message": "Connecting..."
+   },
+   "printer_tests_port_not_available": {
+      "description": "Connection status result for network test stack not being available",
+      "message": "Test not available"
+   },
+   "printer_tests_port_title": {
+      "description": "Status of connecting to the printer on port $NUMBER$",
+      "message": "Port $NUMBER$ status",
+      "placeholders": {
+         "number": {
+            "content": "$1",
+            "example": "631"
+         }
+      }
+   },
+   "printer_tests_title": {
+      "description": "Tests to run against the printer",
+      "message": "Tests"
+   },
+   "printer_tests_usb": {
+      "description": "Printer connnected via USB protocol, other protocols not applicable",
+      "message": "Not applicable - USB connected"
+   },
+   "printer_uri": {
+      "description": "URI of the printer",
+      "message": "URI"
+   },
+   "printer_usb_permission": {
+      "description": "Notification to user that the app needs USB permssions to talk to a printer",
+      "message": "USB permissions required"
+   },
+   "settings_acc_code": {
+      "description": "The default accounting code to use for a print job",
+      "message": "Accounting Code"
+   },
+   "settings_admin_user_config": {
+      "description": "Any adming specific configruation forced onto the user",
+      "message": "Admin set user configuration"
+   },
+   "settings_chrome_ver": {
+      "description": "Version of Chrome the app is running on",
+      "message": "Chrome Version"
+   },
+   "settings_clear_cache": {
+      "description": "Button to clear the cached capabilities of the printers",
+      "message": "Clear"
+   },
+   "settings_device_id": {
+      "description": "The ID of the given device",
+      "message": "Device ID"
+   },
+   "settings_dpio_service": {
+      "description": "The directprint.io server status and version",
+      "message": "Directprint.io platform version"
+   },
+   "settings_dpio_service_unavailable": {
+      "description": "An issue with contacting the server followed by the specific $status$",
+      "message": "Service Unavailable: $status$",
+      "placeholders": {
+         "status": {
+            "content": "$1",
+            "example": "Error 404"
+         }
+      }
+   },
+   "settings_edge": {
+      "description": "settings heading name for part of our product 'Edge Print'",
+      "message": "Edge Print"
+   },
+   "settings_edge_node_name": {
+      "description": "heading name for the name of the logged in edge node",
+      "message": "edge node"
+   },
+   "settings_licenses_link": {
+      "description": "Link to the software licenses",
+      "message": "Software Licenses"
+   },
+   "settings_log": {
+      "description": "The debug log of the application",
+      "message": "Log"
+   },
+   "settings_os": {
+      "description": "Operating system of the device the app is running on",
+      "message": "Operating System"
+   },
+   "settings_ou_group": {
+      "description": "The Organizational unit / group the user belongs to",
+      "message": "OU/Group"
+   },
+   "settings_pin": {
+      "description": "The pin number used to secure jobs for printers that require a pin",
+      "message": "Secure Print PIN"
+   },
+   "settings_printer_capablilities": {
+      "description": "The capablilities of the printers",
+      "message": "Printer Capability Cache"
+   },
+   "settings_printers_allocated": {
+      "description": "How the printers were allocated to the application",
+      "message": "Printers Allocated By"
+   },
+   "settings_privacy_link": {
+      "description": "Link to the privacy policy",
+      "message": "Privacy Policy"
+   },
+   "settings_reset_edge": {
+      "description": "Reset any 'Edge Print' configuration",
+      "message": "Reset Edge Print"
+   },
+   "settings_unlink_user": {
+      "description": "Button to sign the user out and unlink their account",
+      "message": "Sign out"
+   },
+   "settings_userid": {
+      "description": "The user ID of the logged in user",
+      "message": "User ID: $UUID$",
+      "placeholders": {
+         "uuid": {
+            "content": "$1",
+            "example": "123456789012345678901"
+         }
+      }
+   },
+   "settings_version": {
+      "description": "client version header",
+      "message": "Version"
+   },
+   "sign_in": {
+      "description": "Label on button to show sign in options to the user",
+      "message": "Sign in"
+   },
+   "sign_in_dpio_edge_placeholder": {
+      "description": "placeholder for a token paste text entry field",
+      "message": "Paste Edge Node token here"
+   },
+   "sign_in_dpio_edge_title": {
+      "description": "Title to show a sign in option to the user",
+      "message": "Sign in using the token acquired from the dpio cloud Edge Print dashboard"
+   },
+   "sign_in_longform": {
+      "description": "Title to show sign in options to the user",
+      "message": "Sign in with Google or Microsoft to access your allocated printers"
+   },
+   "sign_in_or": {
+      "description": "Suggesting an alternate method of moving forwards, this *OR* that",
+      "message": "Or"
+   },
+   "signon_reminder_dismiss": {
+      "description": "button text to not show this notificaiton again",
+      "message": "Don't ask again"
+   },
+   "signon_reminder_message": {
+      "description": "Prompt the user that they could have printers if they sign in or use a quickcode",
+      "message": "Sign in or use quickcodes to use directprint.io"
+   },
+   "signon_reminder_show": {
+      "description": "button text for the app to open to sign in or use a quickcode",
+      "message": "Open App"
+   },
+   "signon_reminder_title": {
+      "description": "Notification prompt to the user to sign in to the app",
+      "message": "Sign in to directprint?"
+   },
+   "title_configuration": {
+      "description": "Page title for the configuration(settings) page",
+      "message": "Configuration"
+   },
+   "title_ink_save": {
+      "description": "Page title for page dedicated to encourage users to save ink when printing",
+      "message": "Ink Save"
+   },
+   "title_printer_info": {
+      "description": "Page title for information on a specific printer",
+      "message": "Printer Info"
+   },
+   "title_printer_options": {
+      "description": "Page title for advanced options of a specific printer (page size etc.)",
+      "message": "Advanced Printing Options"
+   },
+   "title_printerlist": {
+      "description": "Page title for a list of printers available to the user",
+      "message": "Active Printer List"
+   },
+   "title_printqueue": {
+      "description": "Page title for a list of print jobs that are printing or queued to be printed",
+      "message": "Print Queue"
+   },
+   "unknown": {
+      "description": "statement that the given settings value is currently unknown",
+      "message": "Unknown"
+   },
+   "update_available_ui": {
+      "description": "message for bar in the ui to click to update the application",
+      "message": "update available"
+   },
+   "update_message": {
+      "description": "prompting the user that there is an update available",
+      "message": "Install updated version?"
+   },
+   "update_now": {
+      "description": "button text for the app to update now",
+      "message": "Update now"
+   },
+   "update_remind": {
+      "description": "button text for the app to remind again tomorrow",
+      "message": "Remind me tomorrow"
+   },
+   "update_title": {
+      "description": "prompting the user that there is an update available",
+      "message": "directprint.io update available"
+   }
+}

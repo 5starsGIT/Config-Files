@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Conjuga fácilmente los verbos en francés utilizando esta herramienta. Conjugador de verbos en francés."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Conjugador Vatefaireconjuguer"
+   }
+}

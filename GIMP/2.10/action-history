@@ -1,0 +1,10 @@
+# GIMP action-history
+
+(history-item "file-quit" 1)
+(history-item "file-export-as" 1)
+(history-item "image-new" 0)
+(history-item "edit-paste" 0)
+(history-item "file-export" 0)
+(history-item "file-open" 1)
+
+# end of action-history

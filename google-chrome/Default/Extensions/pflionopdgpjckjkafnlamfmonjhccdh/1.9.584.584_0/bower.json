@@ -1,0 +1,22 @@
+{
+  "name": "chromeapp",
+  "description": "Wrapping Chrome Application for the LEGO WeDo 2.0 project.",
+  "main": "index.js",
+  "authors": [
+    "Kristoffer Dahl Hansen <kdh@trifork.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "recordrtc": "5.4.5"
+  }
+}

@@ -1,0 +1,5 @@
+system:
+  pulse_latency: true
+wine:
+  battleye: false
+  eac: false

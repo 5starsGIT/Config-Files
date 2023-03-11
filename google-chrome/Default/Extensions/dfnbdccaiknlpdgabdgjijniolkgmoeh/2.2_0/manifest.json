@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://www.symbaloo.com/?sethomepage=1"
+      },
+      "urls": [ "https://www.symbaloo.com/?sethomepage=1" ]
+   },
+   "description": "Symbaloo is a visual way to navigate the Internet. This app will soon be replaced. Follow instructions for updating.",
+   "icons": {
+      "128": "static/symbaloo-icon-128.png",
+      "16": "static/symbaloo-icon-16.png",
+      "48": "static/symbaloo-icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7svk7UwUO1bvM7dZQnTaBPxQ0UvLpNDZ+3ItOl/w6UBEhITs6ZfdzosXUmh9MjqItClBuyjl3UP+4/BCHwAEH3OaaTTNDoijgmY6HHzzyXEgWhCCzO1dbqrSLY4M2/5S19UiUlPmRbRlJh9JfKuysVpMomNMwd1QTnDeOHVirvwIDAQAB",
+   "manifest_version": 2,
+   "name": "Symbaloo",
+   "permissions": [ "*://*.symbaloo.com/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2"
+}

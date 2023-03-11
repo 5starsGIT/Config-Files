@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/alex/mousenkeyfix
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=mousenkeyfix
+Name=mousenkeyfix
+Comment[en_US]=fixes usb when powertop is in use
+Comment=fixes usb when powertop is in use

@@ -1,0 +1,87 @@
+{
+	"type": "object",
+	"properties": {
+		"Printers": {
+			"title": "List of available network printers",
+			"description": "Printers available on the local network as specified by the domain administrator.",
+			"type": "array",
+			"id": "ListOfPrinters",
+			"items": {
+				"type": "object",
+				"properties": {
+					"friendlyName": {
+						"title": "Printer friendly name",
+						"description": "The name that appears printer list",
+						"type": "string"
+					},
+					"url": {
+						"title": "Printer URL",
+						"description": "The IPP URL for the printer",
+						"type": "string"
+					},
+					"pType": {
+						"title": "Printer type",
+						"description": "Printer type: urf, ps, auto, pdf, pwg",
+						"type": "string",
+						"optional": true
+					},
+					"location": {
+						"title": "Printer location",
+						"description": "The physical location of the printer",
+						"type": "string",
+						"optional": true
+					}
+				}
+			},
+			"optional": true
+		},
+		"Key": {
+			"title": "Site license key",
+			"description": "You can site-license this software, please contact help@directprint.io for more info",
+			"type": "string",
+			"id": "siteKey",
+			"optional": true
+		},
+		"Stats": {
+			"title": "Statistics on or off",
+			"description": "Disable stats repoting with this flag",
+			"type": "boolean",
+			"id": "statsFlag",
+			"optional": true
+		},
+		"QuickCodes": {
+			"title": "List of quickcodes to provision",
+			"description": "QuickCode list - see directprint.io for details, comma separated",
+			"type": "string",
+			"id": "quickCodes",
+			"optional": true
+		},
+		"Token": {
+			"title": "Security token for your organization",
+			"description": "Apply the token to allow users to fetch configurations",
+			"type": "string",
+			"id": "token",
+			"optional": true
+		},
+		"Lock": {
+			"title": "Lock the client to prevent any printer changes",
+			"description": "Lock the client to prevent any printer changes",
+			"type": "string",
+			"id": "lock",
+			"optional": true
+		},
+		"PINCodes": {
+			"title": "List of valid print users vs PIN code",
+			"description": "List of valid print users vs PIN code",
+			"type": "array",
+			"id": "ListOfUsers",
+			"items": {
+				"type": "array",
+				"items": {
+					"type": "string"
+				}
+			},
+			"optional": true
+		}
+	}
+}

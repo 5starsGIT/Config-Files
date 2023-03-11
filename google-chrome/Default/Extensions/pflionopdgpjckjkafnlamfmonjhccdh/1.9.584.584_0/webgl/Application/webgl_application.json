@@ -1,0 +1,14 @@
+{
+"companyName": "LEGO",
+"productName": "WeDo 2.0",
+"dataUrl": "webgl_application.data.unityweb",
+"asmCodeUrl": "webgl_application.asm.code.unityweb",
+"asmMemoryUrl": "webgl_application.asm.memory.unityweb",
+"asmFrameworkUrl": "webgl_application.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 1.0", "WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}

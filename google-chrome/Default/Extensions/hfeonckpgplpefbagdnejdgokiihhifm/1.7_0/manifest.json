@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.lepetiterudit.com/"
+      },
+      "urls": [ "http://www.lepetiterudit.com/" ]
+   },
+   "description": "Apprendre quelque chose de nouveau!",
+   "icons": {
+      "128": "con_lpe.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDLG1qn2rpAUKAvASA+k3XV2DGjMFAH8WN0D6in7yiADfoBlEG77/Uz1RLxb+UgHSnFemrmog1Max32fDYxO6lHcpDR7qvwufnrEG4A8SpLCurDFNBzB94XtVQvHhrqodJO97/RSHigN16Dw2G+b2S7ILD7yGieA6gC7DJ/jBh2cwIDAQAB",
+   "manifest_version": 2,
+   "name": "Le Petit Érudit",
+   "short_name": "Le Petit Érudit",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.7"
+}

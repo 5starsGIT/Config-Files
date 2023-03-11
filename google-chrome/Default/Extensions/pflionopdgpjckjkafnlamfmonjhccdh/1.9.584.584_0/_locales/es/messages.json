@@ -1,0 +1,46 @@
+{
+   "appDesc": {
+      "description": "La descripción de la aplicación, que aparece en la tienda web.",
+      "message": "La aplicación LEGO® Education WeDo 2.0 permite a los alumnos explorar grandes proyectos científicos."
+   },
+   "appName": {
+      "description": "El título de la aplicación, que aparece en la tienda web.",
+      "message": "WeDo 2.0 LEGO® Education"
+   },
+   "appShortName": {
+      "description": "El título de la aplicación, que aparece en la tienda web.",
+      "message": "WeDo 2.0"
+   },
+   "closeApp": {
+      "description": "Texto para el botón de cierre en plataformas no compatibles",
+      "message": "Cerrar aplicación"
+   },
+   "unsupportedOSMessage": {
+      "description": "Mensaje que aparecerá si no se admite el SO",
+      "message": "Esta es una aplicación de Chromebook. Visita nuestra tienda de aplicaciones para acceder a WeDo 2.0 de LEGO® Education para tu dispositivo"
+   },
+   "updateAfterRestart": {
+      "description": "Button text for 'After restart' button",
+      "message": "After restart"
+   },
+   "updateAvailable": {
+      "description": "The message for users when an update is available while running the app",
+      "message": "There is an update available with version: \u003Cb>$NEW_VERSION$\u003C/b>, you are currently running: \u003Cb>$CURRENT_VERSION$\u003C/b>.\u003Cbr>\u003Cbr>When would you like to update?",
+      "placeholders": {
+         "CURRENT_VERSION": {
+            "content": "$2"
+         },
+         "NEW_VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "updateHeader": {
+      "description": "Header for the update message box",
+      "message": "Update available"
+   },
+   "updateNow": {
+      "description": "Button text for 'Update now' button",
+      "message": "Update now"
+   }
+}

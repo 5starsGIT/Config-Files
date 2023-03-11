@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://knoema.com/atlas?utm_source=chrome-ntp-icon&utm_medium=chrome-app"
+      },
+      "urls": [ "*://knoema.com/atlas" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_application_description__",
+   "icons": {
+      "128": "wda_icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCfaQcKCf0dmbKU/MMOGN6LJEitFwlrbGOhmRKgcvpovatDv+L9yZWoDqD7oQyAmiHWMpz73RJUbfAD8iOTFP3yZFEJEdM2WBxMlozSdSWev30Gt41vKFDqTaStloQFnRNwdl669r5+dPoZfz9VFSt/kpXrEIN+XPgBN8w0U/8XMwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_application_title__",
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.14"
+}

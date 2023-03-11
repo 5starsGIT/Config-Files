@@ -1,0 +1,21 @@
+2023/03/09-12:53:08.482 53da Reusing MANIFEST /home/alex/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/03/09-12:53:08.482 53da Recovering log #568
+2023/03/09-12:53:08.484 53da Reusing old log /home/alex/.config/google-chrome/Default/Sync Data/LevelDB/000568.log 
+2023/03/09-12:57:11.706 53bc Level-0 table #572: started
+2023/03/09-12:57:11.723 53bc Level-0 table #572: 102058 bytes OK
+2023/03/09-12:57:11.725 53bc Delete type=0 #568
+2023/03/09-13:22:49.741 53bc Level-0 table #574: started
+2023/03/09-13:22:49.760 53bc Level-0 table #574: 104764 bytes OK
+2023/03/09-13:22:49.763 53bc Delete type=0 #571
+2023/03/09-13:42:00.193 53bc Level-0 table #576: started
+2023/03/09-13:42:00.210 53bc Level-0 table #576: 90436 bytes OK
+2023/03/09-13:42:00.212 53bc Delete type=0 #573
+2023/03/09-13:42:00.212 53bc Compacting 4@0 + 1@1 files
+2023/03/09-13:42:00.222 53bc Generated table #577@0: 247 keys, 24089 bytes
+2023/03/09-13:42:00.222 53bc Compacted 4@0 + 1@1 files => 24089 bytes
+2023/03/09-13:42:00.223 53bc compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/09-13:42:00.224 53bc Delete type=2 #566
+2023/03/09-13:42:00.224 53bc Delete type=2 #569
+2023/03/09-13:42:00.224 53bc Delete type=2 #572
+2023/03/09-13:42:00.224 53bc Delete type=2 #574
+2023/03/09-13:42:00.224 53bc Delete type=2 #576

@@ -1,0 +1,11 @@
+game:
+  exe: /media/drive2/World of Warcraft 3.3.5a/Wow.exe
+system: {}
+wine:
+  battleye: false
+  dgvoodoo2: true
+  eac: false
+  esync: false
+  fsr: false
+  fsync: false
+  version: lutris-GE-Proton7-35-x86_64

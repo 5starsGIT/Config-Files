@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<strings>
+  <OnlineStartupTitle>お使いの WeDo 2.0 アプリがアップデートされました！</OnlineStartupTitle>
+  <OnlineStartupDescription>WeDo 2.0 のすべての教材にアクセスするにはオンラインモードにしてください。これにはインターネットの接続が必要です。オフラインモードでは、プログラミング環境とノートツール、すでに作成されているプロジェクトにアクセスすることができます。下のボタンを使ってオンラインモードまたはオフラインモードを選択してください。オフラインモードで教材を使用する場合は、画面の指示に従って教材をダウンロードしてください。</OnlineStartupDescription>
+  <OnlineStartupButtonGoOffline>オフラインモード</OnlineStartupButtonGoOffline>
+  <OnlineStartupButtonUseOnline>オンラインモード</OnlineStartupButtonUseOnline>
+  <OnlineStartUpUpdatedContentTitle>お使いの WeDo 2.0 アプリがアップデートされました！</OnlineStartUpUpdatedContentTitle>
+  <OnlineStartUpUpdatedContentDescription>アップデートのため、WeDo 2.0 は自動的にオンラインモードに切り替わりました。WeDo 2.0 のすべての教材を見るには、デフォルト設定によりインターネットへの接続が必要です。オフラインモードの場合でも、プログラミング環境とノートツール、すでに作成されているプロジェクトにはアクセスすることができます。オンラインモードとオフラインモードのいずれかを選択してください。オフラインモードで教材を使用する場合は、画面の指示に従って教材をダウンロードしてください。</OnlineStartUpUpdatedContentDescription>
+  <OnlineStartUpUpdatedContentButtonGoToOfflineSettings>オフラインモード</OnlineStartUpUpdatedContentButtonGoToOfflineSettings>
+  <OnlineStartUpUpdatedContentButtonUseOnline>オンラインモード</OnlineStartUpUpdatedContentButtonUseOnline>
+  <OnlineOfflineSettingsTitle>オフライン設定</OnlineOfflineSettingsTitle>
+  <OnlineOfflineSettingsStatusDownloadAll>WeDo 2.0 の教材をすべてダウンロード</OnlineOfflineSettingsStatusDownloadAll>
+  <OnlineOfflineSettingsStatusContentDownloadSize>(_CONTENT_SIZE_ GB)</OnlineOfflineSettingsStatusContentDownloadSize>
+  <OnlineOfflineSettingsPerformanceWarningText>ダウンロードにより WEDO 2.0 の動作が遅くなることがあります</OnlineOfflineSettingsPerformanceWarningText>
+  <OnlineOfflineSettingsClearCacheDescriptionText>作成されたプロジェクトへの影響はありません。オンラインモードへ切り替えると、デバイスにダウンロードされているすべての教材が削除されます。これらの教材にはオンラインでアクセスすることができ、オフラインモードにすればもう一度ダウンロードすることができます。</OnlineOfflineSettingsClearCacheDescriptionText>
+  <OnlineOfflineSettingsStatusDownloading>ダウンロード中</OnlineOfflineSettingsStatusDownloading>
+  <OnlineOfflineSettingStatusNoConnection>インターネットに接続されていません</OnlineOfflineSettingStatusNoConnection>
+  <OnlineOfflineSettingsButton>オンラインモードに切り替える</OnlineOfflineSettingsButton>
+  <LobbyInfoGuideGettingStarted>導入</LobbyInfoGuideGettingStarted>
+  <LobbyInfoGuideGettingStartedSize>（サイズ 4MB、PDF）</LobbyInfoGuideGettingStartedSize>
+  <LobbyInfoGuidePreparation>指導者用準備ガイド</LobbyInfoGuidePreparation>
+  <LobbyInfoGuidePreparationSize>(サイズ： 250KB、PDF)</LobbyInfoGuidePreparationSize>
+  <LobbyInfoGuideTeacherComputing>計算論的思考 教師用ガイド</LobbyInfoGuideTeacherComputing>
+  <LobbyInfoGuideTeacherComputingSize>（サイズ 5MB、PDF）</LobbyInfoGuideTeacherComputingSize>
+  <LobbyInfoGuideSoftwareGuide>ツールボックス</LobbyInfoGuideSoftwareGuide>
+  <LobbyInfoGuideSoftwareGuideSize>（サイズ 4MB、PDF）</LobbyInfoGuideSoftwareGuideSize>
+  <LobbyInfoGuideTeacherScience>科学（理科）教師用ガイド</LobbyInfoGuideTeacherScience>
+  <LobbyInfoGuideTeacherScienceSize>（サイズ 16MB、PDF）</LobbyInfoGuideTeacherScienceSize>
+  <LobbyInfoGuideTeacherGuideSize>(サイズ： 15MB、PDF)</LobbyInfoGuideTeacherGuideSize>
+  <syncmanualunauth>ユーザーデータを同期化できませんでした。ロビーにあるスピナーのアイコンを押して、Google Driveからのアクセスを許可してください。</syncmanualunauth>
+  <synclocaloffline>ユーザーデータを同期化できませんでした。インターネットに接続されていることを確認してください。</synclocaloffline>
+  <syncmwillnotify>ユーザーデータを同期化できませんでした。再試行できる状態になると通知が表示されます。</syncmwillnotify>
+  <syncbigrecovered>ユーザーデータの同期化が可能になりました。再試行するにはロビーにあるスピナーのアイコンを押してください。</syncbigrecovered>
+  <syncofflinestate>ユーザーデータを同期化できませんでした。ロビーにあるスピナーのアイコンを押して、Google Driveからのアクセスを許可してください。</syncofflinestate>
+  <LobbyInfoPreparationGuideTitle>Important: Renaming the Smarthub</LobbyInfoPreparationGuideTitle>
+  <LobbyInfoPreparationGuideLinkDescription>新しいサイトはこちらから</LobbyInfoPreparationGuideLinkDescription>
+  <EULAFull>LEGO® Education WeDo 2.0 ソフトウェアエンド ユーザ 使用許諾契約書
+LEGO® エデュケーション WeDo 2.0 ソフトウェア（以下「ソフトウェア」）のライセンスはLEGO System A/S（Aastvej 1, DK-7190 Billund, Denmark）（以下「LEGO System」）により許諾されます。
+重要 -- よくお読みください。 これは、お客様（個人もしくは事業体）とLEGO Systemの間で結ばれる合法的な契約です。これによりお使いのソフトウェアの利用に対して一定の制限が加えられます。LEGO Systemおよびその供給業者やライセンス許諾者は本ソフトウェアの所有権を保有し、本契約で明示的に定められた諸条件にもとづく、ソフトウェアおよびこれに付随する文書（以下「文書」と呼ぶ）の使用権以外のいずれの権利もお客様に許諾するものではありません。以下の「送信する」というボタンをクリックすることによって、本ライセンス契約の諸条件に同意するとともに、本契約によって拘束されることとなります。本契約の条件に同意しない場合には、付随文書および正規販売店またはウェブサイトからダウンロードしたすべてのコピーを含め、直ちにソフトウェアのすべてのコピーを返却もしくは破棄してください。
+LEGO Systemはインストール時に提示する、またはソフトウェアに付属する個別のライセンス諸条件に従い、特定の第三者ソフトウェアを提供します（「第三者ソフトウェア」）。かかる第三者ソフトウェアは、「ソフトウェア」の意味には含まれません。
+ソフトウェアは本契約に基づき、Apple App Store、Google Play Store、Microsoft Windowsストア、LEGOEducation.comウェブサイトなどの販売パートナーを介してLEGO Systemが提供します。その他からソフトウェアを入手した場合、欠陥品またはオリジナル製品から著しく変更が加えられたものである場合があります。変更されたソフトウェアを使用する場合は、使用者の自己責任にてご使用ください。
+I.ライセンスの許諾：
+LEGO Systemは、お客様（ユーザー）に対し本契約によって、以下の条件を前提とし、商業目的以外の本ソフトウェアおよび文書の非独占的、制限付きライセンスを許諾します。
+本ソフトウェアは以下の条件においてのみ使用することができます。
+(a)	本ソフトウェアは指定機関の1台または複数台のデバイスで使うことができます。
+
+(b) 第1章(a)で認められているデバイスに本ソフトウェアをインストールする上で必要な場合およびバックアップおよび保管を目的として本ソフトウェアをコピーすることができますが、その場合、作成されたコピーにはオリジナルのソフトウェアの所有権通知が全て含まれていなければなりません。
+(c) 本ソフトウェアの使用による作成物は、商業目的には使用しないでください。そして、
+(d) LEGO® エデュケーション WeDo 2.0のプロジェクトを作成するには、本文書に記載の通り、LEGO Systemより商業目的での使用について文書による承諾を得ない限り、非商業目的での使用に限ります。商業目的でプロジェクトを作成または共有するために本ソフトウェアを使用する場合、LEGO System担当窓口にご連絡の上、LEGO Systemの承諾を得てください。これに関してLEGO Systemに許諾の義務はありません。
+以下は禁じられています。
+(1) その他の個人が（a）本契約の諸条件に従い使用することを理解している、および（b）本契約に従うことが確実でない場合に、その他の個人に本ソフトウェアの使用を許可すること。
+(2) リバース エンジニアリング、逆コンパイル、逆アセンブル、またはその他の本ソフトウェアを知覚的に感知できる構造を制限する変形を行うこと（この制限が法律によって明示的に禁止されている範囲を除く）、本ソフトウェアまたは文書を変更または翻訳すること、または本ソフトウェアまたは文書に基づき派生作品を作成すること。
+(3) 本ソフトウェアまたは文書（バックアップを目的とする場合を除く）をコピーすること。
+(4) 本ソフトウェアまたは文書、または本ソフトウェアまたは文書に関する権利を転売、賃借、リース、譲渡、販売、または譲渡すること。
+(5) 本ソフトウェアまたは文書をインターネット上で送信すること。
+(6) バックアップコピーを最初のコピーの差し替えのため以外の目的で使用すること。
+(7) 本ソフトウェアを商業目的で使用すること。
+(8) 本ソフトウェアまたは文書の所有権通知またはラベルを取り除くこと。
+ (9) 本ソフトウェアを、プラスチック製の組立てブロックの製造、マーケティング、販売または配布に関連した目的で使用すること。
+(10) 本ソフトウェアで提供されているデジタルコンテンツの保護を無効にする方法によって、暗号化されていないデータにアクセスするために本ソフトウェアを使用すること、または管轄区域の著作権法により保護されているコンテンツファイルまたはその他の作品へのアクセスまたはその権利を制御する法を技術的に回避するために、またはそれを目的とした装置、プログラム、サービスに関連して本ソフトウェアを使用すること。
+(11) 本ソフトウェアの使用、変更、または配布の条件として、 (a)ライセンスに従う、または従うこととなるコードをソースコードで公開または配布する、または(b) ライセンスに従う、または従うこととなるコードの派生作品を変更または作成する権利をその他の者が有することを求める、またはその要求を主張するライセンスに本ソフトウェアが従う結果となる行動を取ること。または
+(12) 下記第VII章2項に違反して、直接または間接的に本ソフトウェアを輸出、再輸出、ダウンロード、送信、輸送すること。
+使用ならびに譲渡における、上記項目に対する違反が発生した場合、本契約は即、そして自動的に失効します。
+II.ソフトウェア：
+必要に応じて、ソフトウェアをデバイスにダウンロードまたは再ダウンロードすることができますが、ソフトウェアを他の人に譲渡したり使用を許可しないでください。このライセンスは、いかなる機能強化や更新を行う権利を許諾するものではありません。
+III.権原：
+本ソフトウェアおよび文書、および本ソフトウェアおよび文書のコピーにおける、またはこれに関するすべての権原、所有権、権利、および知的所有権はLEGO Systemおよび/またはLEGO Systemの供給業者ならびにライセンス許諾者に帰属するものとします。本契約書で明示的に許諾されていないすべての権利は、LEGO Systemおよび/またはLEGO Systemの供給業者ならびにライセンス許諾者が保有するものとします。本ソフトウェアは国家著作権法および国際著作権条約によって保護されています。
+本ソフトウェアを通じて得られた内容またはこれに関する権原、所有権、および知的所有は、本ソフトウェア媒体のデモンストレーションファイルに含まれるすべての内容も含め、その内容の所有者の財産であり、該当の著作権またはその他の法律によって保護されています。このライセンスはそのような内容に対する権利を一切付与するものではありません。本ソフトウェアに含まれるテキスト、組み立てガイド、イメージはLEGO Systemおよび/またはLEGO Systemの供給業者ならびにライセンス許諾者に属します。ただし、非商業目的においてそれらを使用することができます。
+LEGO、LEGOのロゴ、およびミニフィギュアはLEGO Groupの商標であり、著作権はLEGO Groupに帰属します。© 2016 The LEGO Group.無断複写・転載を禁じます。
+
+本ソフトウェアに関する特許および第三者ソフトウェアに関する通知およびライセンスについては、以下を参照してください。
+IV.限定保証：
+LEGO Systemは受領書に記入された日付が証明となる、ソフトウェアが引き渡しされた日から90日間、通常の使用においてソフトウェアに材質または技量に起因する欠陥が存在しないことを保証します。
+上記保証を除き、本ソフトウェアおよび第三者ソフトウェアは現状のまま提供され、明示あるいは黙示を問わず、商品性、特定の目的への適合性、権利、無違反、その他の適用される法令による保証（適用法令により認められている最大の範囲内で）の黙示保証を含む（ただし必ずしもこれらに限定されない）一切の保証を伴いません。本ソフトウェアおよび第三者ソフトウェアの品質および性能に関する一切の責任はお客様によるものとします。本ソフトウェアの欠陥が判明した場合、そのサービス、修理、補正に必要となる全ての費用はお客様が負うものとします（LEGO SystemまたはLEGO SYSTEMの正規代理店は一切の費用を負担いたしません）。一部の州や国では黙示保証が認められていないため、上記例外はお客様に適用されません。本保証はお客様に特定の法的権利を付与し、お客様は州や国によってその他の様々な権利も有することができます。LEGO Systemは本ソフトウェアまたは本ソフトウェアに基づくプロジェクトが提供する機能がお客様の要求を満たすこと、また本ソフトウェアおよびそのプロジェクトが中断することなく、または故障なしで運用できることを保証するものではありません。
+V.救済制限条項：
+救済制限条項
+LEGO Systemが負担する損害賠償責任の全てであり、お客様に対する排他的救済は、次のものとなります：
+a.	(a)	LEGO Systemの｢限定保証｣を満たしていない、LEGO SystemまたはLEGO System正規代理店に領収書とあわせて返却されたソフトウェアの交換。
+
+a.	(b)	LEGO Systemまたは代理店が材質および技量に起因する欠陥のないソフトウェアを提供できない場合、お客様はプログラムを返却することによりこの契約を解除して、代金の返済を受けることができます。
+
+なんらかの救済策がその本質的な目的を達成しない場合や、LEGO SYSTEMおよびLEGO Systemの供給業者、ライセンス許諾者、正規代理店がソフトウェアの使用により損害が発生する可能性があることを忠告されていた場合、またはその他の者からいかなる申し立てがある場合にも、お客様が本ソフトウェアまたは第三者ソフトウェアの使用または使用できなかったことにより受けた利益の損失、貯金の損失、またはその他の間接的、特別な、付随した、罰則による、ならびに結果として発生する、その他一切の損失に対する賠償責任をLEGO SYSTEMおよびLEGO Systemの供給業者およびライセンス許諾者が負うことはありません。
+LEGO SYSTEMの供給業者およびライセンス許諾者は本契約に関して、一切の保証および責任を負わないものとします。
+州および国によっては、付随または結果として発生する損害に対する賠償責任を限定または除外することを禁止している場合があります。そのような場合には上記の限定または除外が適用しない可能性があります
+VI.解除：
+本ライセンスおよびお客様のソフトウェア使用権は、お客様が本契約の条項による規定に従うことができない場合には、自動的に解除されるものとします。そのような解除を実施する場合にLEGO Systemは通知をする必要はありません。解除が発生した場合、お客様にはソフトウェアおよびドキュメントをLEGO Systemに返却するか、ソフトウェアおよびドキュメントの全てのコピーを破棄する義務が発生します。第III、VI、VII章、第IV章の保証責任の排除条項、および第V章の免責条項は本契約の終了後も存続します。
+VII.準拠法：
+本契約にはライセンスを取得した国の法律が適用されます。
+お客様は本ソフトウェアおよび本ソフトウェアに付随する第三者ソフトウェアは米国およびその他の国々の輸出管理法令んらびに適用される世界の輸出管理法令に従うことを承認したものとします。お客様は、以下のいかなる場合においても、直接または間接的に本ソフトウェアまたは第三者ソフトウェアを輸出、再輸出、ダウンロード、輸送しないことに同意したものとします。(a) 米国政府またはその他の適用される輸出許可機関より必要な輸出許可証または認可を取得せずに禁止されている場所、組織、個人に対して行う、または(b) 米国の法令またはソフトウェアを使用またはダウンロードしている地域の法令に違反する。ソフトウェアのダウンロードによって、以下を意味し保証するものとします。(a)本ソフトウェアおよび本ソフトウェアに付随する第三者ソフトウェアの輸入を法令で禁止している国に在住またはその管理下に置かれていない、および(b) 米国の法令、および本ソフトウェアおよび本ソフトウェアに付随する第三者ソフトウェアの輸出を法令で禁止している国に在住またはその管理下に置かれていない。
+お客様が米国政府の機関、部署、またはその他の組織である場合、以下の通りとします。(a) 本ソフトウェアは私費のみで開発される「市販品」であり、「市販コンピュータソフトウェア」と「市販コンピュータソフトウェア文書」によって構成されており、これらの用語は適用される米国の取得法令にて定義または使用されている、および(b) 本ソフトウェアは (i) 市販品としてのみライセンスを許可し、(ii) 本契約の諸条件に従う全てのライセンス取得者にのみその権利を付与することを通知されている。本契約で明示的に許可されていない方法により本ソフトウェアを使用、複製、公開しないことに同意したものとします。本契約では、LEGO SystemおよびLEGO Systemの供給業者またはライセンス許諾者がお客様に対して技術データを制作または提供することを一切要求していません。
+VIII.完全合意：
+お客様はこの契約を読み、理解し、そしてここに規定されている諸条件に合意することを認めるものとします。さらに、本契約が完全なものであり、当社との取引においては排他的な契約文書であり、これまでの口頭または書面による全ての提案、今までの契約、およびその他本契約の内容に関わる全てのやり取りにとって変わるものであることとします。
+        本契約はLEGO Systemの正規代理人およびお客様が署名により合意する場合を除いて、変更できないものとします。</EULAFull>
+  <TOU>レゴ®アプリご利用規約
+
+2014年11月発効
+
+前書き
+このアプリは、LEGO System A/S, Aastvej 1, DK-7190 Billund, CVR no. 47458714によってお客様に提供されます。
+本書において、LEGO System A/Sおよび TLG を管理する、TLG に管理される、または TLG の関連会社であるか TLG と共通の管理下にある、あらゆるすべての事業体を総称して「TLG」、「我々」または「当社」と称します。
+お客様は、いずれかのTLG アプリを使用することで、または当ご利用規約へのお客様の承認または同意を記したボックスをクリックすることで、本ご利用規約への同意を示したものとみなされます。本ご利用規約への同意なしにTLG アプリを使用することはできません。上記の定めの一般性を制限することなく、お客様は、TLG アプリの使用とはお客様自身によるTLG アプリの使用、TLG アプリ上またはこれを介したデータ、資料、および情報の取得を含むことに同意されたものとみなします。
+
+米国:
+LEGO Education, 501 Boylston Street Suite 4103, Boston Massachusetts, 02116
+電話番号:   1-800-362-4308
+メールアドレス:   orders@LEGOeducation.us
+
+その他の地域:
+LEGO Education Ltd., 3rd Floor Longus House, Newgate Row, Eastgate Street, Chester CH1 1ER, Great Britain
+電話番号:   +44 (0) 800-334-5346
+メールアドレス:  customer.service@LEGOeducation.eu
+
+個人情報の取り扱いおよびクッキーの使用
+当社のプライバシーポリシーおよびクッキーポリシーは当ご利用規約と不可分の一部であり、下記リンクからアクセスすることができます： http://www.lego.com/legal/legal-notice/privacy-policy-full および http://www.lego.com/legal/cookieinfo。
+オンラインで収集された未成年の個人情報の取り扱いについては、当社のプライバシーポリシーを参照してください。TLGは、レゴ® エデュケーションWeDo2.0に関して、商品の品質と品揃えを改善するために、集計データを収集することがあります。TLGは、どのような状況でも、レゴ エデュケーションWeDo2.0を通じてユーザー(教師と生徒を含めて)の個人データを収集しません(レゴ エデュケーションは、TLGのビジネス部門であり、「レゴ エデュケーション」ブランドで提供される商品とソリューションラインに責任を負います)。
+TLG を代理するあらゆる第三者は TLG と同じ規約および原則に拘束されます。
+
+コンテンツの使用
+TLG アプリに含まれるすべてのあらゆる情報、資料、機能、その他のコンテンツ（以降「コンテンツ」）は当社または当社のライセンサーまたはライセンシーの著作権の対象となる所有財産です。あらゆる商標、サービスマーク、商品名、トレードドレスは当社および／または当社のライセンサーまたはライセンシーの所有財産です。当社は任意の時に任意の理由で、または理由なく、あらゆる形式でのお客様の TLG アプリへのアクセスの終了、TLG アプリの変更、またはコンテンツまたは機能の削除を行う権利を有します。
+お客様は、コンテンツのコピー、配布、リバースエンジニアリングを行わないこと、またコンテンツに組み込まれている場合またはコンテンツの使用に必要な場合を除いてあらゆる形式でコンテンツを使用しないことに同意します。
+
+アカウント
+TLG アプリ上の一部のサービスには、アクティビティへの参加または特典の取得のためにお客様のレゴID の作成を可能にする、またはこれを要請するものがあります。レゴID利用規約については、https://account2.lego.com/Terms%20Of%20Service/ShowTOSPageを参照してください。
+当社は、お客様による上記レゴID利用規約または特定のサービスに関連する特別利用規約に対する違反により、お客様のTLG アプリまたはこの一部を使用する権利を一時停止または終了することができます。
+
+アプリ配給業者／販売店
+本ご利用規約はお客様と当社との間でのみ締結されるものであり、お客様と Apple, Inc.、Amazon、Samsung などのアプリ配給業者／販売店（以降「アプリ配給業者」）との間に締結されるものではないことに合意するものとします。TLG アプリおよびここで提供されるサービスおよびコンテンツに対する責任は、アプリ配給業者ではなく当社のみに帰属します。両当事者は、アプリ配給業者はTLG アプリに関連するメンテナンスやサポートサービスを提供する義務を一切負わないことに合意します。
+適用される法律によって認められる範囲内において、アプリ配給業者はTLG アプリに関する保証義務を一切負いません。
+お客様は、お客様またはあらゆる第三者による、アプリに関する、またはアプリの所有および／または使用に関する、 (i) 製造物責任に対する請求、(ii) TLG アプリが何らかの適用法または規則に準拠しないとするあらゆる請求、(iii) 消費者保護法またはこれに類似する法律の下に生じる請求、を含めるがこれに限定されない、あらゆる申し立てに対する対応はアプリ配給業者ではなく当社の責任であることに同意します。
+お客様は、TLG アプリまたは お客様によるTLG アプリの所有および使用に関連する第三者の知的財産権の侵害に対する請求の調査、弁護、調停、免責を行う責任はアプリ配給業者ではなく当社にあることに同意します。
+お客様は、(i) アメリカ合衆国政府の禁輸措置対象国またはアメリカ合衆国政府によって「テロ支援国家」として指定された国に居住しておらず、(ii) アメリカ合衆国政府の「取引禁止・制限者」リストに指定されていないことを表明し保証します。
+お客様は、TLG アプリ使用時には、適用されるすべての第三者利用規約に準拠することに同意します（TLG アプリ使用時にワイヤレスデータサービスの利用規約に違反してはならないなど）。
+両当事者は、アプリ配給業者およびその子会社は本ご利用規約の第三者受益人であることに同意します。お客様が本ご利用規約を承認することで、アプリ配給業者には本ご利用規約の第三者受益人として本ご利用規約をお客様に対して施行する権利が生じます（また、この権利を受け入れたものとみなされます）。
+お客様は、TLG アプリの使用が、アプリ配給業者を介したアプリのダウンロードに対する、アプリ配給業者の最新のサービス規約（Terms of Service）に定められた使用規則（Usage Rules）が適用されることに同意します。
+
+補償条項
+お客様は、自分のユーザー名、コード、アカウント、および当アカウント下で生じるあらゆるアクティビティの秘密を保持する義務を負います。適用される法律に基づき可能な範囲内において　お客様は、本ご利用規約に対するお客様のあらゆる違反から生じるあらゆる請求、またはお客様のTLG アプリおよび／またはお客様のアカウントの使用から生じるあらゆる請求によって当社、当社のライセンサーおよびライセンシー、配給業者、代理人、代表者、そのほかの認定ユーザー、および上記すべての事業体それぞれの再販売業者、配給業者、サービスプロバイダー、サプライヤー、および上記全ての事業体それぞれの役員、取締役、所有者、従業員、代理人、代表者、譲受人（これらを集合的に「被補償当事者」と称する）が被る、あらゆるすべての損失、損害、賠償責任、費用（和解費用、およびあらゆる訴訟または申し立てられる恐れのある訴訟の調査または弁護による法的費用またはそのほかの費用を含む）から被補償当事者を補償し、保護し、免責することにここに同意します。お客様は、あらゆる請求に対する弁護において、最善の努力をもって当社に協力するものとします。当社は、自己負担により補償者とは別に法律顧問を雇用し、お客様による補償の対象となるあらゆる事柄の排他的弁護および管理を担う権利を有します。
+
+管轄権および管轄裁判所
+本ご利用規約は、法の抵触に関する原則の適用を除いて、デンマーク国法によって管轄され、これに従って解釈されるものとします。お客様は、本ご利用規約または TLG アプリから生じる、またはこれに関連して生じるあらゆるコモンロー上または衡平法上の訴訟はデンマーク内でのみ申し立ておよび裁判を行わなければならないことに同意し、上記のあらゆる訴訟を起こすことを目的として、上記の裁判所の対人管轄権を承諾し、これに従うことに同意します。義務的法令によって、その他の管轄権における法律に基づいて訴訟を起こす権利がお客様に与えられる場合があります。当社は、あらゆる TLG アプリのコンテンツが特定の地域での使用に適切であること、または使用可能であることは明言いたしません。TLG アプリにアクセスすることを選択した人物は、自発的にこれを行うのであって、居住地域のあらゆる適用法を含め、すべての適用法に準拠する責任を負います。
+
+修正
+当社は、任意の時に本ご利用規約を修正する権利を有します（本ご利用規約の部分的な変更、削除および／または追加を含む）。当社が本ご利用規約に重要な修正を行った場合は、お客様が提供した最新のEメールアドレスへのEメールの送信、および／または当ご利用規約が適用されるウェブサイトへの修正通知の投稿、または関連するアプリストアまたはアプリそのものを介した修正通知の投稿によって、修正を通知します。上記に示す本ご利用規約へのあらゆる修正は、当社によるお客様へのEメール通知の送信から30日後に発効するものとします。通知後30日以降にアプリを使用することによって、お客様は重要な修正に同意したものとみなされます。個人情報を更新し、最新のEメールアドレスを当社に提供する責任が常にお客様自身にあることにご注意ください。お客様から提供された最新のEメールアドレスが無効である場合、またはそのほかの理由で上記の通知をお客様にお送りすることが不可能である場合においても、上記の通知を記載するEメールの当社からの送信をもって、通知に記載される修正内容の有効な通知とみなされるものとします。</TOU>
+  <LobbyTitleEULA>ソフトウェアエンド ユーザ 使用許諾契約書</LobbyTitleEULA>
+  <LobbyTitleLegoWedo>レゴ WeDo</LobbyTitleLegoWedo>
+  <LobbyInfoVersion>バージョン</LobbyInfoVersion>
+  <LobbyInfoLanguageSelect>言語</LobbyInfoLanguageSelect>
+  <LobbyInfoPrivacyPolicy>プライバシーポリシー</LobbyInfoPrivacyPolicy>
+  <LobbyInfoTOU>ご利用規約</LobbyInfoTOU>
+  <LobbyInfoCookiePolicy>クッキーポリシー</LobbyInfoCookiePolicy>
+  <LobbyInfoTeacherGuide>教師用ガイド</LobbyInfoTeacherGuide>
+  <LobbyInfoTeacherGuideLinkDescription>新しいサイトはこちらから</LobbyInfoTeacherGuideLinkDescription>
+  <LobbyInfoTeacherGuideTitle>教師用ガイド</LobbyInfoTeacherGuideTitle>
+  <LobbyInfoTeacherGuideLinkURL>http://cache.lego.com/bigdownloads/buildinginstructions/6109825.pdf</LobbyInfoTeacherGuideLinkURL>
+  <StartupScreenEnterPassword>パスワードを入力してください：</StartupScreenEnterPassword>
+  <StartupScreenDontHavePassword>パスワードを持っていません</StartupScreenDontHavePassword>
+  <StartupScreenDontHavePasswordDescription>本アプリは教育での使用を目的に開発されており、使用するにはレゴ エデュケーション WeDo 2.0 ソフトウェアのご購入が必要です。詳しくはお近くのLEGO® エデュケーション販売店までお問い合わせください。
+
+www.LEGOEducation.com/LEROでお使いのWeDo 2.0 ソフトウェア製品を有効化すると、WeDo 2.0 ソフトウェア製品のページにアプリパスワードが表示されます。</StartupScreenDontHavePasswordDescription>
+  <ButtonSubmit>送信</ButtonSubmit>
+  <ButtonOK>OK</ButtonOK>
+  <ButtonCancel>キャンセル</ButtonCancel>
+  <UpdateCheckUpdatesAvailable>ソフトウェアに利用できるアップデートがあります。</UpdateCheckUpdatesAvailable>
+  <UpdateWindows10Title>Warning</UpdateWindows10Title>
+  <UpdateWindows10Text>このアプリケーションを実行するには、Windows 10への更新が不可欠です。Windows 10の最新バージョンに更新してください。</UpdateWindows10Text>
+  <Windows10BLENotFound>お使いのシステム内に、対応している Bluetooth Low Energy デバイスが見つかりません。対応しているドングルを接続してください。</Windows10BLENotFound>
+  <Windows10ContinueWithoutBLE>Bluetooth を使わずにアプリケーションの使用を続ける</Windows10ContinueWithoutBLE>
+  <Windows10BLENotFoundPopup>お使いのシステム内に、対応している Bluetooth Low Energy デバイスが見つかりません。</Windows10BLENotFoundPopup>
+  <LobbyInfoOnlineContentError>残念ながら、ネットワークに問題があるようです。インターネット接続を確認して、もう一度やり直してください 。</LobbyInfoOnlineContentError>
+  <LobbyInfoLanguageTitle>希望言語を選択</LobbyInfoLanguageTitle>
+  <LobbyInfoLanguageDescription>プロジェクトライブラリ、デザインライブラリ、ヘルプおよび設定での表示言語を指定します。</LobbyInfoLanguageDescription>
+  <LobbyInfoTeacherGuidePageTitle>オンラインの教師用ガイドにアクセス</LobbyInfoTeacherGuidePageTitle>
+  <LobbyInfoTeacherGuidePageDescription>教師用ガイドはオンラインで利用できます。オフラインで利用するには、PDFファイルをお使いのデバイスに保存します。</LobbyInfoTeacherGuidePageDescription>
+  <LobbyInfoAboutPageTitle>ご利用規約およびプライバシーポリシーの確認</LobbyInfoAboutPageTitle>
+  <LobbyInfoAboutPageDescription>レゴグループのプライバシーポリシーおよびCookieポリシーはオンラインで利用できます。</LobbyInfoAboutPageDescription>
+  <LobbyInfoAbout>概要</LobbyInfoAbout>
+  <LocationSettingNeedsToBeEnabledButtonPositive>設定を開く</LocationSettingNeedsToBeEnabledButtonPositive>
+  <PleaseEnableBluetoothButtonPositive>Bluetoothを有効にする</PleaseEnableBluetoothButtonPositive>
+  <LocationSettingNeedsToBeEnabled>レゴ® Education WeDo 2.0 で Bluetooth がきちんと機能するには、君のデバイスの位置情報が必要だよ。</LocationSettingNeedsToBeEnabled>
+  <PleaseEnableBluetooth>Bluetoothを有効にして、お使いのデバイスに接続できるようにしてください。</PleaseEnableBluetooth>
+  <OnboardingWelcome>レゴ® エデュケーション
+WeDo 2.0 「はじめに」へようこそ</OnboardingWelcome>
+  <OnboardingSkip>SKIP</OnboardingSkip>
+  <OnboardingBuildModel>レゴ® モデルを作り、
+デバイスにせつぞくします。</OnboardingBuildModel>
+  <OnboardingBuildCode>プログラミングブロックを
+組み合わせてプログラムを作ります。</OnboardingBuildCode>
+  <OnboardingPressPlay>プログラムをスタートすると
+モデルが動き出します。</OnboardingPressPlay>
+  <OnboardingIntroductionActivities>4つのかんたんなアクティビティから
+はじめてみましょう。</OnboardingIntroductionActivities>
+  <OnboardingGetStarted>はじめる</OnboardingGetStarted>
+  <LobbyCreateProjectHelp>本のマークをクリックすると、WeDo 2.0 プロジェクトが作られるよ。</LobbyCreateProjectHelp>
+  <LobbyReplayIntroduction>「はじめに」をもう一度見る</LobbyReplayIntroduction>
+  <LobbySettingsHelp>教師用ガイドは設定パネルにあります。</LobbySettingsHelp>
+  <SettingsOnboardingTitle>はじめに</SettingsOnboardingTitle>
+  <SettingsOnboardingSubTitle>WeDo 2.0 「はじめに」の設定を選ぶ</SettingsOnboardingSubTitle>
+  <SettingsOnboardingDescription>「はじめに」では WeDo 2.0 アプリの使い方を学ぶことができます。ここから「はじめに」の有効化・無効化を設定することができます。</SettingsOnboardingDescription>
+  <SettingsOnboardingOption>WeDo 2.0 アプリの起動時に「はじめに」を表示する。</SettingsOnboardingOption>
+  <SettingsOnboardingLink>そのほかのサポートは教材は legoeducation.com へ</SettingsOnboardingLink>
+  <ConnectionPanelChooseSmartHub>スマートハブを選ぶ</ConnectionPanelChooseSmartHub>
+  <ConnectionPanelBackToProject>プロジェクトに戻る</ConnectionPanelBackToProject>
+  <EULAAddition>IX.その他：
+Bluetooth®はBluetooth SIG, Incが所有する商標です。
+
+angular.js - Copyright (c) 2010-2015 Google, Inc.、MITライセンスに基づきLEGO Systemは使用を許諾されています
+
+Bootstrap - Copyright (c) 2011-2015 Twitter, Inc、MITライセンスに基づきLEGO Systemは使用を許諾されています
+
+Font-AwesomeおよびHammerjs - Copyright (C) 2011-2014 by Jorik Tangelder (Eight Media) 、MITライセンスに基づきLEGO Systemはその両方の使用を許諾されています
+Hammer.js for Angular.js - Copyright (c) 2014 Ryan S Mullins、MITライセンスに基づきLEGO Systemは使用を許諾されています
+
+Audio Recording:
+License Type: MIT
+We are currently using RecordRTC (http://recordrtc.org/RecordRTC.html) for recording video and sound.
+
+Synchronisation:
+License Type: Apache License 2.0.
+The only third-party library I'm using on Chrome OS is this one:
+https://github.com/GoogleChrome/chrome-app-samples/tree/master/libraries/gapi-chrome-apps-lib
+
+Roboto Font: Copyright 2011 Google Inc. Licensed under the Apache License, Version 2.0 - http://www.apache.org/licenses/LICENSE-2.0
+MediaCaptureWPF: Licensed under the Apache License Version 2.0, January 2004 - http://www.apache.org/licenses/LICENSE-2.0
+
+エンド ユーザ ライセンス契約書以上</EULAAddition>
+  <LobbyInfoLobby>ロビー</LobbyInfoLobby>
+  <LobbyQuickStartProjectTitle>WeDo 2.0ビギナーの方へ</LobbyQuickStartProjectTitle>
+  <LobbyQuickStartProjectButton>はじめてのプロジェクト</LobbyQuickStartProjectButton>
+  <LobbyTeacherResourcesButtonTitle>先生方向け参考資料</LobbyTeacherResourcesButtonTitle>
+  <LobbyTeacherResourcesButtonSubtitle>授業に役立つヒントやリンクはこちらをクリック</LobbyTeacherResourcesButtonSubtitle>
+  <LobbyClassroomProjectsButtonTitle>教室向けプロジェクト</LobbyClassroomProjectsButtonTitle>
+  <LobbyClassroomProjectsButtonSubtitle>楽しいレッスンはこちらをクリック</LobbyClassroomProjectsButtonSubtitle>
+  <LobbyUserProjectsAreaTitle>マイプロジェクト</LobbyUserProjectsAreaTitle>
+  <ButtonYes>はい</ButtonYes>
+  <ButtonNo>いいえ</ButtonNo>
+  <LobbyDeleteSingleProjectsDialog>このプロジェクトを削除してよろしいですか？</LobbyDeleteSingleProjectsDialog>
+  <LobbyProjectAgeDays>日前</LobbyProjectAgeDays>
+  <LobbyProjectAgeHours>時間前</LobbyProjectAgeHours>
+  <LobbyDefaultProjectName>プロジェクト</LobbyDefaultProjectName>
+  <LoadingScreenStartup>起動中...</LoadingScreenStartup>
+  <LoadingScreenFull>ロード中…</LoadingScreenFull>
+  <LoadingScreenContent>お待ちください…</LoadingScreenContent>
+  <LoadingScreenModel>少々お待ちください…</LoadingScreenModel>
+  <LobbyInfoLobbyPageTitle>ロビーの管理</LobbyInfoLobbyPageTitle>
+  <LobbyInfoLobbyPageDescription>ロビーがいっぱいですか？下のボタンをクリックするとロビーの「マイプロジェクト」がすべて削除されます。</LobbyInfoLobbyPageDescription>
+  <LobbyInfoLobbyPageDeleteAllProjectsButton>すべてのプロジェクトを削除</LobbyInfoLobbyPageDeleteAllProjectsButton>
+  <LobbyDeleteAllProjectsDialogLocal>「マイプロジェクト」をすべて削除してよろしいですか？</LobbyDeleteAllProjectsDialogLocal>
+  <LobbyDeleteAllProjectsDialogGoogleDrive>このGoogleアカウントのプロジェクトをすべて削除してよろしいですか？</LobbyDeleteAllProjectsDialogGoogleDrive>
+  <TeacherResourcesPage1Title>クラスで、WeDo 2.0 セットを使用するためのルールを作成します。</TeacherResourcesPage1Title>
+  <TeacherResourcesPage2Title>子どもたちをペアにしてください。各ペアにWeDo 2.0セットを1つずつ配布します。</TeacherResourcesPage2Title>
+  <TeacherResourcesPage3Title>質問をし、調べ、作品を作るよう子どもたちをうながしましょう。</TeacherResourcesPage3Title>
+  <TeacherResourcesPage4Title>子どもたちが触ってデザインを変更する時間を与えます。セッション中にすべての活動を完了できなくても心配しないでください。</TeacherResourcesPage4Title>
+  <TeacherResourcesPage5Title>落としもののレゴパーツ用の入れ物を用意しておくとセットが管理しやすくなります。</TeacherResourcesPage5Title>
+  <TeacherResourcesPage6Title>それぞれのアイコンをクリックすると詳細をごらんいただけます。</TeacherResourcesPage6Title>
+  <TeacherResourcesLink1Title>教師用ガイド</TeacherResourcesLink1Title>
+  <TeacherResourcesLink2Title>レッスンプラン</TeacherResourcesLink2Title>
+  <TeacherResourcesLink3Title>サポート</TeacherResourcesLink3Title>
+  <RenameHubTitle>スマートハブの名前を変更してください。</RenameHubTitle>
+  <RenameHubDescription>教室管理をしやすくするために、スマートハブには、実際のラベルに記載されたものと同じ名前を付けることをお勧めします。</RenameHubDescription>
+  <RenameHubYesButton>スマートハブの名前を変更します。</RenameHubYesButton>
+  <RenameHubCancelButton>後で行います。</RenameHubCancelButton>
+  <TeacherResourcesSlidesButton>教室でのヒントとコツ</TeacherResourcesSlidesButton>
+</strings>

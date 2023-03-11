@@ -1,0 +1,27 @@
+2023/03/10-14:44:29.112 a62e Reusing MANIFEST /home/alex/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/03/10-14:44:29.113 a62e Recovering log #1516
+2023/03/10-14:44:29.114 a62e Reusing old log /home/alex/.config/discord/Local Storage/leveldb/001516.log 
+2023/03/10-14:45:30.453 a63d Level-0 table #1520: started
+2023/03/10-14:45:30.492 a63d Level-0 table #1520: 13125 bytes OK
+2023/03/10-14:45:30.494 a63d Delete type=0 #1516
+2023/03/10-15:44:01.438 a63d Level-0 table #1522: started
+2023/03/10-15:44:01.462 a63d Level-0 table #1522: 1454173 bytes OK
+2023/03/10-15:44:01.464 a63d Delete type=0 #1519
+2023/03/10-15:44:01.464 a63d Compacting 4@0 + 1@1 files
+2023/03/10-15:44:01.483 a63d Generated table #1523@0: 125 keys, 2585342 bytes
+2023/03/10-15:44:01.483 a63d Compacted 4@0 + 1@1 files => 2585342 bytes
+2023/03/10-15:44:01.484 a63d compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/03/10-15:44:01.484 a63d Delete type=2 #1522
+2023/03/10-15:44:01.484 a63d Delete type=2 #1513
+2023/03/10-15:44:01.484 a63d Delete type=2 #1520
+2023/03/10-15:44:01.484 a63d Delete type=2 #1517
+2023/03/10-15:44:01.484 a63d Delete type=2 #1515
+2023/03/10-17:51:20.495 d3bf Level-0 table #1525: started
+2023/03/10-17:51:20.498 d3bf Level-0 table #1525: 7701 bytes OK
+2023/03/10-17:51:20.500 d3bf Delete type=0 #1521
+2023/03/10-18:50:26.559 d3bf Level-0 table #1527: started
+2023/03/10-18:50:26.584 d3bf Level-0 table #1527: 1451092 bytes OK
+2023/03/10-18:50:26.586 d3bf Delete type=0 #1524
+2023/03/10-19:01:29.981 d3bf Level-0 table #1529: started
+2023/03/10-19:01:30.020 d3bf Level-0 table #1529: 6446 bytes OK
+2023/03/10-19:01:30.022 d3bf Delete type=0 #1526

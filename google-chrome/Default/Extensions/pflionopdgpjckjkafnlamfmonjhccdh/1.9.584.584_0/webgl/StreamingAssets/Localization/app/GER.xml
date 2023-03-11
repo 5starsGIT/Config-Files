@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<strings>
+  <OnlineStartupTitle>Inhalte für WeDo 2.0 sind jetzt online</OnlineStartupTitle>
+  <OnlineStartupDescription>Alle Inhalte von WeDo 2.0 sind ab jetzt nur noch online verfügbar. Die einzige Ausnahme sind vom Benutzer erstellte Projekte. Um auf die Inhalte von WeDo 2.0 offline zuzugreifen, öffnen Sie die „Offline-Einstellungen“ im Einstellungsfeld und wählen Sie „Alle Inhalte in WeDo 2.0 herunterladen“.</OnlineStartupDescription>
+  <OnlineStartupButtonGoOffline>Öffnen Sie die Offline-Einstellungen.</OnlineStartupButtonGoOffline>
+  <OnlineStartupButtonUseOnline>Verwenden Sie WeDo 2.0 im Online-Modus.</OnlineStartupButtonUseOnline>
+  <OnlineStartUpUpdatedContentTitle>WeDo 2.0 hat automatisch in den Online-Modus gewechselt</OnlineStartUpUpdatedContentTitle>
+  <OnlineStartUpUpdatedContentDescription>Die heruntergeladenen Inhalte in dieser WeDo 2.0 Anwendung sind veraltet. Damit die Anwendung im Offline-Modus funktioniert, muss ein Update durchgeführt werden. Um das Update herunterzuladen und im Offline-Modus zu arbeiten, öffnen Sie „Offline-Einstellungen“ im Einstellungsfeld und wählen Sie „Alle aktualisierten Inhalte in WeDo 2.0 herunterladen“.</OnlineStartUpUpdatedContentDescription>
+  <OnlineStartUpUpdatedContentButtonGoToOfflineSettings>Öffnen Sie die Offline-Einstellungen.</OnlineStartUpUpdatedContentButtonGoToOfflineSettings>
+  <OnlineStartUpUpdatedContentButtonUseOnline>Weiter mit WeDo 2.0</OnlineStartUpUpdatedContentButtonUseOnline>
+  <OnlineOfflineSettingsTitle>Offline-Einstellungen</OnlineOfflineSettingsTitle>
+  <OnlineOfflineSettingsStatusDownloadAll>Alle Inhalte in WeDo 2.0 herunterladen</OnlineOfflineSettingsStatusDownloadAll>
+  <OnlineOfflineSettingsStatusContentDownloadSize>(_CONTENT_SIZE_ GB).</OnlineOfflineSettingsStatusContentDownloadSize>
+  <OnlineOfflineSettingsPerformanceWarningText>DAS HERUNTERLADEN KANN DAZU FÜHREN, DASS WEDO 2.0 LANGSAMER ARBEITET ALS ERWARTET.</OnlineOfflineSettingsPerformanceWarningText>
+  <OnlineOfflineSettingsClearCacheDescriptionText>Die von Ihnen erstellten Projekte bleiben unverändert. Wenn Sie in den Online-Modus schalten, werden alle Unterrichtsmaterialien von Ihrem Gerät entfernt. Auf diese Materialien können Sie jederzeit online zugreifen. Alternativ können Sie die Materialien auch wieder herunterladen, indem Sie in den Offline-Modus schalten.</OnlineOfflineSettingsClearCacheDescriptionText>
+  <OnlineOfflineSettingsStatusDownloading>Lädt herunter …</OnlineOfflineSettingsStatusDownloading>
+  <OnlineOfflineSettingStatusNoConnection>Keine Internetverbindung</OnlineOfflineSettingStatusNoConnection>
+  <OnlineOfflineSettingsButton>Heruntergeladene Inhalte löschen und Online-Inhalte öffnen</OnlineOfflineSettingsButton>
+  <LobbyInfoGuideGettingStarted>Einführung</LobbyInfoGuideGettingStarted>
+  <LobbyInfoGuideGettingStartedSize>(Größe: 4 MB, PDF)</LobbyInfoGuideGettingStartedSize>
+  <LobbyInfoGuidePreparation>Hinweise zur Vorbereitung</LobbyInfoGuidePreparation>
+  <LobbyInfoGuidePreparationSize>(Größe: 250KB, PDF)</LobbyInfoGuidePreparationSize>
+  <LobbyInfoGuideTeacherComputing>Informatisches Denken – Lehrerhandreichung</LobbyInfoGuideTeacherComputing>
+  <LobbyInfoGuideTeacherComputingSize>(Größe: 5 MB, PDF)</LobbyInfoGuideTeacherComputingSize>
+  <LobbyInfoGuideSoftwareGuide>Toolbox</LobbyInfoGuideSoftwareGuide>
+  <LobbyInfoGuideSoftwareGuideSize>(Größe: 4 MB, PDF)</LobbyInfoGuideSoftwareGuideSize>
+  <LobbyInfoGuideTeacherScience>Sachunterricht – Lehrerhandreichung</LobbyInfoGuideTeacherScience>
+  <LobbyInfoGuideTeacherScienceSize>(Größe: 16 MB, PDF)</LobbyInfoGuideTeacherScienceSize>
+  <LobbyInfoGuideTeacherGuideSize>(Größe: 15 MB, PDF)</LobbyInfoGuideTeacherGuideSize>
+  <syncmanualunauth>Die Daten konnten nicht synchronisiert werden.
+
+Klicken Sie bitte auf das Drehzeiger-Symbol in der Lobby und erlauben Sie den Zugriff auf Google Drive.</syncmanualunauth>
+  <synclocaloffline>Die Daten konnten nicht synchronisiert werden.
+
+Bitte stellen Sie sicher, dass eine Verbindung mit dem Internet hergestellt ist.</synclocaloffline>
+  <syncmwillnotify>Die Daten konnten nicht synchronisiert werden.
+
+Sie erhalten eine Benachrichtigung, wenn ein erneuter Versuch möglich ist.</syncmwillnotify>
+  <syncbigrecovered>Die Synchronisation der Benutzerdaten ist jetzt wieder möglich.
+
+Bitte klicken Sie auf das Drehzeiger-Symbol in der Lobby, um es erneut zu versuchen.</syncbigrecovered>
+  <syncofflinestate>Die Daten konnten nicht synchronisiert werden.
+
+Klicken Sie bitte auf das Drehzeiger-Symbol in der Lobby und erlauben Sie den Zugriff auf Google Drive.</syncofflinestate>
+  <LobbyInfoPreparationGuideTitle>Important: Renaming the Smarthub</LobbyInfoPreparationGuideTitle>
+  <LobbyInfoPreparationGuideLinkDescription>Drücken Sie hier, um weitergeleitet zu werden</LobbyInfoPreparationGuideLinkDescription>
+  <EULAFull>LEGO® Education WeDo 2.0 Endbenutzer-Lizenzvereinbarung für Software
+Diese Lizenz für die LEGO® Education WeDo 2.0 Software (nachfolgend als „Software“ bezeichnet) wird von LEGO System A/S, Aastvej 1, DK-7190 Billund, Dänemark, (nachfolgend als „LEGO System“ bezeichnet) erteilt.
+WICHTIG – LESEN SIE DEN INHALT BITTE SORGFÄLTIG: Dies ist eine rechtskräftige Vereinbarung zwischen Ihnen (eine Privatperson oder eine juristische Person) und LEGO System. Entsprechend dieser Vereinbarung unterliegt die Nutzung der Software bestimmten Einschränkungen. LEGO System und/oder seine Lieferanten und Lizenzgeber bleiben die Eigentümer dieser Software und räumen Ihnen außer der Lizenz zur Nutzung der Software und der begleitenden Dokumentation (nachfolgend als „Dokumentation“ bezeichnet) unter den in dieser Vereinbarung ausdrücklich festgelegten Bedingungen keine weiteren Rechte ein. Durch Klicken auf die Schaltfläche „Absenden“ ganz unten erklären Sie sich mit den Bedingungen dieser Lizenzvereinbarung und deren Einhaltung einverstanden. Wenn Sie den Bedingungen dieser Vereinbarung nicht zustimmen, müssen Sie sämtliche Kopien der Software, einschließlich der begleitenden Dokumentation, sowie alle Kopien, die Sie von der jeweiligen Vertriebsplattform oder Website heruntergeladen haben, umgehend zurücksenden oder vernichten.
+LEGO System stellt bestimmte Drittanbieter-Software vorbehaltlich separater Lizenzbedingungen zur Verfügung, die entweder zum Zeitpunkt der Installation oder anderweitig mit der Software bereitgestellt wird („Drittanbieter-Software“). Diese Drittanbieter-Software ist im Sinne des Begriffs „Software“ nicht enthalten.
+Die Software wird von LEGO System über verschiedene Vertriebspartner vertrieben, unter anderem über den Apple App Store, den Google Play Store, den Microsoft Windows Store oder die Website LEGOEducation.com. Wenn Sie die Software aus einer anderen Quelle erhalten haben, so kann diese Defekte aufweisen oder vom Originalprodukt erheblich abweichen. Die Nutzung geänderter Versionen erfolgt auf Ihre eigene Gefahr.
+I. LIZENZERTEILUNG:
+LEGO System erteilt Ihnen (dem Benutzer) hiermit eine nicht-exklusive, eingeschränkte Lizenz zur Nutzung der Software und Dokumentation für nicht-kommerzielle Zwecke unter folgenden Bedingungen:
+Die Software darf NUR wie folgt verwendet werden:
+(a)	Verwendung der Software auf einem oder mehreren Geräten in der genannten Institution;
+
+(b) Kopieren der Software, soweit für die Installation der Software auf den in Abschnitt 1 (a) angegebenen Geräten sowie für Back-up und Archivierung nötig, vorausgesetzt, die Kopie enthält alle eigentumsrechtlichen Hinweise oder Kennzeichnungen der ursprünglichen Software;
+(c) Der durch die Benutzung der Software erstellte Inhalt darf für nicht-kommerzielle Zwecke eingesetzt werden, und
+(d) Erstellen von Projekten für LEGO® Education WeDo 2.0, wie in der Dokumentation beschrieben, jedoch nur für nicht-kommerzielle Zwecke, sofern LEGO System der Nutzung für einen kommerziellen Zweck nicht vorher schriftlich ausdrücklich zustimmt. Wenn Sie die Software zum Erstellen oder Austauschen von Projekten für einen kommerziellen Zweck verwenden möchten, sollten Sie sich mit einem Vertreter von LEGO System in Verbindung setzen, um die Zustimmung von LEGO System zu erhalten. LEGO System A/S ist jedoch nicht zur Zustimmungserteilung verpflichtet.
+Sie dürfen NICHT:
+(1) anderen Einzelpersonen die Nutzung der Software gestatten, es sei denn, Sie tragen dafür Sorge, dass die anderen Einzelpersonen (a) die Nutzungsbedingungen dieser Vereinbarung verstehen und (b) diese Vereinbarung einhalten;
+(2) die Software zurückentwickeln, dekompilieren, disassemblieren oder anderweitig auf eine vom Menschen wahrnehmbare Form reduzieren (soweit diese Einschränkung nicht ausdrücklich gesetzlich verboten ist), die Software oder Dokumentation ändern oder übersetzen oder auf Basis der Software oder der Dokumentation davon abgeleitete Versionen erstellen;
+(3) die Software oder Dokumentation kopieren (außer zu Sicherungszwecken);
+(4) die Software oder Dokumentation oder Lizenzrechte in Bezug auf die Software oder Dokumentation weiterverkaufen, vermieten, verpachten, abtreten, verteilen oder anderweitig übertragen;
+(5) die Software oder Dokumentation über das Internet übermitteln;
+(6) die Sicherungskopie für einen anderen Zweck als zur Ersetzung der Hauptkopie nutzen;
+(7) die Software für kommerzielle Zwecke nutzen;
+(8) Hinweise oder Kennzeichnungen mit Eigentumshinweisen von der Software oder von der Dokumentation entfernen;
+ (9) die Software für einen beliebigen Zweck verwenden, der mit der Herstellung, der Vermarktung, dem Verkauf oder dem Vertrieb von Plastikbausteinen in Zusammenhang steht.
+(10) die Software verwenden, um sich Zugang zu unverschlüsselten Daten dergestalt zu verschaffen, dass der in der Software vorgesehene Inhaltsschutz zunichte gemacht wird, oder die Software versuchsweise oder in Verbindung mit einem Gerät, Programm oder Dienst zur Umgehung der technischen Maßnahmen für die Zugriffskontrolle oder die Rechte an einer Inhaltsdatei oder anderen Werken verwenden, die durch die Urheberrechtsgesetze eines Landes geschützt sind;
+(11) Handlungen unternehmen, durch die die Software einer Lizenz unterliegt, die als Bedingung zur Verwendung, Änderung oder Verteilung erfordert oder scheinbar erfordert, dass (a) der der Lizenz u. U. unterliegende Code in Quellcode-Form offengelegt oder verteilt wird oder (b) andere das Recht zur Änderung des Codes oder zur Erstellung abgeleiteter Versionen des Codes haben, der der Lizenz unterliegt oder unterliegen könnte; oder
+(12) die Software unter Verletzung des zweiten Absatzes von Abschnitt VII unten direkt oder indirekt exportieren, reexportieren, herunterladen, übertragen oder liefern.
+Jede Verwendung oder Weitergabe unter Verletzung der oben genannten Punkte führt zu einer sofortigen, automatischen Beendigung Ihrer Lizenz.
+II. SOFTWARE:
+Sie können die Software bei Bedarf auf Ihre Geräte herunterladen oder erneut herunterladen, aber die Software darf nicht auf eine andere Person übertragen oder von dieser verwendet werden. Diese Lizenz erteilt Ihnen keinerlei Rechte auf Erweiterungen oder Aktualisierungen.
+III. RECHTSANSPRÜCHE:
+Sämtliche Rechtsansprüche, Eigentumsrechte, Rechte und geistigen Eigentumsrechte auf die bzw. an der Software und der Dokumentation sowie sämtliche Kopien der Software und der Dokumentation bleiben das Eigentum von LEGO System und/oder seinen Lieferanten und Lizenzgebern. Alle Rechte, die Ihnen in dieser Vereinbarung nicht ausdrücklich gewährt werden, sind LEGO System und/oder seinen Lieferanten und Lizenzgebern vorbehalten. Die Software ist durch nationale Urheberrechtsgesetze und internationale Urheberrechtsabkommen geschützt.
+Rechtsansprüche, Eigentumsrechte und geistige Eigentumsrechte in und an den Inhalten, auf die der Zugriff mithilfe der Software erfolgt, sowie sämtliche Inhalte der Demonstrationsdateien des Software-Mediums gehören den jeweiligen Eigentümern und können durch Urheberrechtsgesetze oder andere gesetzliche Regelungen geschützt sein. Diese Lizenz erteilt Ihnen keine Rechte an diesen Inhalten. Die in der Software enthaltenen Texte, Bauanleitungen und Bilder sind das Eigentum von LEGO System und/oder seinen Lieferanten und Lizenzgebern. Sie dürfen diese jedoch für eigene nicht-kommerzielle Zwecke nutzen.
+„LEGO, das LEGO-Logo und die Minifigur sind Marken und/oder Urheberrechte der LEGO Group. ©2016 The LEGO Group. Alle Rechte vorbehalten“
+
+Informationen zu Patenten, die sich auf die Software beziehen, sowie Hinweise und Lizenzangaben in Bezug auf Drittanbieter-Software finden Sie weiter unten.
+IV. EINGESCHRÄNKTE GEWÄHRLEISTUNG:
+LEGO System gewährleistet, dass die Software bei normalem Gebrauch für die Dauer von neunzig (90) Tagen ab Lieferdatum frei von Material- und Fertigungsmängeln ist. Das Lieferdatum ist von Ihnen anhand Ihrer Quittung (gerne in Kopie) nachzuweisen.
+MIT AUSNAHME DER VORGENANNTEN GEWÄHRLEISTUNG WERDEN DIE SOFTWARE UND DRITTANBIETER-SOFTWARE OHNE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE MÄNGELGEWÄHR JEDWEDER ART ZUR VERFÜGUNG GESTELLT, EINSCHLIESSLICH, JEDOCH NICHT BESCHRÄNKT AUF DIE STILLSCHWEIGENDE ZUSICHERUNG DER MARKTGÄNGIGKEIT ODER DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK, DER RECHTSMÄNGELHAFTUNG, DER NICHTVERLETZUNG VON RECHTEN DRITTER ODER EINER ANDEREN GESETZLICHEN GEWÄHRLEISTUNG (IM VOLL ZULÄSSIGEN GESETZLICHEN RAHMEN). SIE ALLEIN TRAGEN DIE GEFAHR IN BEZUG AUF DIE QUALITÄT UND LEISTUNG DER SOFTWARE UND DRITTANBIETER-SOFTWARE. SOLLTE DIE SOFTWARE DEFEKT SEIN, ÜBERNEHMEN SIE (UND NICHT LEGO System ODER EIN LEGO SYSTEM-VERTRAGSHÄNDLER) DIE GESAMTEN KOSTEN FÜR ALLE NOTWENDIGEN SERVICES, REPARATUREN ODER KORREKTUREN. DA EINIGE STAATEN UND LÄNDER DEN AUSSCHLUSS IMPLIZIERTER GEWÄHRLEISTUNGEN NICHT ERLAUBEN, SIND SIE VON DER OBEN AUFGEFÜHRTEN EINSCHRÄNKUNG EVENTUELL NICHT BETROFFEN. DIESE GESETZLICHE GEWÄHRLEISTUNG VERLEIHT IHNEN BESTIMMTE RECHTE, WOBEI IHNEN JE NACH STAAT ODER LAND UNTER UMSTÄNDEN AUCH ANDERE RECHTE ZUSTEHEN. LEGO System gewährleistet nicht, dass die Funktionen der Software oder auf der Software basierende Projekte Ihren Ansprüchen gerecht werden oder dass der Betrieb der Software und die Durchführung dieser Projekte unterbrechungs- oder fehlerfrei sind.
+V. BESCHRÄNKUNG VON RECHTSANSPRÜCHEN:
+BESCHRÄNKUNG VON RECHTSANSPRÜCHEN
+LEGO System haftet nur im nachfolgenden beschriebenen Umfang, und Sie sind nur insoweit anspruchsberechtigt:
+a.	(a)	Ersatz von Software, die nicht LEGO System „beschränkter Garantie“ entspricht und die samt Kopie der Quittung an LEGO System oder einen LEGO System-Vertragshändler zurückgeschickt wird.
+
+a.	(b)	Sofern LEGO System bzw. der Händler außerstande ist, Ersatzsoftware zu liefern, die frei von Material- und Verarbeitungsfehlern ist, können Sie diese Lizenzvereinbarung kündigen, indem Sie das Programm zurücksenden. Der Kaufpreis wird Ihnen dann erstattet.
+
+UNTER KEINEN UMSTÄNDEN HAFTET LEGO SYSTEM ODER EINER SEINER LIEFERANTEN UND LIZENZGEBER FÜR SCHÄDEN, EINSCHLIESSLICH, JEDOCH NICHT BESCHRÄNKT AUF ENTGANGENE GEWINNE, ENTGANGENE EINSPARUNGEN ODER SONSTIGE INDIREKTE, KONKRETE, BEILÄUFIG ENTSTANDENE, STRAFE EINSCHLIESSENDE ODER FOLGESCHÄDEN, DIE DURCH DIE NUTZUNG ODER NICHT MÖGLICHE NUTZUNG DER SOFTWARE ODER EINER DRITTANBIETER-SOFTWARE ENTSTEHEN, SELBST WENN EIN RECHTSANSPRUCH ODER SEIN WESENTLICHER ZWECK FEHLSCHLÄGT ODER WENN LEGO SYSTEM, EINER SEINER LIEFERANTEN ODER LIZENZGEBER ODER EIN LEGO-VERTRAGSHÄNDLER VON DER MÖGLICHKEIT DERARTIGER SCHÄDEN DURCH EINEN DRITTEN IN KENNTNIS GESETZT WURDE.
+DIE LIEFERANTEN UND LIZENZGEBER VON LEGO SYSTEM MACHEN KEINE ZUSICHERUNGEN UND ÜBERNEHMEN KEINE HAFTUNG IN VERBINDUNG MIT DIESER VEREINBARUNG.
+DA EINIGE STAATEN UND LÄNDER DEN AUSSCHLUSS ODER DIE BESCHRÄNKUNG DER HAFTUNG FÜR FOLGESCHÄDEN ODER BEILÄUFIG ENTSTANDENE SCHÄDEN NICHT ERLAUBEN, SIND SIE VON DER OBEN AUFGEFÜHRTEN BESCHRÄNKUNGS- ODER AUSSCHLUSSREGELUNG EVENTUELL NICHT BETROFFEN.
+VI. AUFKÜNDIGUNG DER LIZENZVEREINBARUNG:
+Diese Lizenz und Ihr Recht zur Nutzung der Software enden automatisch, wenn Sie die Vorgaben dieser Vereinbarung nicht erfüllen. Zu dieser Vereinbarungsbeendigung ist keine Benachrichtigung durch LEGO System erforderlich. Bei Beendigung dieser Vereinbarung sind Sie verpflichtet, die Software und Dokumentation an LEGO System zurückzusenden oder sämtliche Kopien der Software und Dokumentation zu vernichten. Abschnitte III, VI und VII, die Gewährleistungsausschluss-Bestimmungen in Abschnitt IV sowie die Bestimmungen zum Haftungsausschluss und Schadensersatz in Abschnitt V bleiben auch nach der Kündigung dieser Vereinbarung weiterhin bestehen.
+VII. GELTENDES RECHT:
+Diese Lizenzvereinbarung unterliegt dem Recht des Landes, in dem Sie die Lizenz erworben haben.
+Sie erkennen an, dass die Software und unter Umständen auch die mit der Software zur Verfügung gestellte Drittanbieter-Software den Ausfuhrkontrollbestimmungen und -vorschriften der Vereinigten Staaten von Amerika und anderer Länder und weltweit gültigen gesetzlichen Ausfuhrkontrollbestimmungen und -vorschriften unterliegen. Sie stimmen zu, dass Sie die Software oder eine Drittanbieter-Software weder direkt noch indirekt exportieren, reexportieren, übertragen, herunterladen oder liefern: (a) an verbotene Empfänger, juristische oder natürliche Personen ohne die erforderliche(n) Exportlizenz(en) oder Genehmigung(en) der US-Regierung und/oder einer sonstigen für Exportlizenzen zuständigen Behörde oder (b) unter Verletzung der gesetzlichen Bestimmungen und Vorschriften der USA oder desjenigen Landes, in dem Sie die Software verwenden oder herunterladen. Wenn Sie die Software herunterladen, sichern Sie zu, dass: (a) Sie nicht in einem Land ansässig sind oder der Kontrolle eines Landes unterliegen, nach dessen gesetzlichen Bestimmungen und Vorschriften die Einfuhr der Software oder einer mit der Software zur Verfügung gestellten Drittanbieter-Software untersagt ist und dass (b) Sie nicht in einem Land ansässig sind oder der Kontrolle eines Landes unterliegen, in das die Software oder eine mit der Software zur Verfügung gestellte Drittanbieter-Software nach den gesetzlichen Bestimmungen und Vorschriften der USA und/oder nach anderen gültigen Ausfuhrkontrollbestimmungen nicht exportiert werden darf.
+Wenn Sie eine Behörde, Abteilung oder sonstige offizielle Stelle der US-Regierung sind: (a) Sie sind darüber informiert, dass die Software ein „Wirtschaftsgut“ ist, das ausschließlich auf privatwirtschaftliche Kosten entwickelt wurde und aus „kommerzieller Computersoftware“ und „kommerzieller Computersoftware-Dokumentation“ im Sinne der Definition und Nutzung in den gültigen US-amerikanischen Anschaffungsvorschriften besteht und (b) dass die Lizenz für die Software nach dieser Vereinbarung (i) nur als Wirtschaftsgut und (ii) nur mit den Rechten erteilt wird, die auch anderen Lizenznehmern gemäß den Bestimmungen dieser Vereinbarung eingeräumt werden. Sie stimmen zu, dass Sie die Software nur auf die in dieser Vereinbarung ausdrücklich zulässige Weise nutzen, duplizieren oder offenlegen. Durch keine Bestimmung in dieser Vereinbarung ist LEGO System oder einer seiner Lieferanten oder Lizenzgeber zur Bereitstellung oder Vorlage technischer Daten für oder an Sie verpflichtet.
+VIII. GESAMTVEREINBARUNG:
+Sie erklären hiermit, dass Sie diese Lizenzvereinbarung zur Kenntnis genommen haben und mit ihren Bedingungen einverstanden sind. Des Weiteren erklären Sie sich damit einverstanden, dass diese Lizenzvereinbarung die Gesamtheit aller Vereinbarungen zwischen Ihnen und uns darstellt und an Stelle aller vorherigen mündlichen oder schriftlichen Vereinbarungen oder Abreden zwischen Ihnen und uns zum Gegenstand dieser Vereinbarung tritt.
+        Diese Vereinbarung darf nicht verändert werden, außer durch eine schriftliche, von einem LEGO System Vertreter und Ihnen ordnungsgemäß unterschriebene Vereinbarung.</EULAFull>
+  <TOU>Nutzungsbedingungen für LEGO®-Anwendungen
+
+Gültig ab November 2014
+
+EINFÜHRUNG
+Diese Anwendung wird Ihnen von LEGO System A/S, Aastvej 1, DK-7190 Billund, CVR-Nr. (dänisches zentrales Unternehmensregister) 47458714 bereitgestellt.
+LEGO System A/S und alle Unternehmen, die beherrschen, beherrscht werden, verbunden sind oder unter gemeinsamer Beherrschung stehen, werden im Folgenden zusammenfassend als „TLG“, „wir“, „uns“ oder „unser“ bezeichnet.
+Durch Nutzen einer TLG-Anwendung oder durch Setzen eines Hakens in dem dafür vorgesehenen Kästchen erklären Sie Ihr Einverständnis mit diesen Nutzungsbedingungen. Wenn Sie diesen Bedingungen nicht zustimmen, dürfen Sie die TLG-Anwendung nicht nutzen. Unbeschadet der Allgemeingültigkeit des Vorstehenden bestätigen Sie, dass Ihre Zustimmung die Nutzung der TLG-Anwendungen und den Empfang von Daten, Material und Informationen umfasst, die in der TLG-Anwendung selbst oder über diese zur Verfügung stehen.
+
+Für die USA:
+LEGO Education, 501 Boylston Street Suite 4103, Boston Massachusetts, 02116
+Tel.:   1-800-362-4308
+E-mail:   orders@LEGOeducation.us
+
+Für den Rest der Welt:
+LEGO Education Ltd., 3rd Floor Longus House, Newgate Row, Eastgate Street, Chester CH1 1ER, Great Britain
+Tel.:   +44 (0) 800-334-5346
+E-mail:  customer.service@LEGOeducation.eu
+
+VERARBEITUNG PERSONENBEZOGENER DATEN UND VERWENDUNG VON COOKIES
+Unsere Datenschutzbestimmungen und Cookie-Richtlinie sind ein integrierter Bestandteil dieser Nutzungsbedingungen und können abgerufen werden unter: http://www.lego.com/legal/legal-notice/privacy-policy-full und http://www.lego.com/legal/cookieinfo.
+Informationen zur Verarbeitung personenbezogener Daten, die online von Kindern erfasst werden, finden Sie in unseren Datenschutzbestimmungen. Die LEGO Gruppe kann in Bezug auf LEGO® Education WeDo 2.0 aggregierte Daten über die Nutzung eines Produkts erfassen, um die Produktleistung und das Angebot zu verbessern. Die LEGO Gruppe wird unter keinen Umständen personenbezogene Daten über die Nutzer (Lehrkräfte oder Schülerinnen und Schüler) mithilfe von LEGO Education WeDo 2.0 erfassen. (LEGO Education ist ein Geschäftsbereich der LEGO Gruppe und ist verantwortlich für die Produkt- und Lösungsreihen, die unter der Marke „LEGO Education“ vertrieben werden.)
+Dritte, die im Namen von TLG handeln, sind an die gleichen Regeln und Prinzipien wie TLG gebunden.
+
+VERWENDUNG VON INHALTEN
+Alle in einer TLG-Anwendung enthaltenen Informationen, Materialien, Funktionen und sonstigen Inhalte (nachfolgend „Inhalte“) stehen in unserem urheberrechtlich geschützten Eigentum oder im urheberrechtlich geschützten Eigentum unserer Lizenzgeber oder Lizenznehmer. Alle Warenzeichen, Dienstleistungsmarken, Handelsnamen und Handelsaufmachungen stehen in unserem Eigentum bzw. im Eigentum unserer Lizenzgeber oder Lizenznehmer. Wir sind berechtigt, jederzeit, auf jede Weise und ohne Angabe von Gründen Ihren weiteren Zugriff auf die TLG-Anwendung zu beenden, die TLG-Anwendung zu ändern sowie Inhalte oder Funktionen jeglicher Art zu löschen.
+Sie stimmen zu, dass Sie die Inhalte nicht kopieren, verbreiten oder zurückentwickeln und dass Sie die Inhalte nur insofern verwenden, als diese in die Inhalte integriert oder für deren Verwendung erforderlich sind.
+
+KONTEN
+Einige Dienstleistungen der TLG-Anwendung ermöglichen oder erfordern zur Teilnahme oder zur Inanspruchnahme zusätzlicher Vorteile die Einrichtung eines LEGO ID-Kontos. Die Geschäftsbedingungen für LEGO ID finden Sie unter https://account2.lego.com/Terms%20Of%20Service/ShowTOSPage.
+Bei Nichtbeachtung der Geschäftsbedingungen für LEGO ID oder sonstiger besonderer Bedingungen, die mit einer bestimmten Dienstleistung in Zusammenhang stehen, sind wir berechtigt, Ihre Befähigung zur Nutzung einer TLG-Anwendung oder eines Teils derselben vorübergehend auszusetzen oder zu beenden.
+
+VERTREIBER DER ANWENDUNG bzw. VERTRIEBSPLATTFORMEN
+Sie bestätigen, dass die Vereinbarung über diese Nutzungsbedingungen ausschließlich zwischen Ihnen und uns zustande kommt und nicht mit den Vertreibern der Anwendung bzw. mit Vertriebsplattformen wie Apple, Inc., Amazon, Samsung usw. (nachfolgend „Vertreiber der Anwendung“) geschlossen wird. Ausschließlich wir – und nicht die Vertreiber der Anwendung – sind für die TLG-Anwendung und die über diese angebotenen Dienstleistungen und Inhalte verantwortlich. Die Parteien vereinbaren, dass die Vertreiber der Anwendung nicht verpflichtet sind, die TLG-Anwendung in Stand zu halten und unterstützende Dienstleistungen anzubieten.
+Jegliche Gewährleistungspflicht der Vertreiber der Anwendung bezüglich der TLG-Anwendung wird im gesetzlich zulässigen Umfang ausgeschlossen.
+Sie erklären sich damit einverstanden, dass sämtliche Ansprüche, die Ihnen oder Dritten in Zusammenhang mit der TLG-Anwendung oder wegen des Besitzes bzw. der Nutzung derselben zustehen können, uns gegenüber geltend zu machen sind und nicht gegenüber den Vertreibern der Anwendung. Dazu gehören – unter anderem – folgende Ansprüche: (i) Produkthaftungsansprüche; (ii) Ansprüche wegen Verstoßes der TLG-Anwendung gegen jeweils geltende gesetzliche oder behördliche Vorschriften; (iii) Ansprüche aus Verbraucherschutzgesetzen oder ähnlichen Gesetzen.
+Sie erklären sich damit einverstanden, dass wir und nicht die Vertreiber der Anwendung zuständig sind für die Aufklärung, Verteidigung, Einigung und Erfüllung in Bezug auf Ansprüche wegen Verletzung geistiger Eigentumsrechte Dritter, die mit der TLG-Anwendung oder Ihrem Besitz und Ihrer Nutzung derselben in Verbindung stehen.
+Sie versichern, dass (i) Sie nicht in einem Land wohnhaft sind, über das die US-Regierung ein Embargo verhängt hat oder das von der US-Regierung als „Terrorismus unterstützendes Land“ eingestuft wurde; und (ii) dass Sie nicht in einer von der US-Regierung geführten Liste über verbotene Personen oder Personen, die Beschränkungen unterliegen, aufgeführt sind.
+Sie verpflichten sich, bei der Nutzung der TLG-Anwendungen alle gültigen Vertragsbedingungen Dritter zu befolgen (z. B. dürfen Sie beim Einsatz der TLG-Anwendungen nicht gegen die Nutzungsbedingungen Ihres Vertrages über mobile Datendienste verstoßen).
+Die Parteien vereinbaren, dass die Vertreiber der Anwendungen und deren Tochterunternehmen Drittbegünstigte der vorliegenden Nutzungsbedingungen sind. Ihre Zustimmung zu diesen Nutzungsbedingungen berechtigt die Vertreiber der Anwendung, als Drittbegünstigte die Bedingungen dieser Vereinbarung gegen Sie geltend zu machen (die Annahme dieses Rechts durch die Vertreiber wird vorausgesetzt).
+Sie erklären sich damit einverstanden, dass Ihre Nutzung der TLG-Anwendung den Benutzungsvorschriften unterliegt, die der Vertreiber der Anwendung in den für das Herunterladen von Anwendungen jeweils gültigen Dienstleistungsbedingungen festgehalten hat.
+
+FREISTELLUNGSVERPFLICHTUNG
+Sie haften für das Geheimhalten Ihres Benutzernamens/Ihrer Benutzernamen, Ihres Kennworts/Ihrer Kennwörter und Ihres Kontos/Ihrer Konten sowie für alle Aktivitäten, die auf Ihrem Konto/Ihren Konten stattfinden. Im nach anwendbarem Recht zulässigen Umfang verpflichten Sie sich hiermit, uns, unsere Lizenzgeber, Lizenznehmer, Vertreiber, Bevollmächtigten, Vertreter und sonstige befugte Nutzer sowie alle Vertriebspartner, Vertreiber, Dienstleister und Zulieferer der vorgenannten Unternehmen und alle leitenden Angestellten, Geschäftsführer, Eigentümer, Mitarbeiter, Bevollmächtigten, Vertreter und Rechtsnachfolger der vorgenannten Unternehmen (zusammenfassend „die schadlos gehaltenen Parteien“) von jeglicher Verantwortung zu entbinden, zu verteidigen und schadlos zu halten, und zwar in Bezug auf jegliche Verluste, Schäden, Haftung und Kosten (einschließlich der Kosten für das Beilegen von Rechtsstreitigkeiten und sämtliche Rechtsanwaltsgebühren oder andere Gebühren und Ausgaben, die bei der Verteidigung im Rahmen von Klagen oder angedrohten Klagen entstehen), die den schadlos gehaltenen Parteien im Zusammenhang mit einer Forderung entstehen, die sich aus einem Verstoß Ihrerseits gegen diese Nutzungsbedingungen ergibt oder die im Zusammenhang mit Forderungen entstehen, die sich aus Ihrer Nutzung der TLG-Anwendung und/oder Ihres Kontos/Ihrer Konten ergeben. Sie verpflichten sich, uns nach besten Kräften bei der Verteidigung gegen sämtliche Forderungen zu unterstützen. Wir behalten uns das Recht vor, auf unsere Kosten gesonderte Rechtsberatung in Anspruch zu nehmen und die ausschließliche Kontrolle und Verteidigung in allen Angelegenheiten zu übernehmen, die sonst durch Sie entschädigt werden müssten.
+
+Gerichtsstand und anwendbares Recht
+Diese Nutzungsbedingungen unterliegen dem Recht Dänemarks ohne Anwendung des Kollisionsrechts. Sie erklären sich damit einverstanden, dass alle Klagen, die sich aus diesen Nutzungsbedingungen ergeben oder mit diesen oder der TLG-Anwendung in Zusammenhang stehen, ausschließlich in Dänemark einzureichen sind. Weiterhin erkennen Sie die ausschließliche Zuständigkeit der dänischen Gerichte für solche Rechtsstreitigkeiten an. Beachten Sie bitte, dass Sie aufgrund von zwingendem Recht möglicherweise dazu berechtigt sind, in anderen Gerichtsbarkeiten Klage vor Gericht zu erheben. Wir übernehmen keine Gewährleistung dafür, dass der Inhalt der TLG-Anwendungen überall zur Verwendung angemessen oder verfügbar ist. Das Zugreifen auf eine TLG-Anwendung erfolgt auf eigene Initiative und beinhaltet die Haftung für die Beachtung aller einschlägigen Gesetze, einschließlich der jeweils vor Ort geltenden Gesetze.
+
+ÄNDERUNGEN
+Wir können diese Nutzungsbedingungen jederzeit ändern (dazu gehört auch das Abwandeln, Löschen bzw. Hinzufügen von Teilen derselben). Wird eine wesentliche Änderung dieser Nutzungsbedingungen vorgenommen, so werden wir Sie darüber per E-Mail an die diejenige E-Mail-Adresse, die Sie uns zuletzt zur Verfügung gestellt haben, benachrichtigen, und/oder wir werden die Änderung auf den Sites bekannt geben, für die diese Nutzungsbedingungen gelten, oder über die jeweilige Vertriebsplattform der Anwendung oder über die Anwendung selbst. Alle Änderungen dieser Nutzungsbedingungen treten dreißig (30) Kalendertage nach Senden unserer E-Mail an Sie in Kraft. Durch ein Verwenden der Anwendung nach diesem Zeitraum von dreißig (30) Kalendertagen willigen Sie in alle wesentlichen Änderungen ein. Wir weisen Sie darauf hin, dass Sie dafür verantwortlich sind, Ihre persönlichen Angaben stets auf dem neuesten Stand zu halten, damit wir über Ihre jeweils aktuelle E-Mail-Adresse verfügen. Sollte die letzte E-Mail-Adresse, die Sie uns zur Verfügung gestellt haben, ungültig sein oder kann über diese aus einem sonstigen Grund die vorstehend erwähnte Nachricht nicht an Sie gesendet werden, so gelten mit dem Senden unserer E-Mail, welche die erwähnte Information für Sie enthält, trotzdem alle in der Nachricht beschriebenen Änderungen als wirksam bekannt gegeben.</TOU>
+  <LobbyTitleEULA>Endbenutzer-Lizenzvertrag</LobbyTitleEULA>
+  <LobbyTitleLegoWedo>LEGO WeDo</LobbyTitleLegoWedo>
+  <LobbyInfoVersion>Version</LobbyInfoVersion>
+  <LobbyInfoLanguageSelect>Sprachen</LobbyInfoLanguageSelect>
+  <LobbyInfoPrivacyPolicy>Datenschutzerklärung</LobbyInfoPrivacyPolicy>
+  <LobbyInfoTOU>Nutzungsbedingungen</LobbyInfoTOU>
+  <LobbyInfoCookiePolicy>Cookies-Richtlinien</LobbyInfoCookiePolicy>
+  <LobbyInfoTeacherGuide>Lehrerhandreichung</LobbyInfoTeacherGuide>
+  <LobbyInfoTeacherGuideLinkDescription>Drücken Sie hier, um weitergeleitet zu werden</LobbyInfoTeacherGuideLinkDescription>
+  <LobbyInfoTeacherGuideTitle>Lehrerhandreichung</LobbyInfoTeacherGuideTitle>
+  <LobbyInfoTeacherGuideLinkURL>http://cache.lego.com/bigdownloads/buildinginstructions/6109825.pdf</LobbyInfoTeacherGuideLinkURL>
+  <StartupScreenEnterPassword>Bitte Passwort eingeben:</StartupScreenEnterPassword>
+  <StartupScreenDontHavePassword>Ich habe kein Passwort</StartupScreenDontHavePassword>
+  <StartupScreenDontHavePasswordDescription>Die Anwendung wurde zu pädagogischen Zwecken entwickelt und erfordert die Anschaffung der LEGO® Education WeDo 2.0 Software. Wenden Sie sich für weitere Informationen an einen LEGO® Education Händler in Ihrer Nähe.
+
+Nach der Aktivierung Ihrer WeDo 2.0-Softwareprodukte auf www.LEGOEducation.com/LERO finden Sie den Code für Ihre Anwendung auf der Seite des WeDo-Softwareprodukts.</StartupScreenDontHavePasswordDescription>
+  <ButtonSubmit>Absenden</ButtonSubmit>
+  <ButtonOK>OK</ButtonOK>
+  <ButtonCancel>Abbrechen</ButtonCancel>
+  <UpdateCheckUpdatesAvailable>Für deine Software ist eine Aktualisierung verfügbar.</UpdateCheckUpdatesAvailable>
+  <UpdateWindows10Title>Warning</UpdateWindows10Title>
+  <UpdateWindows10Text>Damit diese Anwendung funktioniert, ist ein wichtiges Update für Windows 10 erforderlich. Bitte installieren Sie die neueste Version von Windows 10.</UpdateWindows10Text>
+  <Windows10BLENotFound>In Ihrem System konnte kein Gerät gefunden werden, das Bluetooth Low Energy unterstützt.
+Bitte schließen Sie einen unterstützten Dongle an.</Windows10BLENotFound>
+  <Windows10ContinueWithoutBLE>Fortfahren und App ohne Bluetooth-Unterstützung verwenden</Windows10ContinueWithoutBLE>
+  <Windows10BLENotFoundPopup>In Ihrem System konnte kein Gerät gefunden werden, das Bluetooth Low Energy unterstützt.</Windows10BLENotFoundPopup>
+  <LobbyInfoOnlineContentError>Bitte entschuldigen Sie. Es liegt offenbar ein Netzwerkproblem vor. Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.</LobbyInfoOnlineContentError>
+  <LobbyInfoLanguageTitle>Bevorzugte Sprache auswählen</LobbyInfoLanguageTitle>
+  <LobbyInfoLanguageDescription>Die Sprachauswahl bestimmt, in welcher Sprache die Projektbibliothek, Konstruktionsbibliothek, Hilfe und Einstellungen angezeigt werden.</LobbyInfoLanguageDescription>
+  <LobbyInfoTeacherGuidePageTitle>Online-Zugriff auf die Lehrerhandreichungen</LobbyInfoTeacherGuidePageTitle>
+  <LobbyInfoTeacherGuidePageDescription>Die Lehrerhandreichungen sind im Internet abrufbar. Wenn Sie offline darauf zugreifen möchten, speichern Sie die jeweilige PDF-Datei auf Ihrem Gerät.</LobbyInfoTeacherGuidePageDescription>
+  <LobbyInfoAboutPageTitle>Nutzungsbedingungen und Datenschutzrichtlinie</LobbyInfoAboutPageTitle>
+  <LobbyInfoAboutPageDescription>Die Cookie- und Datenschutzrichtlinien der LEGO Gruppe sind im Internet abrufbar.</LobbyInfoAboutPageDescription>
+  <LobbyInfoAbout>Über</LobbyInfoAbout>
+  <LocationSettingNeedsToBeEnabledButtonPositive>Einstellungen öffnen</LocationSettingNeedsToBeEnabledButtonPositive>
+  <PleaseEnableBluetoothButtonPositive>Bluetooth aktivieren.</PleaseEnableBluetoothButtonPositive>
+  <LocationSettingNeedsToBeEnabled>Damit Bluetooth richtig funktioniert, benötigt LEGO® Education WeDo 2.0 Zugriff auf den Standort deines Geräts.</LocationSettingNeedsToBeEnabled>
+  <PleaseEnableBluetooth>Bitte aktivieren Sie Bluetooth, um eine Verbindung mit Ihrem Gerät bzw. Ihren Geräten herzustellen.</PleaseEnableBluetooth>
+  <OnboardingWelcome>Willkommen bei der Einführung zu
+LEGO® Education WeDo 2.0</OnboardingWelcome>
+  <OnboardingSkip>SKIP</OnboardingSkip>
+  <OnboardingBuildModel>Baue dein LEGO® Modell. Verbinde
+es dann mit deinem Gerät.</OnboardingBuildModel>
+  <OnboardingBuildCode>Erstelle ein eigenes Programm, indem
+du die Programmier-Blöcke zusammenfügst.</OnboardingBuildCode>
+  <OnboardingPressPlay>Drücke auf den Start-Block, um dein
+LEGO® Modell zum Leben zu erwecken.</OnboardingPressPlay>
+  <OnboardingIntroductionActivities>Leg los mit diesen vier
+kurzen und einfachen Aufgaben.</OnboardingIntroductionActivities>
+  <OnboardingGetStarted>Los geht’s!</OnboardingGetStarted>
+  <LobbyCreateProjectHelp>Tippe auf das Buch, um dein erstes WeDo 2.0 Projekt anzulegen.</LobbyCreateProjectHelp>
+  <LobbyReplayIntroduction>Einführung noch einmal zeigen</LobbyReplayIntroduction>
+  <LobbySettingsHelp>Die Anleitung für Lehrkräfte befindet sich in der Einstellungsleiste.</LobbySettingsHelp>
+  <SettingsOnboardingTitle>Einführung</SettingsOnboardingTitle>
+  <SettingsOnboardingSubTitle>Wähle die Einstellung für die WeDo 2.0 Einführung aus.</SettingsOnboardingSubTitle>
+  <SettingsOnboardingDescription>In der Einführung lernst du, wie WeDo 2.0 funktioniert. Du kannst die Einführung hier einschalten und ausschalten.</SettingsOnboardingDescription>
+  <SettingsOnboardingOption>Einführung beim Starten der WeDo 2.0 App anzeigen.</SettingsOnboardingOption>
+  <SettingsOnboardingLink>Auf legoeducation.de gibt es zusätzliche Unterstützung für Lehrkräfte und weitere Unterrichtsmaterialien.</SettingsOnboardingLink>
+  <ConnectionPanelChooseSmartHub>Smarthub auswählen</ConnectionPanelChooseSmartHub>
+  <ConnectionPanelBackToProject>Zurück zum Projekt</ConnectionPanelBackToProject>
+  <EULAAddition>IX. VERSCHIEDENES:
+Bluetooth® ist eine Marke von Bluetooth SIG, Inc.
+
+angular.js – Copyright (c) 2010–2015 Google, Inc., lizenziert unter The MIT License an LEGO System A/S
+
+Bootstrap – Copyright (c) 2011–2015 Twitter, Inc, lizenziert unter The MIT License an LEGO System A/S
+
+Font-Awesome und Hammerjs – Copyright (C) 2011–2014 von Jorik Tangelder (Eight Media), beide lizenziert unter The MIT License an LEGO System A/S
+Hammer.js für Angular.js – Copyright (c) 2014 von Ryan S Mullins, lizenziert unter The MIT License an LEGO System A/S
+Audio Recording:
+License Type: MIT
+We are currently using RecordRTC (http://recordrtc.org/RecordRTC.html) for recording video and sound.
+
+Synchronisation:
+License Type: Apache License 2.0.
+The only third-party library I'm using on Chrome OS is this one:
+https://github.com/GoogleChrome/chrome-app-samples/tree/master/libraries/gapi-chrome-apps-lib
+
+Roboto Font: Copyright 2011 Google Inc. Licensed under the Apache License, Version 2.0 - http://www.apache.org/licenses/LICENSE-2.0
+MediaCaptureWPF: Licensed under the Apache License Version 2.0, January 2004 - http://www.apache.org/licenses/LICENSE-2.0
+
+Ende der Endbenutzer-Lizenzvereinbarung</EULAAddition>
+  <LobbyInfoLobby>Startseite</LobbyInfoLobby>
+  <LobbyQuickStartProjectTitle>Neu bei WeDo 2.0</LobbyQuickStartProjectTitle>
+  <LobbyQuickStartProjectButton>Mein erstes Projekt</LobbyQuickStartProjectButton>
+  <LobbyTeacherResourcesButtonTitle>Hinweise für Lehrkräfte</LobbyTeacherResourcesButtonTitle>
+  <LobbyTeacherResourcesButtonSubtitle>Hier klicken, um nützliche Tipps und Links anzuzeigen</LobbyTeacherResourcesButtonSubtitle>
+  <LobbyClassroomProjectsButtonTitle>Projekte für den Unterricht</LobbyClassroomProjectsButtonTitle>
+  <LobbyClassroomProjectsButtonSubtitle>Hier klicken, um spannende Lerneinheiten anzuzeigen</LobbyClassroomProjectsButtonSubtitle>
+  <LobbyUserProjectsAreaTitle>Meine Projekte</LobbyUserProjectsAreaTitle>
+  <ButtonYes>Ja</ButtonYes>
+  <ButtonNo>Nein</ButtonNo>
+  <LobbyDeleteSingleProjectsDialog>Soll dieses Projekt wirklich gelöscht werden?</LobbyDeleteSingleProjectsDialog>
+  <LobbyProjectAgeDays>vor _LOBBY_PROJECT_AGE_ Tagen</LobbyProjectAgeDays>
+  <LobbyProjectAgeHours>vor _LOBBY_PROJECT_AGE_ Stunden</LobbyProjectAgeHours>
+  <LobbyDefaultProjectName>Projekt</LobbyDefaultProjectName>
+  <LoadingScreenStartup>Wird gestartet ...</LoadingScreenStartup>
+  <LoadingScreenFull>Wird geladen ...</LoadingScreenFull>
+  <LoadingScreenContent>Bitte warten ...</LoadingScreenContent>
+  <LoadingScreenModel>Einen Moment bitte ...</LoadingScreenModel>
+  <LobbyInfoLobbyPageTitle>Startseite verwalten</LobbyInfoLobbyPageTitle>
+  <LobbyInfoLobbyPageDescription>Ist die Startseite zu unübersichtlich geworden? Durch Klicken auf „Meine Projekte löschen“ können alle selbst erstellten Projekte von der Startseite entfernt werden.</LobbyInfoLobbyPageDescription>
+  <LobbyInfoLobbyPageDeleteAllProjectsButton>Meine Projekte löschen</LobbyInfoLobbyPageDeleteAllProjectsButton>
+  <LobbyDeleteAllProjectsDialogLocal>Sollen wirklich all Ihre Projekte gelöscht werden?</LobbyDeleteAllProjectsDialogLocal>
+  <LobbyDeleteAllProjectsDialogGoogleDrive>Sollen wirklich alle Projekte in diesem Google-Konto gelöscht werden?</LobbyDeleteAllProjectsDialogGoogleDrive>
+  <TeacherResourcesPage1Title>Stellen Sie mit Ihrer Klasse einige Regeln für die Verwendung der WeDo-2.0-Set auf.</TeacherResourcesPage1Title>
+  <TeacherResourcesPage2Title>Teilen Sie die Schüler/-innen in Zweier-Gruppen ein. Geben Sie jeder Gruppe ein WeDo 2.0 Set.</TeacherResourcesPage2Title>
+  <TeacherResourcesPage3Title>Ermutigen Sie die Schüler/-innen die Themen zu erforschen und Modelle zu bauen.</TeacherResourcesPage3Title>
+  <TeacherResourcesPage4Title>Geben Sie den Kindern Zeit herumzutüfteln und ihre Konstruktionen zu verändern. Es ist nicht schlimm, wenn Sie nicht alle Aktivitäten in einer Unterrichtseinheit abgeschlossen haben.</TeacherResourcesPage4Title>
+  <TeacherResourcesPage5Title>Bewahren Sie „verlorene und gefundene“ LEGO Steine in einer Fundkiste auf.</TeacherResourcesPage5Title>
+  <TeacherResourcesPage6Title>Klicken Sie auf eines der Symbole, um online weitere Informationen aufzurufen.</TeacherResourcesPage6Title>
+  <TeacherResourcesLink1Title>Handreichung für Lehrkräfte</TeacherResourcesLink1Title>
+  <TeacherResourcesLink2Title>Unterrichtspläne</TeacherResourcesLink2Title>
+  <TeacherResourcesLink3Title>Support</TeacherResourcesLink3Title>
+  <RenameHubTitle>Bitte geben Sie dem Smarthub einen anderen Namen.</RenameHubTitle>
+  <RenameHubDescription>Für eine einfachere Unterrichtsgestaltung empfehlen wir, den Smarthub mit demselben Namen zu benennen, der auf der Kennzeichnung auf dem Smarthub zu finden ist.</RenameHubDescription>
+  <RenameHubYesButton>Smarthub umbenennen</RenameHubYesButton>
+  <RenameHubCancelButton>Jetzt nicht</RenameHubCancelButton>
+  <TeacherResourcesSlidesButton>Tipps und Tricks für das Klassenzimmer</TeacherResourcesSlidesButton>
+</strings>

@@ -1,0 +1,46 @@
+{
+   "appDesc": {
+      "description": "Beskrivelse af appen, som den vises i app-butikken.",
+      "message": "Appen LEGO® Education WeDo 2.0 giver elever mulighed for at udforske spændende naturvidenskabelige projekter."
+   },
+   "appName": {
+      "description": "Titlen på appen, som den vises i app-butikken.",
+      "message": "WeDo 2.0 LEGO® Education"
+   },
+   "appShortName": {
+      "description": "Titlen på appen, som den vises i app-butikken.",
+      "message": "WeDo 2.0"
+   },
+   "closeApp": {
+      "description": "Tekst til Luk-knappen på ikke-understøttede platforme",
+      "message": "Luk app"
+   },
+   "unsupportedOSMessage": {
+      "description": "Vist meddelelse, hvis operativsystemet ikke understøttes",
+      "message": "Dette er en Chromebook-app. Besøg din app-butik for at få LEGO® Education WeDo 2.0 til din enhed"
+   },
+   "updateAfterRestart": {
+      "description": "Button text for 'After restart' button",
+      "message": "After restart"
+   },
+   "updateAvailable": {
+      "description": "The message for users when an update is available while running the app",
+      "message": "There is an update available with version: \u003Cb>$NEW_VERSION$\u003C/b>, you are currently running: \u003Cb>$CURRENT_VERSION$\u003C/b>.\u003Cbr>\u003Cbr>When would you like to update?",
+      "placeholders": {
+         "CURRENT_VERSION": {
+            "content": "$2"
+         },
+         "NEW_VERSION": {
+            "content": "$1"
+         }
+      }
+   },
+   "updateHeader": {
+      "description": "Header for the update message box",
+      "message": "Update available"
+   },
+   "updateNow": {
+      "description": "Button text for 'Update now' button",
+      "message": "Update now"
+   }
+}

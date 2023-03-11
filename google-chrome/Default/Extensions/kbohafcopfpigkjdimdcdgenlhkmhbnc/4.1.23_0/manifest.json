@@ -1,0 +1,41 @@
+{
+   "author": "hapara",
+   "background": {
+      "persistent": true,
+      "scripts": [ "webpack/background-d26f10869ef6de7e547a.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "38": "icons/icon38.png"
+      },
+      "default_title": "__MSG_extName__"
+   },
+   "content_security_policy": "script-src 'self' https://www.gstatic.com/ https://*.firebaseio.com https://www.googleapis.com https://*.pusher.com https://securetoken.googleapis.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "differential_fingerprint": "1.0a79802896172f8b2c111c2f03e9a62cad61d4b3475fc3866ced36510537def3",
+   "externally_connectable": {
+      "ids": [ "*" ],
+      "matches": [ "https://workspace-test.teacherdashboard.com/*" ]
+   },
+   "gcm_sender_id": "103953800507",
+   "homepage_url": "http://hapara.com/",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh8XZ+PuYP4bWeFGkXvoqwv/70TWGeGwF/fzJj43v7BR9Su1xDWukdZ3aMZrewJdBROMrN5tucEx2dgexjgfszloiirJB+aXKVVR3U2ZZ28SZ+pGiNNuCMlyi/RsRkHL0B2p1wZpq+DKn9HdBpkiPAvf7tpXzzT3YukFoZXWS0y9zsdD75KS9FDgvpaQ5cA4lXtih6NwV7AXwG6y9VpvyBiXo7wADkAxRS1Kuoo4/gzVnNaiG2l14+Pi52tM1qPDMI5ZEnlozJM/uHwEJvGnZ71jWV4tThmBjkeYW1lMFEgtP50P+qA5dQlyPVdqgm3rbOKXG9hUUX8U8uzwCmliMVQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "28",
+   "name": "__MSG_extName__",
+   "oauth2": {
+      "client_id": "545638117049-56718o12ldq2k7hsi70ac9nnelt3erg4.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/userinfo.email" ]
+   },
+   "permissions": [ "\u003Call_urls>", "file://*/*", "identity", "identity.email", "notifications", "tabs", "webRequest", "webNavigation", "webRequestBlocking", "storage", "gcm", "idle" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.1.23",
+   "web_accessible_resources": [ "test/*", "webpack/test.js", "highlights-message-reply.html", "diagnostics.html", "frozen.html", "popup-message.html", "closed.html", "blocked_urls.html", "blocked.html" ]
+}

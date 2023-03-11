@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.vatefaireconjuguer.com/"
+      },
+      "urls": [ "http://www.vatefaireconjuguer.com/" ]
+   },
+   "default_locale": "fr",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDFOBRqKPwdBA2Mcasi5rL84KtGD03wwU/0siaxogk9IkW6xJ4M7pbXP6yrMPbxFhymjCkwcxE233UF5W9SBIGPjUBUfAPON4nwB8iCyrMlFh3aY5ZPEVl81/zRq2pzeViPpGL3BwylL/o//3VStIIgHztzTtJmtTAvr1ijsecWcQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [  ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5.6"
+}
